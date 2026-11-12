@@ -8,7 +8,10 @@ function Exec-TV($cmd) {
     return $res
 }
 
-$htmlPath = "$PSScriptRoot\CustomHomeApp\index.html"
+$htmlPath = "$PSScriptRoot\..\index.html"
+if (-not (Test-Path $htmlPath)) {
+    $htmlPath = "C:\Users\HomeSweetHome\.gemini\antigravity\brain\aaaf9a32-67f7-4f6b-90af-05336be252ec\scratch\CustomHomeApp\index.html"
+}
 $bytes = [System.IO.File]::ReadAllBytes($htmlPath)
 $b64 = [Convert]::ToBase64String($bytes)
 

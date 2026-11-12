@@ -54,23 +54,46 @@
             justify-content: space-between;
             align-items: center;
         }
-        .brand {
+        /* Citation Inspirante du Jour */
+        .quote-header {
             display: flex;
-            align-items: center;
+            flex-direction: column;
+            justify-content: center;
+            max-width: 1080px;
+            min-height: 60px;
         }
-        .brand-dot {
-            width: 10px;
-            height: 10px;
-            border-radius: 5px;
+        .quote-row {
+            display: flex;
+            align-items: baseline;
+            gap: 12px;
+        }
+        .quote-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 4px;
             background-color: #38bdf8;
-            box-shadow: 0 0 12px rgba(56, 189, 248, 0.8);
-            margin-right: 14px;
+            box-shadow: 0 0 10px rgba(56, 189, 248, 0.85);
+            flex-shrink: 0;
+            align-self: center;
         }
-        .brand-title {
-            font-size: 32px;
-            font-weight: 800;
-            letter-spacing: 0.3px;
-            color: #f8fafc;
+        .quote-text {
+            font-size: 24px;
+            font-weight: 600;
+            color: #f1f5f9;
+            letter-spacing: 0.2px;
+            font-style: italic;
+            line-height: 1.35;
+            text-shadow: 0 2px 8px rgba(0, 0, 0, 0.45);
+        }
+        .quote-author {
+            font-size: 16px;
+            font-weight: 500;
+            color: #94a3b8;
+            margin-top: 3px;
+            margin-left: 20px;
+            letter-spacing: 0.4px;
+            font-style: normal;
+            text-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
         }
 
         .header-right {
@@ -362,7 +385,6 @@
             text-align: center;
             box-sizing: border-box;
             border-radius: inherit;
-        }
         }
         .fallback-letter {
             font-size: 56px;
@@ -688,9 +710,12 @@
     <div id="ambientBgB" class="ambient-backdrop"></div>
 
     <header>
-        <div class="brand">
-            <div class="brand-dot"></div>
-            <div class="brand-title" id="greetingText">Bonsoir</div>
+        <div class="quote-header">
+            <div class="quote-row">
+                <span class="quote-dot"></span>
+                <span class="quote-text" id="quoteText">...</span>
+            </div>
+            <div class="quote-author" id="quoteAuthor"></div>
         </div>
 
         <div class="header-right">
@@ -1351,21 +1376,114 @@
             testImg.src = src;
         }
 
-        function updateGreeting() {
-            var now = new Date();
-            var hour = now.getHours();
-            var greeting = "Bonjour";
-            if (hour >= 18 && hour < 23) {
-                greeting = "Bonsoir";
-            } else if (hour >= 23 || hour < 5) {
-                greeting = "Bon visionnage";
-            } else if (hour >= 12 && hour < 18) {
-                greeting = "Bon après-midi";
-            } else {
-                greeting = "Bonjour";
+        // Citations inspirantes et philosophiques du jour (Tirage sans remise / Deck Fisher-Yates)
+        var PHILO_QUOTES = [
+            { text: "Ce qui ne me détruit pas me rend plus fort.", author: "Friedrich Nietzsche" },
+            { text: "Hâte-toi de bien vivre et songe que chaque jour est à lui seul une vie.", author: "Sénèque" },
+            { text: "Le bonheur de votre vie dépend de la qualité de vos pensées.", author: "Marc Aurèle" },
+            { text: "Connais-toi toi-même.", author: "Socrate" },
+            { text: "Le plus grand voyageur n'est pas celui qui a fait dix fois le tour du monde, mais celui qui a fait une seule fois le tour de lui-même.", author: "Gandhi" },
+            { text: "Un voyage de mille lieues commence toujours par un premier pas.", author: "Lao Tseu" },
+            { text: "Il n'y a point de chemin vers le bonheur, le bonheur est le chemin.", author: "Bouddha" },
+            { text: "Exige beaucoup de toi-même et attends peu des autres.", author: "Confucius" },
+            { text: "L'essentiel est invisible pour les yeux, on ne voit bien qu'avec le cœur.", author: "Antoine de Saint-Exupéry" },
+            { text: "Au milieu de l'hiver, j'ai découvert en moi un invincible été.", author: "Albert Camus" },
+            { text: "La vie, ce n'est pas d'attendre que l'orage passe, c'est d'apprendre à danser sous la pluie.", author: "Sénèque" },
+            { text: "Sois le changement que tu veux voir dans ce monde.", author: "Gandhi" },
+            { text: "Ce ne sont pas les choses qui nous troublent, mais le jugement que nous portons sur elles.", author: "Épictète" },
+            { text: "La simplicité est la sophistication suprême.", author: "Léonard de Vinci" },
+            { text: "Celui qui a un pourquoi qui lui tient lieu de but peut vivre avec n'importe quel comment.", author: "Friedrich Nietzsche" },
+            { text: "Rien de grand ne s'est accompli dans le monde sans passion.", author: "Georg Wilhelm Friedrich Hegel" },
+            { text: "Que la force me soit donnée de supporter ce qui ne peut être changé et le courage de changer ce qui peut l'être.", author: "Marc Aurèle" },
+            { text: "Le sage ne dit pas ce qu'il sait, et l'insensé ne sait pas ce qu'il dit.", author: "Proverbe oriental" },
+            { text: "Dans vingt ans, vous serez plus déçus par les choses que vous n'avez pas faites que par celles que vous avez faites.", author: "Mark Twain" },
+            { text: "La plus grande gloire n'est pas de ne jamais tomber, mais de se relever à chaque chute.", author: "Confucius" },
+            { text: "La vie est courte, l'art est long, l'occasion fugitive, l'expérience trompeuse, le jugement difficile.", author: "Hippocrate" },
+            { text: "Il n'y a qu'un devoir, c'est d'aimer.", author: "Albert Camus" },
+            { text: "Ne cherchez point le bonheur loin de vous, il est en vous-même.", author: "Jean-Jacques Rousseau" },
+            { text: "Le secret du changement, c'est de concentrer toute son énergie non pas à lutter contre le passé, mais à construire l'avenir.", author: "Socrate" },
+            { text: "On ne subit pas l'avenir, on le fait.", author: "Georges Bernanos" },
+            { text: "Vivre, ce n'est pas respirer, c'est agir.", author: "Jean-Jacques Rousseau" },
+            { text: "L'ignorant affirme, le savant doute, le sage réfléchit.", author: "Aristote" },
+            { text: "Tout ce que l'esprit d'un homme peut concevoir et croire, il peut l'accomplir.", author: "Napoleon Hill" },
+            { text: "Fais de ta vie un rêve, et d'un rêve, une réalité.", author: "Antoine de Saint-Exupéry" },
+            { text: "Il faut imaginer Sisyphe heureux.", author: "Albert Camus" },
+            { text: "La mesure de l'intelligence est la capacité de changer.", author: "Albert Einstein" },
+            { text: "Celui qui déplace une montagne commence par déplacer de petites pierres.", author: "Confucius" },
+            { text: "N'attends pas que les événements arrivent comme tu le souhaites ; décide de vouloir ce qui arrive et tu seras heureux.", author: "Épictète" },
+            { text: "Chaque homme porte la forme entière de l'humaine condition.", author: "Michel de Montaigne" },
+            { text: "La liberté consiste à faire ce que l'on désire.", author: "John Stuart Mill" },
+            { text: "Même la nuit la plus sombre prendra fin et le soleil se lèvera.", author: "Victor Hugo" },
+            { text: "La vraie générosité envers l'avenir consiste à tout donner au présent.", author: "Albert Camus" },
+            { text: "La joie est le passage de l'homme d'une moindre à une plus grande perfection.", author: "Baruch Spinoza" },
+            { text: "Le doute est le commencement de la sagesse.", author: "René Descartes" },
+            { text: "L'espérance est un risque à courir.", author: "Georges Bernanos" },
+            { text: "Qui regarde dehors rêve ; qui regarde à l'intérieur s'éveille.", author: "Carl Gustav Jung" },
+            { text: "Sois fidèle à toi-même, et il s'ensuivra, comme la nuit suit le jour, que tu ne seras faux envers personne.", author: "William Shakespeare" },
+            { text: "Le destin n'est pas une question de chance, c'est une question de choix.", author: "William Jennings Bryan" },
+            { text: "Le temps que vous aimez gaspiller n'est pas du temps perdu.", author: "Bertrand Russell" },
+            { text: "L'art de vivre consiste à savoir danser sur les braises sans se brûler les pieds.", author: "Proverbe perse" },
+            { text: "Chaque coup de colère est un coup de vieux, chaque sourire est un coup de jeune.", author: "Proverbe chinois" },
+            { text: "Rien n'est permanent dans ce monde cruel, pas même nos soucis.", author: "Charlie Chaplin" },
+            { text: "Il est bien plus difficile de se juger soi-même que de juger autrui.", author: "Antoine de Saint-Exupéry" },
+            { text: "L'esprit intuitif est un don sacré et l'esprit rationnel est un serviteur fidèle.", author: "Albert Einstein" },
+            { text: "La beauté sauvera le monde.", author: "Fiodor Dostoïevski" },
+            { text: "Agis de telle sorte que la maxime de ta volonté puisse toujours valoir comme loi universelle.", author: "Emmanuel Kant" },
+            { text: "Ce n'est pas parce que les choses sont difficiles que nous n'osons pas, c'est parce que nous n'osons pas qu'elles sont difficiles.", author: "Sénèque" },
+            { text: "Tu as du pouvoir sur ton esprit, pas sur les événements extérieurs. Comprends cela, et tu trouveras ta force.", author: "Marc Aurèle" },
+            { text: "Il n'existe que deux jours dans l'année où l'on ne peut rien faire : hier et demain.", author: "Dalaï-Lama" },
+            { text: "Pense par toi-même et laisse les autres jouir du privilège de faire de même.", author: "Voltaire" },
+            { text: "Soyez vous-même, tous les autres sont déjà pris.", author: "Oscar Wilde" },
+            { text: "La meilleure façon de prédire l'avenir, c'est de le créer.", author: "Peter Drucker" },
+            { text: "Tout semble toujours impossible jusqu'à ce que ce soit fait.", author: "Nelson Mandela" },
+            { text: "Pour vivre une vie heureuse, attachez-la à un but, non pas à des personnes ou des choses.", author: "Albert Einstein" },
+            { text: "Le seul moyen de se délivrer d'une tentation, c'est d'y céder.", author: "Oscar Wilde" },
+            { text: "La porte du changement ne peut s'ouvrir que de l'intérieur.", author: "Jacques Salomé" },
+            { text: "Ce qui est passé est mort ; ce qui est à venir n'est pas encore né ; vis maintenant.", author: "Rumi" },
+            { text: "La patience a beaucoup plus de pouvoir que la force.", author: "Plutarque" },
+            { text: "Ce que tu cherches te cherche aussi.", author: "Rumi" }
+        ];
+
+        function getNextQuote() {
+            var deckKey = 'custom_home_quotes_deck';
+            var deck = [];
+            try {
+                var saved = localStorage.getItem(deckKey);
+                if (saved) deck = JSON.parse(saved);
+            } catch(e) {
+                deck = [];
             }
-            var el = document.getElementById('greetingText');
-            if (el) el.textContent = greeting;
+            if (!Array.isArray(deck) || deck.length === 0) {
+                deck = [];
+                for (var i = 0; i < PHILO_QUOTES.length; i++) deck.push(i);
+                for (var j = deck.length - 1; j > 0; j--) {
+                    var r = Math.floor(Math.random() * (j + 1));
+                    var tmp = deck[j];
+                    deck[j] = deck[r];
+                    deck[r] = tmp;
+                }
+            }
+            var quoteIdx = deck.pop();
+            try {
+                localStorage.setItem(deckKey, JSON.stringify(deck));
+            } catch(e) {}
+            if (quoteIdx == null || quoteIdx < 0 || quoteIdx >= PHILO_QUOTES.length) {
+                quoteIdx = Math.floor(Math.random() * PHILO_QUOTES.length);
+            }
+            return PHILO_QUOTES[quoteIdx];
+        }
+
+        var currentQuote = null;
+
+        function updateQuote(forceNext) {
+            if (forceNext || !currentQuote) {
+                currentQuote = getNextQuote();
+            }
+            if (!currentQuote) return;
+            var textEl = document.getElementById('quoteText');
+            var authorEl = document.getElementById('quoteAuthor');
+            if (textEl) textEl.textContent = '« ' + currentQuote.text + ' »';
+            if (authorEl) authorEl.textContent = '— ' + currentQuote.author;
         }
 
         function updateClock() {
@@ -1377,11 +1495,11 @@
             var days = ['Dimanche','Lundi','Mardi','Mercredi','Jeudi','Vendredi','Samedi'];
             var months = ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'];
             document.getElementById('date').textContent = days[now.getDay()] + ' ' + now.getDate() + ' ' + months[now.getMonth()];
-            updateGreeting();
         }
         setInterval(updateClock, 15000);
         setInterval(refreshMetrics, 15000);
         updateClock();
+        updateQuote(true);
 
         // Météo en direct (Open-Meteo)
         function getWeatherWmoInfo(code, isDay) {
@@ -1927,6 +2045,7 @@
                 }
                 updateHeaderTitle();
                 updateClock();
+                updateQuote(true);
                 fetchWeather();
                 refreshMetrics();
                 scheduleAutoClean();
