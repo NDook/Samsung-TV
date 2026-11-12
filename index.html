@@ -1,0 +1,2053 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=1920, height=1080, initial-scale=1.0">
+    <title>Mon Accueil TV</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            user-select: none;
+            -webkit-font-smoothing: antialiased;
+        }
+        body {
+            width: 1920px;
+            height: 1080px;
+            overflow: hidden;
+            font-family: sans-serif;
+            background-color: #06090e;
+            color: #ffffff;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            padding: 44px 72px 32px 72px;
+            position: relative;
+        }
+
+        /* Fonds d'ambiance dynamiques réactifs aux applications (GPU 60fps) */
+        .ambient-backdrop {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 1920px;
+            height: 1080px;
+            pointer-events: none;
+            z-index: 1;
+            opacity: 0;
+            transform: translate3d(0, 0, 0);
+            transition: opacity 300ms ease-out;
+            will-change: opacity;
+        }
+        .ambient-backdrop.active {
+            opacity: 1;
+        }
+
+        header, main, footer, .catalog-modal, .toast {
+            position: relative;
+            z-index: 10;
+        }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .brand {
+            display: flex;
+            align-items: center;
+        }
+        .brand-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 5px;
+            background-color: #38bdf8;
+            box-shadow: 0 0 12px rgba(56, 189, 248, 0.8);
+            margin-right: 14px;
+        }
+        .brand-title {
+            font-size: 32px;
+            font-weight: 800;
+            letter-spacing: 0.3px;
+            color: #f8fafc;
+        }
+
+        .header-right {
+            display: flex;
+            align-items: center;
+            gap: 26px;
+        }
+
+        /* Widget Météo */
+        .weather-box {
+            display: flex;
+            align-items: center;
+            gap: 14px;
+            background: rgba(255, 255, 255, 0.04);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 20px;
+            padding: 8px 20px;
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.35);
+        }
+        .weather-icon {
+            font-size: 34px;
+            line-height: 1;
+            filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.4));
+        }
+        .weather-details {
+            display: flex;
+            flex-direction: column;
+        }
+        .weather-temp-row {
+            display: flex;
+            align-items: baseline;
+            gap: 8px;
+        }
+        .weather-temp {
+            font-size: 28px;
+            font-weight: 800;
+            color: #f8fafc;
+            line-height: 1;
+        }
+        .weather-condition {
+            font-size: 15px;
+            font-weight: 600;
+            color: #38bdf8;
+        }
+        .weather-city {
+            font-size: 11px;
+            font-weight: 700;
+            color: #64748b;
+            text-transform: uppercase;
+            letter-spacing: 0.6px;
+            margin-top: 2px;
+        }
+
+        .header-divider {
+            width: 1px;
+            height: 48px;
+            background: rgba(255, 255, 255, 0.1);
+        }
+
+        .clock-box {
+            text-align: right;
+        }
+        .time {
+            font-size: 64px;
+            font-weight: 700;
+            line-height: 1;
+            color: #f8fafc;
+        }
+        .date {
+            font-size: 22px;
+            color: #64748b;
+            margin-top: 6px;
+            text-transform: capitalize;
+        }
+
+        .dock-wrapper {
+            margin: auto 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+        }
+        .selected-title {
+            font-size: 44px;
+            font-weight: 700;
+            color: #f8fafc;
+            height: 60px;
+            margin-bottom: 14px;
+            letter-spacing: 0.5px;
+            text-align: center;
+        }
+        .edit-banner {
+            height: 44px;
+            margin-bottom: 22px;
+            padding: 8px 28px;
+            border-radius: 999px;
+            background-color: #f59e0b;
+            color: #090d14;
+            font-size: 22px;
+            font-weight: 800;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            opacity: 0;
+            transition: opacity 120ms ease-out;
+        }
+        .edit-banner.active {
+            opacity: 1;
+        }
+        .edit-banner.info {
+            background-color: #0284c7;
+            color: #ffffff;
+        }
+
+        /* Viewport et Track défilant pour le dock */
+        .dock-viewport {
+            width: 100%;
+            max-width: 1776px;
+            overflow: hidden;
+            position: relative;
+            padding: 38px 0 44px 0;
+            transform: translate3d(0, 0, 0);
+            backface-visibility: hidden;
+            -webkit-backface-visibility: hidden;
+            contain: layout paint;
+        }
+        .dock-track {
+            display: flex;
+            align-items: center;
+            transition: transform 180ms cubic-bezier(0.2, 0.9, 0.3, 1);
+            will-change: transform;
+            width: max-content;
+            margin: 0;
+        }
+
+        .app-tile {
+            width: 180px;
+            height: 180px;
+            margin: 0 10px;
+            border-radius: 48px;
+            background-color: #151d2a;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            position: relative;
+            transform: translate3d(0, 0, 0);
+            backface-visibility: hidden;
+            -webkit-backface-visibility: hidden;
+            will-change: transform;
+            transition: transform 180ms cubic-bezier(0.2, 0.9, 0.3, 1);
+            flex-shrink: 0;
+            box-sizing: border-box;
+            box-shadow: 0 12px 28px rgba(0, 0, 0, 0.55);
+            contain: layout style;
+        }
+        .app-tile.focused {
+            transform: translate3d(0, -12px, 0) scale(1.08);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.8), 0 0 0 3.5px #38bdf8;
+            z-index: 10;
+        }
+        .app-tile.editing {
+            transform: translate3d(0, -16px, 0) scale(1.1);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.8), 0 0 0 3.5px #f59e0b;
+            z-index: 10;
+        }
+        .app-tile.launching {
+            transform: translate3d(0, -4px, 0) scale(1.02);
+            box-shadow: 0 16px 32px rgba(0, 0, 0, 0.8), 0 0 0 3.5px #38bdf8;
+            z-index: 10;
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            .dock-track, .app-tile, .app-tile img, .dock-viewport {
+                transition: none !important;
+                animation: none !important;
+            }
+        }
+        .move-arrows {
+            position: absolute;
+            top: 8px;
+            left: 0;
+            right: 0;
+            text-align: center;
+            font-size: 15px;
+            font-weight: 900;
+            color: #090d14;
+            background-color: #f59e0b;
+            padding: 3px 0;
+            display: none;
+            z-index: 5;
+        }
+        .remove-badge {
+            position: absolute;
+            bottom: 8px;
+            left: 0;
+            right: 0;
+            text-align: center;
+            font-size: 14px;
+            font-weight: 900;
+            color: #ffffff;
+            background-color: #ef4444;
+            padding: 3px 0;
+            display: none;
+            z-index: 5;
+        }
+        .app-tile.editing .move-arrows,
+        .app-tile.editing .remove-badge {
+            display: block;
+        }
+
+        .source-status-badge {
+            position: absolute;
+            bottom: 12px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: rgba(10, 15, 25, 0.72);
+            backdrop-filter: blur(8px);
+            -webkit-backdrop-filter: blur(8px);
+            border: 1px solid rgba(255, 255, 255, 0.18);
+            border-radius: 12px;
+            padding: 3px 10px;
+            font-size: 13px;
+            font-weight: 700;
+            color: rgba(255, 255, 255, 0.92);
+            letter-spacing: 0.5px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            white-space: nowrap;
+            pointer-events: none;
+            z-index: 4;
+            transition: all 200ms ease;
+        }
+        .source-status-badge.active {
+            background: rgba(0, 55, 145, 0.85);
+            border-color: rgba(56, 189, 248, 0.75);
+            color: #ffffff;
+            box-shadow: 0 0 14px rgba(56, 189, 248, 0.5);
+        }
+        .badge-dot {
+            width: 7px;
+            height: 7px;
+            border-radius: 50%;
+            background: #22c55e;
+            box-shadow: 0 0 8px #22c55e;
+        }
+        .badge-dot.standby {
+            background: #94a3b8;
+            box-shadow: none;
+        }
+
+        .app-tile img.app-official-icon {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+            display: block;
+            pointer-events: none;
+            border-radius: inherit;
+        }
+        .app-tile img.native-icon {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            padding: 22px;
+            box-sizing: border-box;
+            display: none;
+        }
+        .app-tile svg.vector-logo {
+            width: 100%;
+            height: 100%;
+            display: block;
+            border-radius: inherit;
+        }
+        .app-tile .fallback-box {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(135deg, #1e293b, #0f172a);
+            padding: 14px;
+            text-align: center;
+            box-sizing: border-box;
+            border-radius: inherit;
+        }
+        }
+        .fallback-letter {
+            font-size: 56px;
+            font-weight: 900;
+            color: #38bdf8;
+            line-height: 1;
+            margin-bottom: 4px;
+        }
+        .fallback-name {
+            font-size: 16px;
+            font-weight: 700;
+            color: #f1f5f9;
+            max-width: 150px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        /* Tuile "+ Ajouter" */
+        .app-tile.add-tile {
+            background: rgba(255, 255, 255, 0.04);
+            border: 2px dashed rgba(255, 255, 255, 0.12);
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+            cursor: pointer;
+        }
+        .app-tile.add-tile.focused {
+            background: rgba(255, 255, 255, 0.08);
+            border-color: #38bdf8;
+            box-shadow: 0 24px 48px rgba(0, 0, 0, 0.85), 0 0 28px rgba(56, 189, 248, 0.4);
+        }
+        .add-content {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        .add-icon-circle {
+            width: 62px;
+            height: 62px;
+            border-radius: 31px;
+            background-color: #1e293b;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 10px;
+            border: 3px solid #38bdf8;
+        }
+        .app-tile.add-tile.focused .add-icon-circle {
+            background-color: #0284c7;
+            border-color: #38bdf8;
+        }
+        .add-label {
+            font-size: 19px;
+            font-weight: 800;
+            color: #94a3b8;
+            letter-spacing: 0.5px;
+        }
+        .app-tile.add-tile.focused .add-label {
+            color: #f1f5f9;
+        }
+
+        /* Barre de statut et raccourcis salon en bas de l'écran */
+        footer.sys-bar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: rgba(15, 23, 42, 0.6);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border: 1px solid rgba(255, 255, 255, 0.07);
+            border-radius: 26px;
+            padding: 12px 28px;
+            width: 100%;
+            box-sizing: border-box;
+            box-shadow: 0 16px 36px rgba(0, 0, 0, 0.4);
+        }
+
+        .salon-status-group {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+        }
+
+        .status-chip {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            border-radius: 18px;
+            padding: 8px 16px;
+        }
+
+        .chip-svg {
+            flex-shrink: 0;
+        }
+
+        .chip-info {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .chip-title {
+            font-size: 16px;
+            font-weight: 800;
+            color: #f1f5f9;
+            line-height: 1.2;
+        }
+
+        .chip-subtitle {
+            font-size: 11px;
+            font-weight: 700;
+            color: #64748b;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-top: 1px;
+        }
+
+        .system-fluid-badge {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            background: rgba(34, 197, 94, 0.08);
+            border: 1px solid rgba(34, 197, 94, 0.2);
+            border-radius: 999px;
+            padding: 8px 20px;
+        }
+
+        .pulse-dot {
+            width: 9px;
+            height: 9px;
+            border-radius: 5px;
+            background-color: #22c55e;
+            box-shadow: 0 0 10px #22c55e;
+        }
+
+        .system-status-text {
+            font-size: 15px;
+            font-weight: 700;
+            color: #4ade80;
+            letter-spacing: 0.3px;
+        }
+
+        .system-status-ram {
+            font-size: 14px;
+            font-weight: 600;
+            color: #94a3b8;
+            margin-left: 2px;
+        }
+
+        /* Modal Catalogue pour Ajouter une Application */
+        .catalog-modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 1920px;
+            height: 1080px;
+            background: rgba(8, 12, 19, 0.97);
+            z-index: 1000;
+            display: none;
+            flex-direction: column;
+            justify-content: space-between;
+            padding: 36px 64px 28px 64px;
+            box-sizing: border-box;
+            overflow: hidden;
+        }
+        .catalog-modal.open {
+            display: flex;
+        }
+        .catalog-header {
+            margin-bottom: 16px;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-end;
+            flex-shrink: 0;
+        }
+        .catalog-title {
+            font-size: 32px;
+            font-weight: 900;
+            color: #f8fafc;
+            letter-spacing: 0.8px;
+        }
+        .catalog-sub {
+            font-size: 17px;
+            color: #94a3b8;
+            margin-top: 4px;
+        }
+        .catalog-count {
+            font-size: 17px;
+            font-weight: 700;
+            color: #38bdf8;
+            background: #151d2a;
+            padding: 6px 16px;
+            border-radius: 999px;
+            border: 2px solid #222f43;
+        }
+        .catalog-grid-wrap {
+            flex: 1 1 0;
+            min-height: 0;
+            max-height: 850px;
+            overflow-y: auto;
+            overflow-x: hidden;
+            padding: 8px 12px 24px 12px;
+            margin-bottom: 8px;
+            box-sizing: border-box;
+        }
+        .catalog-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 16px;
+            padding: 4px 6px 20px 6px;
+            box-sizing: border-box;
+        }
+        .catalog-item {
+            background-color: #151d2a;
+            border: 3px solid #222f43;
+            border-radius: 18px;
+            padding: 12px 16px;
+            display: flex;
+            align-items: center;
+            transition: transform 60ms ease-out, border-color 60ms ease-out, background-color 60ms ease-out;
+            box-sizing: border-box;
+            min-width: 0;
+        }
+        .catalog-item.focused {
+            transform: scale(1.02);
+            border-color: #38bdf8;
+            background-color: #1e293b;
+            box-shadow: 0 8px 20px rgba(56, 189, 248, 0.25);
+            z-index: 2;
+        }
+        .catalog-item.already-added {
+            opacity: 0.5;
+            border-style: dashed;
+        }
+        .catalog-item-icon {
+            width: 56px;
+            height: 56px;
+            border-radius: 14px;
+            overflow: hidden;
+            margin-right: 14px;
+            flex-shrink: 0;
+            background-color: #090d14;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        .catalog-item-icon img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-radius: inherit;
+        }
+        .catalog-item-icon svg {
+            width: 100%;
+            height: 100%;
+        }
+        .catalog-item-info {
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            flex: 1;
+            min-width: 0;
+        }
+        .catalog-item-name {
+            font-size: 19px;
+            font-weight: 700;
+            color: #f8fafc;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .catalog-item-badge {
+            font-size: 13px;
+            font-weight: 700;
+            color: #38bdf8;
+            margin-top: 3px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .catalog-item.already-added .catalog-item-badge {
+            color: #94a3b8;
+        }
+        .catalog-footer-hint {
+            font-size: 17px;
+            color: #94a3b8;
+            border-top: 2px solid #1e293b;
+            padding-top: 12px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-shrink: 0;
+            box-sizing: border-box;
+        }
+
+        .toast {
+            position: fixed;
+            bottom: 125px;
+            left: 710px;
+            width: 500px;
+            text-align: center;
+            background-color: #0284c7;
+            color: #ffffff;
+            padding: 16px 24px;
+            border-radius: 14px;
+            font-size: 24px;
+            font-weight: 700;
+            display: none;
+            z-index: 2000;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
+        }
+        .toast.visible {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <!-- Fonds d'ambiance dynamiques réactifs aux applications (Double buffer GPU 60fps) -->
+    <div id="ambientBgA" class="ambient-backdrop active" style="background: radial-gradient(ellipse 95% 75% at 50% 50%, rgba(255, 255, 255, 0.10) 0%, rgba(9, 13, 20, 0.88) 55%, #06090e 100%);"></div>
+    <div id="ambientBgB" class="ambient-backdrop"></div>
+
+    <header>
+        <div class="brand">
+            <div class="brand-dot"></div>
+            <div class="brand-title" id="greetingText">Bonsoir</div>
+        </div>
+
+        <div class="header-right">
+            <!-- Widget Météo en Direct -->
+            <div class="weather-box" id="weatherBox">
+                <span class="weather-icon" id="weatherIcon">⛅</span>
+                <div class="weather-details">
+                    <div class="weather-temp-row">
+                        <span class="weather-temp" id="weatherTemp">15°</span>
+                        <span class="weather-condition" id="weatherCondition">En direct</span>
+                    </div>
+                    <div class="weather-city" id="weatherCity">Bourg-en-Bresse</div>
+                </div>
+            </div>
+
+            <!-- Séparateur discret -->
+            <div class="header-divider"></div>
+
+            <!-- Horloge & Date -->
+            <div class="clock-box">
+                <div class="time" id="clock">--:--</div>
+                <div class="date" id="date"></div>
+            </div>
+        </div>
+    </header>
+
+    <main class="dock-wrapper">
+        <div class="selected-title" id="selectedTitle">CANAL+</div>
+        <div class="edit-banner" id="editBanner">MODE MODIFICATION : ◀ ▶ Déplacer • ▼ Retirer de l'accueil • OK Valider</div>
+
+        <div class="dock-viewport" id="dockViewport">
+            <div class="dock-track" id="dockTrack"></div>
+        </div>
+    </main>
+
+    <footer class="sys-bar">
+        <!-- 1. Statut Salon & Équipements (Gauche) -->
+        <div class="salon-status-group">
+            <!-- Télécommande Solaire Smart -->
+            <div class="status-chip" id="chipBattery" title="Télécommande Smart Remote">
+                <svg viewBox="0 0 24 24" width="22" height="22" class="chip-svg">
+                    <rect x="4" y="3" width="14" height="18" rx="3" fill="none" stroke="#22c55e" stroke-width="2" id="battStroke"/>
+                    <rect x="8" y="1" width="6" height="2" rx="0.8" fill="#22c55e" id="battCap"/>
+                    <rect x="6.5" y="7" width="9" height="11" rx="1.5" fill="#22c55e" id="battFillIcon"/>
+                </svg>
+                <div class="chip-info">
+                    <span class="chip-title" id="rcBatteryVal">94%</span>
+                    <span class="chip-subtitle">Télécommande</span>
+                </div>
+            </div>
+
+            <!-- Réseau Internet -->
+            <div class="status-chip" id="chipWifi" title="Connexion Réseau Wi-Fi">
+                <svg viewBox="0 0 24 24" width="22" height="22" class="chip-svg">
+                    <path d="M2 8.5 Q12 0.5 22 8.5" fill="none" stroke="#38bdf8" stroke-width="2.2" stroke-linecap="round"/>
+                    <path d="M5.5 12.5 Q12 6.5 18.5 12.5" fill="none" stroke="#38bdf8" stroke-width="2.2" stroke-linecap="round"/>
+                    <path d="M9 16.5 Q12 13 15 16.5" fill="none" stroke="#38bdf8" stroke-width="2.2" stroke-linecap="round"/>
+                    <circle cx="12" cy="19.5" r="1.8" fill="#38bdf8"/>
+                </svg>
+                <div class="chip-info">
+                    <span class="chip-title">Wi-Fi Connecté</span>
+                    <span class="chip-subtitle">Freebox Internet</span>
+                </div>
+            </div>
+
+            <!-- Dalle Samsung QLED -->
+            <div class="status-chip" id="chipScreen" title="Dalle TV 4K UHD">
+                <svg viewBox="0 0 24 24" width="22" height="22" class="chip-svg">
+                    <rect x="2" y="4" width="20" height="13" rx="2.5" fill="none" stroke="#a855f7" stroke-width="2"/>
+                    <line x1="8" y1="20" x2="16" y2="20" stroke="#a855f7" stroke-width="2.2" stroke-linecap="round"/>
+                    <line x1="12" y1="17" x2="12" y2="20" stroke="#a855f7" stroke-width="2.2"/>
+                </svg>
+                <div class="chip-info">
+                    <span class="chip-title">4K UHD</span>
+                    <span class="chip-subtitle">Samsung QLED</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- 2. Indicateur Système Discret (Droite) -->
+        <div class="system-fluid-badge">
+            <span class="pulse-dot"></span>
+            <span class="system-status-text">Système fluide</span>
+            <span class="system-status-ram" id="ramSummaryText">• Mémoire saine</span>
+        </div>
+    </footer>
+
+    <!-- Modal Catalogue "Ajouter une application" -->
+    <div class="catalog-modal" id="catalogModal">
+        <div class="catalog-header">
+            <div>
+                <div class="catalog-title">AJOUTER UNE APPLICATION</div>
+                <div class="catalog-sub">Sélectionnez une application installée sur la TV pour l'épingler à votre accueil</div>
+            </div>
+            <div class="catalog-count" id="catalogCount">0 disponibles</div>
+        </div>
+        <div class="catalog-grid-wrap" id="catalogGridWrap">
+            <div class="catalog-grid" id="catalogGrid"></div>
+        </div>
+        <div class="catalog-footer-hint">
+            <div>▲ ▼ ◀ ▶ Naviguer dans les applications • OK Ajouter à l'accueil</div>
+            <div>Touche Retour pour fermer</div>
+        </div>
+    </div>
+
+    <div class="toast" id="toast">Ouverture...</div>
+
+    <script src="live_metrics.js"></script>
+    <script>
+        // Logos officiels haute définition extraits directement des applications TV
+        var OFFICIAL_ICONS = {
+            "QmpwflxWdt.CanalPlusLauncher": "icons/canal.png",
+            "org.tizen.netflix-app": "icons/netflix.png",
+            "org.tizen.primevideo": "icons/primevideo.png",
+            "MCmYXNxgcu.DisneyPlus": "icons/disney.png",
+            "AprZAARz4r.Jellyfin": "icons/jellyfin.png",
+            "tUb3Xq7Lm9.Tube": "icons/youtube.png",
+            "9Ur5IzDKqV.TizenYouTube": "icons/youtube_officiel.png",
+            "QY16tZ64E3.francetv": "icons/francetv.png",
+            "znCs95n93Q.OqeeTV": "icons/freetv.png",
+            "rJeHak5zRg.Spotify": "icons/spotify.png",
+            "com.samsung.tv.aria-video": "icons/appletv.png",
+            "E0P3lRI4H7.MYTF1": "icons/tf1.png",
+            "Ol7HVEXtqh.6play": "icons/6play.png",
+            "bstjKvX6LM.molotov": "icons/molotov.png",
+            "aLlph042JZ.arte": "icons/arte.png",
+            "kIciSQlYEM.plex": "icons/plex.png",
+            "Jz7aUrV2Q4.Twitch": "icons/twitch.png",
+            "tCz5WMFzVa.LiveTV": "icons/btv.png",
+            "w0wZu3xkQq.GeForceNOW": "icons/geforcenow.png",
+            "org.tizen.browser": "icons/browser.png"
+        };
+
+        // Arrière-plans officiels de marque (préservés au focus)
+        var BRAND_BACKGROUNDS = {
+            "QmpwflxWdt.CanalPlusLauncher": "#000000",
+            "org.tizen.netflix-app": "#000000",
+            "org.tizen.primevideo": "#00050d",
+            "MCmYXNxgcu.DisneyPlus": "#040714",
+            "AprZAARz4r.Jellyfin": "#0b1220",
+            "tUb3Xq7Lm9.Tube": "#0f0f0f",
+            "9Ur5IzDKqV.TizenYouTube": "#0f0f0f",
+            "QY16tZ64E3.francetv": "#0a1122",
+            "znCs95n93Q.OqeeTV": "#000000",
+            "rJeHak5zRg.Spotify": "#121212",
+            "com.samsung.tv.aria-video": "#000000",
+            "E0P3lRI4H7.MYTF1": "#001a9c",
+            "Ol7HVEXtqh.6play": "#1f103d",
+            "bstjKvX6LM.molotov": "#ffc800",
+            "aLlph042JZ.arte": "#ff5500",
+            "kIciSQlYEM.plex": "#1f2326",
+            "Jz7aUrV2Q4.Twitch": "#9146FF",
+            "tCz5WMFzVa.LiveTV": "#0055a5",
+            "w0wZu3xkQq.GeForceNOW": "#101820",
+            "source:15": "#003791"
+        };
+
+        // Banques de logos vectoriels pour les applications de streaming populaires
+        var KNOWN_SVGS = {
+            "source:15": '<svg class="vector-logo" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg"><defs><radialGradient id="psGlow" cx="50%" cy="40%" r="65%"><stop offset="0%" stop-color="#00439c"/><stop offset="60%" stop-color="#001d5a"/><stop offset="100%" stop-color="#000d28"/></radialGradient></defs><rect width="200" height="200" fill="url(#psGlow)"/><g transform="translate(42, 45) scale(4.83)"><path fill="#ffffff" d="M8.985 2.596v17.548l3.915 1.261V6.688c0-.69.304-1.151.794-.991.636.181.76.814.76 1.505v5.876c2.441 1.193 4.362-.002 4.362-3.153 0-3.237-1.126-4.675-4.438-5.827-1.307-.448-3.728-1.186-5.391-1.502h-.002zm4.656 16.242l6.296-2.275c.715-.258.826-.625.246-.818-.586-.192-1.637-.139-2.357.123l-4.205 1.499v-2.385l.24-.085s1.201-.42 2.913-.615c1.696-.18 3.785.029 5.437.661 1.848.601 2.041 1.472 1.576 2.072s-1.622 1.036-1.622 1.036l-8.544 3.107v-2.297l.02-.023zM1.808 18.6c-1.9-.545-2.214-1.668-1.352-2.321.801-.585 2.159-1.051 2.159-1.051l5.616-2.013v2.313L4.206 17c-.705.271-.825.632-.239.826.586.195 1.637.15 2.343-.12L8.248 17v2.074c-.121.029-.256.044-.391.073-1.938.331-3.995.196-6.037-.479l-.012-.068z"/></g></svg>',
+            "QmpwflxWdt.CanalPlusLauncher": '<svg class="vector-logo" viewBox="0 0 200 200"><rect width="200" height="200" fill="#000000"/><text x="100" y="114" fill="#ffffff" font-family="Arial Black, Impact, sans-serif" font-weight="900" font-size="34" text-anchor="middle" letter-spacing="-0.5">CANAL+</text></svg>',
+            "org.tizen.netflix-app": '<svg class="vector-logo" viewBox="0 0 200 200"><rect width="200" height="200" fill="#000000"/><rect x="56" y="36" width="26" height="128" fill="#b1060f"/><rect x="118" y="36" width="26" height="128" fill="#b1060f"/><polygon points="56,36 82,36 144,164 118,164" fill="#e50914"/></svg>',
+            "org.tizen.primevideo": '<svg class="vector-logo" viewBox="0 0 200 200"><rect width="200" height="200" fill="#00A8E1"/><text x="100" y="94" fill="#ffffff" font-family="Arial, sans-serif" font-weight="800" font-size="40" text-anchor="middle">prime</text><path d="M54 122 Q100 150 146 122" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/><polygon points="138,116 150,119 143,131" fill="#ffffff"/></svg>',
+            "AprZAARz4r.Jellyfin": '<svg class="vector-logo" viewBox="0 0 200 200"><rect width="200" height="200" fill="#101827"/><defs><linearGradient id="jfGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#AA5CC3"/><stop offset="100%" stop-color="#00A4DC"/></linearGradient></defs><path d="M100 36 C88 36 48 124 56 142 C64 160 136 160 144 142 C152 124 112 36 100 36 Z" fill="none" stroke="url(#jfGrad)" stroke-width="16" stroke-linejoin="round"/><path d="M100 78 C95 78 80 114 84 122 C88 130 112 130 116 122 C120 114 105 78 100 78 Z" fill="url(#jfGrad)"/></svg>',
+            "tUb3Xq7Lm9.Tube": '<svg class="vector-logo" viewBox="0 0 200 200"><rect width="200" height="200" fill="#18181b"/><rect x="36" y="54" width="128" height="92" rx="24" fill="#FF0000"/><polygon points="86,76 86,124 128,100" fill="#ffffff"/></svg>',
+            "9Ur5IzDKqV.TizenYouTube": '<svg class="vector-logo" viewBox="0 0 200 200"><rect width="200" height="200" fill="#18181b"/><rect x="36" y="54" width="128" height="92" rx="24" fill="#FF0000"/><polygon points="86,76 86,124 128,100" fill="#ffffff"/></svg>',
+            "QY16tZ64E3.francetv": '<svg class="vector-logo" viewBox="0 0 200 200"><rect width="200" height="200" fill="#0f172a"/><g transform="translate(14, 0) scale(0.86)"><text x="75" y="124" fill="#ffffff" font-family="Arial, sans-serif" font-weight="800" font-size="36" text-anchor="middle">france</text><circle cx="135" cy="118" r="6" fill="#38bdf8"/><text x="160" y="124" fill="#ffffff" font-family="Arial, sans-serif" font-weight="800" font-size="34" text-anchor="middle">tv</text></g></svg>',
+            "znCs95n93Q.OqeeTV": '<svg class="vector-logo" viewBox="0 0 200 200"><rect width="200" height="200" fill="#111111"/><g transform="translate(0, -4)"><text x="100" y="96" fill="#e11d48" font-family="Arial Black, sans-serif" font-weight="900" font-size="40" text-anchor="middle">OQEE</text><text x="100" y="134" fill="#ffffff" font-family="Arial, sans-serif" font-weight="700" font-size="22" text-anchor="middle">by free</text></g></svg>',
+            "MCmYXNxgcu.DisneyPlus": '<svg class="vector-logo" viewBox="0 0 200 200"><rect width="200" height="200" fill="#040714"/><path d="M46 126 Q100 66 154 126" stroke="#38bdf8" stroke-width="5" fill="none"/><text x="100" y="114" fill="#ffffff" font-family="Arial Black, sans-serif" font-weight="900" font-size="28" text-anchor="middle">Disney+</text></svg>',
+            "rJeHak5zRg.Spotify": '<svg class="vector-logo" viewBox="0 0 200 200"><rect width="200" height="200" fill="#121212"/><circle cx="100" cy="100" r="60" fill="#1DB954"/><path d="M71 86 Q100 77 129 86" stroke="#121212" stroke-width="9" stroke-linecap="round" fill="none"/><path d="M75 103 Q100 95 125 103" stroke="#121212" stroke-width="7" stroke-linecap="round" fill="none"/><path d="M80 119 Q100 113 120 119" stroke="#121212" stroke-width="5" stroke-linecap="round" fill="none"/></svg>',
+            "com.samsung.tv.aria-video": '<svg class="vector-logo" viewBox="0 0 200 200"><rect width="200" height="200" fill="#000000"/><text x="100" y="116" fill="#ffffff" font-family="Arial, sans-serif" font-weight="800" font-size="36" text-anchor="middle">Apple TV</text></svg>',
+            "E0P3lRI4H7.MYTF1": '<svg class="vector-logo" viewBox="0 0 200 200"><rect width="200" height="200" fill="#001a9c"/><text x="100" y="116" fill="#ffffff" font-family="Arial Black, sans-serif" font-weight="900" font-size="40" text-anchor="middle">TF1+</text></svg>',
+            "Ol7HVEXtqh.6play": '<svg class="vector-logo" viewBox="0 0 200 200"><rect width="200" height="200" fill="#4c1d95"/><text x="100" y="116" fill="#ffffff" font-family="Arial Black, sans-serif" font-weight="900" font-size="38" text-anchor="middle">6play</text></svg>',
+            "bstjKvX6LM.molotov": '<svg class="vector-logo" viewBox="0 0 200 200"><rect width="200" height="200" fill="#ffc800"/><text x="100" y="116" fill="#111111" font-family="Arial Black, sans-serif" font-weight="900" font-size="32" text-anchor="middle">molotov</text></svg>',
+            "aLlph042JZ.arte": '<svg class="vector-logo" viewBox="0 0 200 200"><rect width="200" height="200" fill="#ff5500"/><text x="100" y="116" fill="#ffffff" font-family="Arial Black, sans-serif" font-weight="900" font-size="38" text-anchor="middle">arte</text></svg>',
+            "Jz7aUrV2Q4.Twitch": '<svg class="vector-logo" viewBox="0 0 200 200"><rect width="200" height="200" fill="#9146FF"/><text x="100" y="116" fill="#ffffff" font-family="Arial Black, sans-serif" font-weight="900" font-size="34" text-anchor="middle">Twitch</text></svg>',
+            "org.tizen.browser": '<svg class="vector-logo" viewBox="0 0 200 200"><rect width="200" height="200" fill="#0284c7"/><circle cx="100" cy="100" r="54" fill="none" stroke="#ffffff" stroke-width="7"/><ellipse cx="100" cy="100" rx="26" ry="54" fill="none" stroke="#ffffff" stroke-width="6"/><line x1="46" y1="100" x2="154" y2="100" stroke="#ffffff" stroke-width="6"/></svg>'
+        };
+
+        var PS5_APP = { id: "source:15", name: "PlayStation 5", isSource: true, sourceType: 15 };
+        var INITIAL_APPS = [
+            { id: "QmpwflxWdt.CanalPlusLauncher", name: "CANAL+" },
+            { id: "org.tizen.netflix-app", name: "Netflix" },
+            { id: "org.tizen.primevideo", name: "Prime Video" },
+            { id: "MCmYXNxgcu.DisneyPlus", name: "Disney+" },
+            { id: "source:15", name: "PlayStation 5", isSource: true, sourceType: 15 },
+            { id: "AprZAARz4r.Jellyfin", name: "Jellyfin" },
+            { id: "tUb3Xq7Lm9.Tube", name: "YouTube Sans Pub" },
+            { id: "QY16tZ64E3.francetv", name: "france.tv" },
+            { id: "znCs95n93Q.OqeeTV", name: "Free TV (OQEE)" }
+        ];
+
+        var STORAGE_KEY_V2 = "custom_home_dock_apps_v2";
+        var STORAGE_KEY_V1 = "custom_home_dock_order_v1";
+
+        var APPS = [];
+        var allInstalledApps = []; // Découvertes sur la TV
+        var iconCache = {};
+
+        function loadDockApps() {
+            var loaded = null;
+            try {
+                var rawV2 = localStorage.getItem(STORAGE_KEY_V2);
+                if (rawV2) {
+                    var parsed = JSON.parse(rawV2);
+                    if (Array.isArray(parsed) && parsed.length > 0) {
+                        loaded = parsed;
+                    }
+                }
+            } catch (e) {}
+
+            // Migration v1 si pas encore de v2
+            if (!loaded) {
+                try {
+                    var rawV1 = localStorage.getItem(STORAGE_KEY_V1);
+                    if (rawV1) {
+                        var keys = JSON.parse(rawV1);
+                        var byKey = {
+                            "canal": INITIAL_APPS[0],
+                            "netflix": INITIAL_APPS[1],
+                            "prime": INITIAL_APPS[2],
+                            "jellyfin": INITIAL_APPS[5],
+                            "youtube": INITIAL_APPS[6],
+                            "francetv": INITIAL_APPS[7],
+                            "freetv": INITIAL_APPS[8]
+                        };
+                        var migrated = [];
+                        for (var i = 0; i < keys.length; i++) {
+                            if (byKey[keys[i]]) migrated.push(byKey[keys[i]]);
+                        }
+                        if (migrated.length > 0) loaded = migrated;
+                    }
+                } catch (e) {}
+            }
+
+            APPS = loaded || INITIAL_APPS.slice();
+
+            // S'assurer que la tuile PS5 fait partie de la liste par défaut si pas explicitement retirée
+            var hasPs5 = false;
+            for (var p = 0; p < APPS.length; p++) {
+                if (APPS[p].id === "source:15") { hasPs5 = true; break; }
+            }
+            if (!hasPs5 && !localStorage.getItem("custom_home_ps5_removed")) {
+                APPS.splice(4, 0, PS5_APP);
+            }
+            saveDockApps();
+        }
+
+        function saveDockApps() {
+            try {
+                localStorage.setItem(STORAGE_KEY_V2, JSON.stringify(APPS));
+            } catch (e) {}
+        }
+
+        var KEEP_IDS = [
+            "CustomHome.Main",
+            "vetrotvapp",
+            "vetrotvapp.svc"
+        ];
+
+        var currentIndex = 0;
+        var editMode = false;
+        var isLaunching = false;
+        var tileEls = [];
+        var dockTrackEl = document.getElementById('dockTrack');
+        var dockViewportEl = document.getElementById('dockViewport');
+        var titleEl = document.getElementById('selectedTitle');
+        var editBannerEl = document.getElementById('editBanner');
+        var toastEl = document.getElementById('toast');
+        var toastTimer = null;
+
+        // Elements modal catalogue
+        var catalogModalEl = document.getElementById('catalogModal');
+        var catalogGridEl = document.getElementById('catalogGrid');
+        var catalogGridWrapEl = document.getElementById('catalogGridWrap');
+        var catalogCountEl = document.getElementById('catalogCount');
+        var catalogOpen = false;
+        var catalogIndex = 0;
+        var catalogItems = [];
+
+        // Elements metriques
+        var rcBatteryValEl = document.getElementById('rcBatteryVal');
+        var rcBatterySubEl = document.getElementById('rcBatterySub');
+        var rcBatteryBarEl = document.getElementById('rcBatteryBar');
+        var battStrokeEl = document.getElementById('battStroke');
+        var battCapEl = document.getElementById('battCap');
+        var battFillIconEl = document.getElementById('battFillIcon');
+        var ramValEl = document.getElementById('ramVal');
+        var ramPctEl = document.getElementById('ramPct');
+        var ramBarEl = document.getElementById('ramBar');
+        var resValEl = document.getElementById('resVal');
+        var resSubEl = document.getElementById('resSub');
+        var tempValEl = document.getElementById('tempVal');
+        var cpuSubEl = document.getElementById('cpuSub');
+        var tempBarEl = document.getElementById('tempBar');
+        var netValEl = document.getElementById('netVal');
+        var uptimeSubEl = document.getElementById('uptimeSub');
+
+        // Detection appui long sur OK (keyCode 13)
+        var enterDownAt = 0;
+        var enterHoldTimer = null;
+        var enterLongTriggered = false;
+        var LONG_PRESS_MS = 550;
+
+        var defaultAppCtrl = null;
+        try {
+            if (typeof tizen !== 'undefined' && tizen.ApplicationControl) {
+                defaultAppCtrl = new tizen.ApplicationControl(
+                    'http://tizen.org/appcontrol/operation/default',
+                    null, null, null, null
+                );
+            }
+        } catch (e) {}
+
+        // Enregistrement des touches de la télécommande physique (Tizen TV Input Device)
+        try {
+            if (typeof tizen !== 'undefined' && tizen.tvinputdevice && tizen.tvinputdevice.registerKey) {
+                var neededKeys = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'ColorF0Red', 'ColorF1Green', 'ColorF2Yellow', 'ColorF3Blue'];
+                for (var k = 0; k < neededKeys.length; k++) {
+                    try { tizen.tvinputdevice.registerKey(neededKeys[k]); } catch (errKey) {}
+                }
+            }
+        } catch (e) {}
+
+        function formatUptime(sec) {
+            if (!sec || sec < 0) return "Actif";
+            var h = Math.floor(sec / 3600);
+            var m = Math.floor((sec % 3600) / 60);
+            if (h > 0) return "Actif " + h + "h " + ('0' + m).slice(-2) + "m";
+            return "Actif " + m + " min";
+        }
+
+        function applyBatteryUi(pct) {
+            if (pct == null || isNaN(pct)) return;
+            pct = Math.max(0, Math.min(100, Math.round(pct)));
+            if (rcBatteryValEl) rcBatteryValEl.textContent = pct + "%";
+            var color = pct > 50 ? "#22c55e" : (pct > 20 ? "#f59e0b" : "#ef4444");
+            if (rcBatteryBarEl) {
+                rcBatteryBarEl.style.width = pct + "%";
+                rcBatteryBarEl.style.backgroundColor = color;
+            }
+            if (rcBatterySubEl) rcBatterySubEl.style.color = color;
+            if (battStrokeEl) battStrokeEl.setAttribute("stroke", color);
+            if (battCapEl) battCapEl.setAttribute("fill", color);
+            if (battFillIconEl) {
+                battFillIconEl.setAttribute("fill", color);
+                var h = Math.max(2, Math.round((pct / 100) * 11));
+                battFillIconEl.setAttribute("y", String(18 - h));
+                battFillIconEl.setAttribute("height", String(h));
+            }
+        }
+
+        function applyRamUi(availMb, totalMb) {
+            if (!availMb || !totalMb) return;
+            var pctFree = Math.round((availMb * 100) / totalMb);
+            var ramSummaryTextEl = document.getElementById('ramSummaryText');
+            if (ramSummaryTextEl) {
+                ramSummaryTextEl.textContent = "• " + pctFree + "% libre";
+            }
+            if (ramValEl) ramValEl.textContent = availMb + " / " + totalMb + " Mo";
+            if (ramPctEl) ramPctEl.textContent = pctFree + "% libre";
+            if (ramBarEl) {
+                ramBarEl.style.width = pctFree + "%";
+                var color = pctFree >= 35 ? "#38bdf8" : (pctFree >= 20 ? "#f59e0b" : "#ef4444");
+                ramBarEl.style.backgroundColor = color;
+            }
+        }
+
+        function applyMetricsObject(m) {
+            if (!m) return;
+            if (m.battery && m.battery.percent != null) {
+                applyBatteryUi(m.battery.percent);
+            }
+            if (m.ram && m.ram.availableMb && m.ram.totalMb) {
+                applyRamUi(m.ram.availableMb, m.ram.totalMb);
+            }
+            if (m.socTempC != null && tempValEl) {
+                tempValEl.textContent = m.socTempC + " °C";
+            }
+            if (m.loadavg && cpuSubEl) {
+                cpuSubEl.textContent = "Charge " + m.loadavg;
+            }
+            if (m.ip && netValEl) {
+                netValEl.textContent = m.ip;
+            }
+            if (m.uptimeSec != null && uptimeSubEl) {
+                uptimeSubEl.textContent = formatUptime(m.uptimeSec);
+            }
+            if (m.hdmi3) {
+                var plugged = (m.hdmi3.plugged === 1 || m.hdmi3.plugged === true);
+                var active = (m.hdmi3.active === 1 || m.hdmi3.active === true);
+                if (lastHdmi3Plugged !== plugged || lastHdmi3Active !== active) {
+                    lastHdmi3Plugged = plugged;
+                    lastHdmi3Active = active;
+                    renderDock();
+                }
+            }
+        }
+
+        function refreshMetrics() {
+            if (document.hidden) return;
+            try {
+                if (typeof tizen !== 'undefined' && tizen.systeminfo) {
+                    var totalB = tizen.systeminfo.getTotalMemory ? tizen.systeminfo.getTotalMemory() : 0;
+                    var availB = tizen.systeminfo.getAvailableMemory ? tizen.systeminfo.getAvailableMemory() : 0;
+                    if (totalB > 0 && availB > 0) {
+                        applyRamUi(Math.round(availB / (1024 * 1024)), Math.round(totalB / (1024 * 1024)));
+                    }
+                }
+            } catch (e) {}
+
+            if (window.__TV_METRICS__) {
+                applyMetricsObject(window.__TV_METRICS__);
+            }
+
+            try {
+                var oldScript = document.getElementById('dynamicMetricsScript');
+                if (oldScript && oldScript.parentNode) {
+                    oldScript.parentNode.removeChild(oldScript);
+                }
+                var s = document.createElement('script');
+                s.id = 'dynamicMetricsScript';
+                s.src = 'live_metrics.js?t=' + Date.now();
+                s.onload = function() {
+                    if (window.__TV_METRICS__) {
+                        applyMetricsObject(window.__TV_METRICS__);
+                    }
+                };
+                document.body.appendChild(s);
+            } catch (e) {}
+        }
+
+        function getAppLogoHtml(app, tileIdx) {
+            if (OFFICIAL_ICONS[app.id]) {
+                return '<img class="app-official-icon" id="off-icon-' + tileIdx + '" src="' + OFFICIAL_ICONS[app.id] + '" alt="">';
+            }
+            if (KNOWN_SVGS[app.id]) {
+                return '<div id="svg-wrap-' + tileIdx + '" style="width:100%;height:100%;border-radius:inherit;overflow:hidden;">' + KNOWN_SVGS[app.id] + '</div>';
+            }
+            if (iconCache[app.id]) {
+                var src = iconCache[app.id].indexOf('file://') === 0 ? iconCache[app.id] : ('file://' + iconCache[app.id]);
+                return '<img class="app-official-icon" id="off-icon-' + tileIdx + '" src="' + src + '" alt="">';
+            }
+            var initial = (app.name || "A").charAt(0).toUpperCase();
+            return '<div class="fallback-box" id="fb-wrap-' + tileIdx + '">' +
+                   '<div class="fallback-letter">' + initial + '</div>' +
+                   '<div class="fallback-name">' + (app.name || "") + '</div>' +
+                   '</div>';
+        }
+
+        var visibleApps = [];
+        var lastHdmi3Plugged = null;
+        var lastHdmi3Active = null;
+
+        function isHdmi3Plugged() {
+            if (window.__TV_METRICS__ && window.__TV_METRICS__.hdmi3) {
+                return (window.__TV_METRICS__.hdmi3.active === 1 || window.__TV_METRICS__.hdmi3.active === true);
+            }
+            return false; // Masqué par défaut tant que la console n'est pas allumée / branchée
+        }
+
+        function isHdmi3Active() {
+            if (window.__TV_METRICS__ && window.__TV_METRICS__.hdmi3) {
+                return (window.__TV_METRICS__.hdmi3.active === 1 || window.__TV_METRICS__.hdmi3.active === true);
+            }
+            return false;
+        }
+
+        function getVisibleApps() {
+            var plugged = isHdmi3Plugged();
+            var out = [];
+            for (var i = 0; i < APPS.length; i++) {
+                if (APPS[i].id === "source:15") {
+                    if (plugged) out.push(APPS[i]);
+                } else {
+                    out.push(APPS[i]);
+                }
+            }
+            return out;
+        }
+
+        function isAddTileIndex(idx) {
+            return idx === visibleApps.length;
+        }
+
+        function renderDock() {
+            dockTrackEl.innerHTML = '';
+            tileEls = [];
+            visibleApps = getVisibleApps();
+
+            if (currentIndex > visibleApps.length) {
+                currentIndex = Math.max(0, visibleApps.length - 1);
+            }
+
+            // 1. Rendu des applications du dock
+            for (var i = 0; i < visibleApps.length; i++) {
+                var app = visibleApps[i];
+                var tile = document.createElement('div');
+                tile.className = 'app-tile' + (i === currentIndex ? (editMode ? ' editing' : ' focused') : '');
+                tile.id = 'tile-' + i;
+                if (BRAND_BACKGROUNDS[app.id]) {
+                    tile.style.backgroundColor = BRAND_BACKGROUNDS[app.id];
+                }
+                var badgeHtml = '';
+                if (app.id === 'source:15') {
+                    var isPs5On = isHdmi3Active();
+                    badgeHtml = isPs5On
+                        ? '<div class="source-status-badge active"><span class="badge-dot"></span>Allumée</div>'
+                        : '<div class="source-status-badge"><span class="badge-dot standby"></span>HDMI 3</div>';
+                }
+                tile.innerHTML = getAppLogoHtml(app, i) +
+                                 badgeHtml +
+                                 '<div class="move-arrows">◀ DÉPLACER ▶</div>' +
+                                 '<div class="remove-badge">▼ RETIRER</div>';
+                dockTrackEl.appendChild(tile);
+                tileEls.push(tile);
+
+                if (!OFFICIAL_ICONS[app.id] && !KNOWN_SVGS[app.id] && iconCache[app.id]) {
+                    applyIconToTile(i, iconCache[app.id]);
+                }
+            }
+
+            // 2. Tuile "+ Ajouter une application"
+            var addTile = document.createElement('div');
+            addTile.className = 'app-tile add-tile' + (currentIndex === visibleApps.length ? ' focused' : '');
+            addTile.id = 'tile-add';
+            addTile.innerHTML = '<div class="add-content">' +
+                                '<div class="add-icon-circle">' +
+                                '<svg viewBox="0 0 36 36" width="32" height="32">' +
+                                '<line x1="18" y1="8" x2="18" y2="28" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>' +
+                                '<line x1="8" y1="18" x2="28" y2="18" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>' +
+                                '</svg>' +
+                                '</div>' +
+                                '<div class="add-label">AJOUTER</div>' +
+                                '</div>';
+            dockTrackEl.appendChild(addTile);
+            tileEls.push(addTile);
+
+            updateHeaderTitle();
+            updateDockScroll();
+        }
+
+        var BRAND_AMBIENT_COLORS = {
+            "source:15": "rgba(0, 112, 209, 0.35)",
+            "QmpwflxWdt.CanalPlusLauncher": "rgba(255, 255, 255, 0.12)",
+            "org.tizen.netflix-app": "rgba(229, 9, 20, 0.28)",
+            "org.tizen.primevideo": "rgba(0, 168, 225, 0.26)",
+            "AprZAARz4r.Jellyfin": "rgba(170, 92, 195, 0.28)",
+            "tUb3Xq7Lm9.Tube": "rgba(239, 68, 68, 0.24)",
+            "9Ur5IzDKqV.TizenYouTube": "rgba(239, 68, 68, 0.24)",
+            "com.samsung.tv.cobalt-yt": "rgba(239, 68, 68, 0.24)",
+            "MCmYXNxgcu.DisneyPlus": "rgba(56, 189, 248, 0.26)",
+            "znCs95n93Q.OqeeTV": "rgba(225, 29, 72, 0.25)",
+            "aLlph042JZ.arte": "rgba(249, 115, 22, 0.25)",
+            "Ol7HVEXtqh.6play": "rgba(236, 72, 153, 0.24)",
+            "QY16tZ64E3.francetv": "rgba(59, 130, 246, 0.24)",
+            "kIciSQlYEM.plex": "rgba(234, 179, 8, 0.24)",
+            "bstjKvX6LM.molotov": "rgba(245, 158, 11, 0.24)",
+            "org.tizen.browser": "rgba(14, 165, 233, 0.22)"
+        };
+
+        var currentAmbientIsA = true;
+        var lastAmbientColor = "";
+
+        function updateAmbientBackground(appId) {
+            var color = BRAND_AMBIENT_COLORS[appId] || "rgba(56, 189, 248, 0.18)";
+            if (color === lastAmbientColor) return;
+            lastAmbientColor = color;
+
+            var bgA = document.getElementById('ambientBgA');
+            var bgB = document.getElementById('ambientBgB');
+            if (!bgA || !bgB) return;
+
+            var gradient = "radial-gradient(ellipse 95% 75% at 50% 50%, " + color + " 0%, rgba(9, 13, 20, 0.88) 55%, #06090e 100%)";
+
+            if (currentAmbientIsA) {
+                bgB.style.background = gradient;
+                bgB.classList.add('active');
+                bgA.classList.remove('active');
+                currentAmbientIsA = false;
+            } else {
+                bgA.style.background = gradient;
+                bgA.classList.add('active');
+                bgB.classList.remove('active');
+                currentAmbientIsA = true;
+            }
+        }
+
+        var ambientDebounceTimer = null;
+        function triggerAmbientUpdate(appId) {
+            if (ambientDebounceTimer) clearTimeout(ambientDebounceTimer);
+            ambientDebounceTimer = setTimeout(function() {
+                updateAmbientBackground(appId);
+            }, 100);
+        }
+
+        function updateHeaderTitle() {
+            if (isAddTileIndex(currentIndex)) {
+                titleEl.textContent = "Ajouter une application";
+                editBannerEl.textContent = "Appuyez sur OK pour parcourir et ajouter une application";
+                editBannerEl.className = 'edit-banner active info';
+                triggerAmbientUpdate("add-tile");
+            } else if (visibleApps[currentIndex]) {
+                var currentAppObj = visibleApps[currentIndex];
+                if (currentAppObj.id === 'source:15') {
+                    titleEl.textContent = "PlayStation 5";
+                } else {
+                    titleEl.textContent = currentAppObj.name;
+                }
+                if (editMode) {
+                    editBannerEl.textContent = "MODE MODIFICATION : ◀ ▶ Déplacer • ▼ Retirer de l'accueil • OK Valider";
+                    editBannerEl.className = 'edit-banner active';
+                } else {
+                    editBannerEl.className = 'edit-banner';
+                }
+                triggerAmbientUpdate(currentAppObj.id);
+            }
+        }
+
+        var DOCK_VIEWPORT_WIDTH = 1776;
+        function updateDockScroll() {
+            var totalCount = visibleApps.length + 1;
+            var itemWidth = 200; // 180px tile + 20px margin
+            var totalWidth = totalCount * itemWidth;
+            var viewportWidth = DOCK_VIEWPORT_WIDTH;
+
+            var targetX;
+            if (totalWidth <= viewportWidth) {
+                targetX = (viewportWidth - totalWidth) / 2;
+            } else {
+                targetX = (viewportWidth / 2) - (currentIndex * itemWidth + (itemWidth / 2));
+                var minX = viewportWidth - totalWidth - 20;
+                var maxX = 20;
+                targetX = Math.min(maxX, Math.max(minX, targetX));
+            }
+            dockTrackEl.style.transform = 'translate3d(' + Math.round(targetX) + 'px, 0, 0)';
+        }
+
+        function applyIconToTile(tileIdx, iconPath) {
+            var tile = document.getElementById('tile-' + tileIdx);
+            if (!tile) return;
+            var svgWrap = document.getElementById('svg-wrap-' + tileIdx);
+            var fbWrap = document.getElementById('fb-wrap-' + tileIdx);
+            var existingImg = tile.querySelector('.app-official-icon');
+            var src = iconPath.indexOf('file://') === 0 ? iconPath : ('file://' + iconPath);
+            var testImg = new Image();
+            testImg.onload = function() {
+                if (svgWrap) svgWrap.style.display = 'none';
+                if (fbWrap) fbWrap.style.display = 'none';
+                if (!existingImg) {
+                    existingImg = document.createElement('img');
+                    existingImg.className = 'app-official-icon';
+                    tile.insertBefore(existingImg, tile.firstChild);
+                }
+                existingImg.src = src;
+                existingImg.style.display = 'block';
+            };
+            testImg.src = src;
+        }
+
+        function updateGreeting() {
+            var now = new Date();
+            var hour = now.getHours();
+            var greeting = "Bonjour";
+            if (hour >= 18 && hour < 23) {
+                greeting = "Bonsoir";
+            } else if (hour >= 23 || hour < 5) {
+                greeting = "Bon visionnage";
+            } else if (hour >= 12 && hour < 18) {
+                greeting = "Bon après-midi";
+            } else {
+                greeting = "Bonjour";
+            }
+            var el = document.getElementById('greetingText');
+            if (el) el.textContent = greeting;
+        }
+
+        function updateClock() {
+            if (document.hidden) return;
+            var now = new Date();
+            var h = ('0' + now.getHours()).slice(-2);
+            var m = ('0' + now.getMinutes()).slice(-2);
+            document.getElementById('clock').textContent = h + ':' + m;
+            var days = ['Dimanche','Lundi','Mardi','Mercredi','Jeudi','Vendredi','Samedi'];
+            var months = ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'];
+            document.getElementById('date').textContent = days[now.getDay()] + ' ' + now.getDate() + ' ' + months[now.getMonth()];
+            updateGreeting();
+        }
+        setInterval(updateClock, 15000);
+        setInterval(refreshMetrics, 15000);
+        updateClock();
+
+        // Météo en direct (Open-Meteo)
+        function getWeatherWmoInfo(code, isDay) {
+            if (code === 0) return { desc: isDay ? "Ensoleillé" : "Nuit claire", icon: isDay ? "☀️" : "🌙" };
+            if (code === 1 || code === 2) return { desc: isDay ? "Éclaircies" : "Peu nuageux", icon: isDay ? "🌤️" : "☁️" };
+            if (code === 3) return { desc: "Couvert", icon: "☁️" };
+            if (code === 45 || code === 48) return { desc: "Brouillard", icon: "🌫️" };
+            if (code >= 51 && code <= 55) return { desc: "Bruine", icon: "🌦️" };
+            if (code >= 61 && code <= 65) return { desc: "Pluie", icon: "🌧️" };
+            if (code >= 71 && code <= 77) return { desc: "Neige", icon: "❄️" };
+            if (code >= 80 && code <= 82) return { desc: "Averses", icon: "🌧️" };
+            if (code >= 95 && code <= 99) return { desc: "Orage", icon: "⛈️" };
+            return { desc: "Variable", icon: "⛅" };
+        }
+
+        function fetchWeather() {
+            try {
+                var url = "https://api.open-meteo.com/v1/forecast?latitude=46.2056&longitude=5.2203&current=temperature_2m,weather_code,is_day&timezone=Europe%2FParis";
+                var xhr = new XMLHttpRequest();
+                xhr.open("GET", url, true);
+                xhr.timeout = 8000;
+                xhr.onload = function() {
+                    if (xhr.status >= 200 && xhr.status < 300) {
+                        try {
+                            var data = JSON.parse(xhr.responseText);
+                            if (data && data.current) {
+                                var temp = Math.round(data.current.temperature_2m);
+                                var isDay = data.current.is_day !== 0;
+                                var wmo = getWeatherWmoInfo(data.current.weather_code, isDay);
+                                var tempEl = document.getElementById('weatherTemp');
+                                var condEl = document.getElementById('weatherCondition');
+                                var iconEl = document.getElementById('weatherIcon');
+                                if (tempEl) tempEl.textContent = temp + "°";
+                                if (condEl) condEl.textContent = wmo.desc;
+                                if (iconEl) iconEl.textContent = wmo.icon;
+                            }
+                        } catch (e) {}
+                    }
+                };
+                xhr.onerror = function() {};
+                xhr.send();
+            } catch (e) {}
+        }
+        fetchWeather();
+        setInterval(fetchWeather, 15 * 60 * 1000);
+
+        function showToast(msg) {
+            toastEl.textContent = msg;
+            toastEl.className = 'toast visible';
+            if (toastTimer) clearTimeout(toastTimer);
+            toastTimer = setTimeout(function() {
+                toastEl.className = 'toast';
+            }, 1800);
+        }
+
+        function setEditMode(on) {
+            if (isAddTileIndex(currentIndex) && on) return;
+            editMode = on;
+            if (editMode) {
+                editBannerEl.textContent = "MODE MODIFICATION : ◀ ▶ Déplacer • ▼ Retirer de l'accueil • OK Valider";
+                editBannerEl.className = 'edit-banner active';
+                if (tileEls[currentIndex]) {
+                    tileEls[currentIndex].classList.remove('focused');
+                    tileEls[currentIndex].classList.add('editing');
+                }
+            } else {
+                editBannerEl.className = 'edit-banner';
+                if (tileEls[currentIndex]) {
+                    tileEls[currentIndex].classList.remove('editing');
+                    tileEls[currentIndex].classList.add('focused');
+                }
+                saveDockApps();
+                showToast("Positions enregistrées");
+            }
+        }
+
+        function setFocus(nextIndex) {
+            var maxIndex = visibleApps.length; // inclut la tuile '+'
+            if (nextIndex < 0) nextIndex = maxIndex;
+            else if (nextIndex > maxIndex) nextIndex = 0;
+            if (nextIndex === currentIndex) return;
+
+            if (tileEls[currentIndex]) {
+                tileEls[currentIndex].classList.remove('focused');
+                tileEls[currentIndex].classList.remove('editing');
+            }
+            currentIndex = nextIndex;
+            if (tileEls[currentIndex]) {
+                tileEls[currentIndex].classList.add(editMode ? 'editing' : 'focused');
+            }
+            updateHeaderTitle();
+            updateDockScroll();
+        }
+
+        function moveCurrentTile(delta) {
+            if (isAddTileIndex(currentIndex)) return;
+            var app = visibleApps[currentIndex];
+            if (!app) return;
+            var targetVisible = currentIndex + delta;
+            if (targetVisible < 0) targetVisible = visibleApps.length - 1;
+            else if (targetVisible >= visibleApps.length) targetVisible = 0;
+
+            var targetApp = visibleApps[targetVisible];
+            var realIdx1 = APPS.indexOf(app);
+            var realIdx2 = APPS.indexOf(targetApp);
+            if (realIdx1 >= 0 && realIdx2 >= 0) {
+                var temp = APPS[realIdx1];
+                APPS[realIdx1] = APPS[realIdx2];
+                APPS[realIdx2] = temp;
+                currentIndex = targetVisible;
+                renderDock();
+                saveDockApps();
+            }
+        }
+
+        function removeCurrentApp() {
+            if (isAddTileIndex(currentIndex)) return;
+            var app = visibleApps[currentIndex];
+            if (!app) return;
+            if (visibleApps.length <= 1) {
+                showToast("Conservez au moins 1 application !");
+                return;
+            }
+            if (app.id === 'source:15') {
+                try { localStorage.setItem("custom_home_ps5_removed", "1"); } catch (e) {}
+            }
+            var removedName = app.name;
+            var realIdx = APPS.indexOf(app);
+            if (realIdx >= 0) {
+                APPS.splice(realIdx, 1);
+                saveDockApps();
+            }
+
+            if (currentIndex >= visibleApps.length - 1) {
+                currentIndex = Math.max(0, visibleApps.length - 2);
+            }
+            editMode = false;
+            renderDock();
+            showToast(removedName + " retiré de l'accueil");
+        }
+
+        // Liste propre des applications de divertissement / streaming / TV réelles
+        var MASTER_ENTERTAINMENT = [
+            { id: "QmpwflxWdt.CanalPlusLauncher", name: "CANAL+" },
+            { id: "org.tizen.netflix-app", name: "Netflix" },
+            { id: "org.tizen.primevideo", name: "Prime Video" },
+            { id: "MCmYXNxgcu.DisneyPlus", name: "Disney+" },
+            { id: "source:15", name: "PlayStation 5", isSource: true, sourceType: 15 },
+            { id: "com.samsung.tv.aria-video", name: "Apple TV" },
+            { id: "tUb3Xq7Lm9.Tube", name: "YouTube (Sans Pub)" },
+            { id: "9Ur5IzDKqV.TizenYouTube", name: "YouTube (Officiel)" },
+            { id: "QY16tZ64E3.francetv", name: "france.tv" },
+            { id: "znCs95n93Q.OqeeTV", name: "Free TV (OQEE)" },
+            { id: "E0P3lRI4H7.MYTF1", name: "TF1+" },
+            { id: "Ol7HVEXtqh.6play", name: "6play" },
+            { id: "bstjKvX6LM.molotov", name: "Molotov" },
+            { id: "aLlph042JZ.arte", name: "ARTE" },
+            { id: "rJeHak5zRg.Spotify", name: "Spotify" },
+            { id: "AprZAARz4r.Jellyfin", name: "Jellyfin" },
+            { id: "kIciSQlYEM.plex", name: "Plex" },
+            { id: "tCz5WMFzVa.LiveTV", name: "B.tv" },
+            { id: "vbUQClczfR.Wuakitv", name: "Rakuten TV" },
+            { id: "Jz7aUrV2Q4.Twitch", name: "Twitch" },
+            { id: "org.tizen.browser", name: "Navigateur Web" },
+            { id: "GHI3a0zMSx.XboxGamePass", name: "Xbox" },
+            { id: "w0wZu3xkQq.GeForceNOW", name: "GeForce NOW" },
+            { id: "CmeyUlnhYY.LunaWebApp", name: "Amazon Luna" },
+            { id: "MiUDVawh7P.UtomikTizen", name: "Utomik" },
+            { id: "BnhhSh4SVH.SFR", name: "RMC BFM Play" },
+            { id: "AQKO41xyKP.AmazonAlexa", name: "Amazon Alexa" }
+        ];
+
+        var BANNED_PATTERNS = [
+            'dummy', 'test', 'demo', 'popup', 'syspopup', 'service', 'daemon', 'svc',
+            'hotel', 'cloning', 'b2b', 'rdm', 'epop', 'pontus', 'oobe', 'setup',
+            'wizard', 'factory', 'diagnosis', 'devicecare', 'camera', 'soundbar',
+            'ambient', 'artpaint', 'cinemagraph', 'autolayout', 'easysetup', 'preview',
+            'smartthings', 'multiscreen', 'multiview', 'contentsbrowser', 'quickpanel',
+            'account', 'billing', 'player-tv', 'tv-viewer', 'sub1', 'sub2', 'sub3', 'sub4',
+            'sub5', 'sub6', 'software update', 'ci application', 'virtual-remote',
+            'menu', 'epg', 'hbbtv', 'hdmicec', 'rct-app', 'rscm', 'safcommon',
+            'security center', 'public value', 'cmswebapp', 'remotepc', 'screen-reader',
+            'voice', 'bixby', 'alexa-client', 'salute', 'stt', 'tts', 'was-', 'asm'
+        ];
+
+        function isCleanApp(id, name) {
+            if (!id || !name) return false;
+            if (id === "CustomHome.Main" || id.indexOf("vetrotvapp") === 0) return false;
+            for (var m = 0; m < MASTER_ENTERTAINMENT.length; m++) {
+                if (MASTER_ENTERTAINMENT[m].id === id) return true;
+            }
+            if (id.indexOf("com.samsung.") === 0) return false;
+            if (id.indexOf("org.tizen.") === 0) return false;
+
+            var lowId = id.toLowerCase();
+            var lowName = name.toLowerCase();
+            for (var b = 0; b < BANNED_PATTERNS.length; b++) {
+                var pat = BANNED_PATTERNS[b];
+                if (lowId.indexOf(pat) !== -1 || lowName.indexOf(pat) !== -1) return false;
+            }
+            if (name.trim().length <= 1) return false;
+            return true;
+        }
+
+        // Découverte des vraies applications de divertissement sans doublon
+        function loadAllInstalledApps() {
+            var discovered = [];
+            if (typeof tizen !== 'undefined' && tizen.application && tizen.application.getAppsInfo) {
+                try {
+                    tizen.application.getAppsInfo(function(appsList) {
+                        for (var i = 0; i < appsList.length; i++) {
+                            var a = appsList[i];
+                            if (!a || !a.id) continue;
+                            if (a.iconPath) {
+                                iconCache[a.id] = a.iconPath;
+                            }
+                            if (a.show === false) continue;
+                            if (isCleanApp(a.id, a.name)) {
+                                discovered.push({
+                                    id: a.id,
+                                    name: a.name,
+                                    iconPath: a.iconPath || null
+                                });
+                            }
+                        }
+                        finalizeInstalledApps(discovered);
+                    }, function() {
+                        finalizeInstalledApps([]);
+                    });
+                    return;
+                } catch (e) {}
+            }
+            finalizeInstalledApps([]);
+        }
+
+        function finalizeInstalledApps(discovered) {
+            var seenNames = {};
+            var seenIds = {};
+            var cleanList = [];
+
+            // 1. Applications Master (divertissement prioritaires sans doublon)
+            for (var m = 0; m < MASTER_ENTERTAINMENT.length; m++) {
+                var mApp = MASTER_ENTERTAINMENT[m];
+                var normName = mApp.name.toLowerCase().replace(/[^a-z0-9]/g, '');
+                seenNames[normName] = true;
+                seenIds[mApp.id] = true;
+                cleanList.push({
+                    id: mApp.id,
+                    name: mApp.name,
+                    iconPath: iconCache[mApp.id] || null
+                });
+            }
+
+            // 2. Applications tierces installées par l'utilisateur (dédoublonnées)
+            for (var i = 0; i < discovered.length; i++) {
+                var d = discovered[i];
+                if (seenIds[d.id]) continue;
+                var norm = d.name.toLowerCase().replace(/[^a-z0-9]/g, '');
+                if (seenNames[norm]) continue;
+
+                seenNames[norm] = true;
+                seenIds[d.id] = true;
+                cleanList.push(d);
+            }
+
+            cleanList.sort(function(a, b) {
+                return (a.name || "").localeCompare(b.name || "");
+            });
+            allInstalledApps = cleanList;
+
+            // Mettre à jour les icônes du dock si disponibles UNIQUEMENT pour les apps sans logo officiel dédié
+            for (var idx = 0; idx < APPS.length; idx++) {
+                if (!OFFICIAL_ICONS[APPS[idx].id] && !KNOWN_SVGS[APPS[idx].id] && iconCache[APPS[idx].id]) {
+                    applyIconToTile(idx, iconCache[APPS[idx].id]);
+                }
+            }
+        }
+
+        // Catalogue Modal
+        function openCatalog() {
+            catalogOpen = true;
+            catalogIndex = 0;
+            catalogModalEl.classList.add('open');
+            renderCatalogGrid();
+        }
+
+        function closeCatalog() {
+            catalogOpen = false;
+            catalogModalEl.classList.remove('open');
+            updateHeaderTitle();
+            updateDockScroll();
+        }
+
+        function isAppInDock(appId) {
+            for (var i = 0; i < APPS.length; i++) {
+                if (APPS[i].id === appId) return true;
+            }
+            return false;
+        }
+
+        function renderCatalogGrid() {
+            catalogGridEl.innerHTML = '';
+            catalogItems = [];
+
+            // Filtrer pour afficher la liste propre
+            var appsToDisplay = allInstalledApps.slice();
+            catalogCountEl.textContent = appsToDisplay.length + " disponibles";
+
+            for (var i = 0; i < appsToDisplay.length; i++) {
+                var app = appsToDisplay[i];
+                var already = isAppInDock(app.id);
+                var card = document.createElement('div');
+                card.className = 'catalog-item' + (i === catalogIndex ? ' focused' : '') + (already ? ' already-added' : '');
+                card.id = 'cat-item-' + i;
+
+                var iconHtml = '';
+                if (OFFICIAL_ICONS[app.id]) {
+                    var bg = BRAND_BACKGROUNDS[app.id] ? ('background:' + BRAND_BACKGROUNDS[app.id] + ';') : '';
+                    iconHtml = '<img src="' + OFFICIAL_ICONS[app.id] + '" style="width:100%;height:100%;object-fit:cover;padding:0;border-radius:12px;' + bg + '" alt="">';
+                } else if (KNOWN_SVGS[app.id]) {
+                    iconHtml = KNOWN_SVGS[app.id];
+                } else if (iconCache[app.id]) {
+                    iconHtml = '<img src="' + (iconCache[app.id].indexOf('file://') === 0 ? iconCache[app.id] : ('file://' + iconCache[app.id])) + '" alt="">';
+                } else {
+                    iconHtml = '<span style="font-size:32px;font-weight:900;color:#38bdf8;">' + (app.name || "A").charAt(0) + '</span>';
+                }
+
+                card.innerHTML = '<div class="catalog-item-icon">' + iconHtml + '</div>' +
+                                 '<div class="catalog-item-info">' +
+                                 '<div class="catalog-item-name">' + app.name + '</div>' +
+                                 '<div class="catalog-item-badge">' + (already ? '✓ Déjà sur l\'accueil' : '+ Ajouter') + '</div>' +
+                                 '</div>';
+                catalogGridEl.appendChild(card);
+                catalogItems.push(card);
+            }
+            scrollCatalogItemIntoView();
+        }
+
+        function setCatalogFocus(nextIdx) {
+            if (catalogItems.length === 0) return;
+            if (nextIdx < 0) nextIdx = 0;
+            if (nextIdx >= catalogItems.length) nextIdx = catalogItems.length - 1;
+            if (nextIdx === catalogIndex) return;
+
+            if (catalogItems[catalogIndex]) {
+                catalogItems[catalogIndex].classList.remove('focused');
+            }
+            catalogIndex = nextIdx;
+            if (catalogItems[catalogIndex]) {
+                catalogItems[catalogIndex].classList.add('focused');
+            }
+            scrollCatalogItemIntoView();
+        }
+
+        function scrollCatalogItemIntoView() {
+            var item = catalogItems[catalogIndex];
+            if (!item) return;
+            item.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+        }
+
+        function selectCatalogItem(idx) {
+            var app = allInstalledApps[idx];
+            if (!app) return;
+            if (isAppInDock(app.id)) {
+                showToast(app.name + " est déjà sur l'accueil !");
+                return;
+            }
+            APPS.push({
+                id: app.id,
+                name: app.name
+            });
+            saveDockApps();
+            closeCatalog();
+            currentIndex = APPS.length - 1; // focus sur la nouvelle app
+            renderDock();
+            showToast(app.name + " ajoutée à l'accueil !");
+        }
+
+        function launchHdmiSource(portType, name) {
+            isLaunching = true;
+            if (tileEls[currentIndex]) tileEls[currentIndex].classList.add('launching');
+            titleEl.textContent = "Lancement de " + name + "...";
+            showToast("Bascule vers " + name + " (HDMI 3)...");
+
+            var currentApp = (typeof tizen !== 'undefined' && tizen.application) ? tizen.application.getCurrentApplication() : null;
+
+            var cleanupLaunch = function() {
+                isLaunching = false;
+                if (tileEls[currentIndex]) tileEls[currentIndex].classList.remove('launching');
+                updateHeaderTitle();
+            };
+
+            // 1. Tizen Web API direct si disponible
+            try {
+                if (typeof tizen !== 'undefined' && tizen.tvwindow && tizen.tvwindow.setSource) {
+                    tizen.tvwindow.setSource({ type: "HDMI", number: 3 }, function() {
+                        try { if (currentApp) currentApp.hide(); } catch (e) {}
+                        setTimeout(cleanupLaunch, 500);
+                    }, function() {});
+                }
+            } catch (e) {}
+
+            // 2. Commande système aul_test directe via serveur local
+            var cmd = 'aul_test launch org.tizen.tv-viewer sourceType ' + portType + ' change_source ' + portType + ' sourceName "' + name + '" sourceIcon "/usr/apps/com.samsung.tv.theme-resource/shared/res/org.tizen.menu/Settings_Popup/device_icon/r_icon_device_s_hdmi.png" mbrIndex "-2" __K_EX_LAUNCH_REQUESTOR "user"';
+
+            try {
+                var xhr = new XMLHttpRequest();
+                xhr.open("POST", "http://127.0.0.1:8089/exec", true);
+                xhr.setRequestHeader("Content-Type", "application/json");
+                xhr.timeout = 3500;
+                xhr.onload = function() {
+                    try { if (currentApp) currentApp.hide(); } catch (e) {}
+                    setTimeout(cleanupLaunch, 600);
+                };
+                xhr.onerror = function() {
+                    setTimeout(cleanupLaunch, 600);
+                };
+                xhr.send(JSON.stringify({ cmd: cmd }));
+            } catch (e) {
+                setTimeout(cleanupLaunch, 600);
+            }
+        }
+
+        function launchSelected(index) {
+            if (isLaunching || editMode) return;
+            if (isAddTileIndex(index)) {
+                openCatalog();
+                return;
+            }
+            cancelAutoClean();
+            var appObj = visibleApps[index];
+            if (!appObj) return;
+
+            if (appObj.id === "source:15" || appObj.isSource) {
+                launchHdmiSource(15, appObj.name || "PlayStation 5");
+                return;
+            }
+
+            if (typeof tizen === 'undefined' || !tizen.application) return;
+
+            isLaunching = true;
+            if (tileEls[index]) tileEls[index].classList.add('launching');
+            titleEl.textContent = "Ouverture de " + appObj.name + "...";
+
+            var currentApp = tizen.application.getCurrentApplication();
+
+            var cleanupLaunch = function() {
+                isLaunching = false;
+                if (tileEls[index]) tileEls[index].classList.remove('launching');
+                titleEl.textContent = appObj.name;
+            };
+
+            var onSuccess = function() {
+                cleanupLaunch();
+                try { currentApp.hide(); } catch (e) {}
+            };
+
+            var onError = function() {
+                try {
+                    tizen.application.launch(
+                        appObj.id,
+                        onSuccess,
+                        function() {
+                            cleanupLaunch();
+                            showToast("Erreur lancement : " + appObj.name);
+                        }
+                    );
+                } catch (e) {
+                    cleanupLaunch();
+                }
+            };
+
+            try {
+                if (defaultAppCtrl && tizen.application.launchAppControl) {
+                    tizen.application.launchAppControl(defaultAppCtrl, appObj.id, onSuccess, onError);
+                } else {
+                    tizen.application.launch(appObj.id, onSuccess, onError);
+                }
+            } catch (e) {
+                onError();
+            }
+        }
+
+        var PURGE_CMD = "touch /tmp/purge_ram.trigger; app_launcher -k org.tizen.netflix-app; app_launcher -k QmpwflxWdt.CanalPlusLauncher; app_launcher -k org.tizen.primevideo; app_launcher -k MCmYXNxgcu.DisneyPlus; app_launcher -k AprZAARz4r.Jellyfin; app_launcher -k znCs95n93Q.OqeeTV; app_launcher -k tUb3Xq7Lm9.Tube; app_launcher -k 9Ur5IzDKqV.TizenYouTube; app_launcher -k aLlph042JZ.arte; app_launcher -k Ol7HVEXtqh.6play; app_launcher -k RffagId0eC.SfrSport; app_launcher -k bstjKvX6LM.molotov; app_launcher -k kIciSQlYEM.plex; app_launcher -k tCz5WMFzVa.LiveTV; app_launcher -k org.tizen.browser; app_launcher -k com.samsung.tv.cobalt-yt; app_launcher -k com.samsung.tv.home.media; app_launcher -k com.samsung.tv.home.sidebar; app_launcher -k com.samsung.tv.csfs; echo 3 > /proc/sys/vm/drop_caches";
+
+        function executeRootPurge(callback) {
+            try {
+                var xhr = new XMLHttpRequest();
+                xhr.open("POST", "http://127.0.0.1:8089/exec", true);
+                xhr.setRequestHeader("Content-Type", "application/json");
+                xhr.timeout = 4000;
+                xhr.onreadystatechange = function() {
+                    if (xhr.readyState === 4) {
+                        if (callback) callback(xhr.status === 200);
+                    }
+                };
+                xhr.onerror = function() { if (callback) callback(false); };
+                xhr.ontimeout = function() { if (callback) callback(false); };
+                xhr.send(JSON.stringify({ cmd: PURGE_CMD }));
+            } catch (err) {
+                if (callback) callback(false);
+            }
+        }
+
+        function cleanRamManual() {
+            showToast("Nettoyage RAM en cours...");
+            executeRootPurge(function(ok) {
+                showToast("RAM optimisée & applis fermées !");
+                setTimeout(refreshMetrics, 800);
+            });
+        }
+
+        // Fermeture automatique intelligente des applications en arrière-plan après 2 minutes d'inactivité sur l'accueil
+        var AUTO_CLEAN_DELAY_MS = 120000; // 2 minutes (120 secondes)
+        var autoCleanTimer = null;
+
+        function cleanRamSilent() {
+            executeRootPurge(function() {
+                setTimeout(refreshMetrics, 800);
+            });
+        }
+
+        function scheduleAutoClean() {
+            if (autoCleanTimer) clearTimeout(autoCleanTimer);
+            autoCleanTimer = setTimeout(function() {
+                autoCleanTimer = null;
+                cleanRamSilent();
+            }, AUTO_CLEAN_DELAY_MS);
+        }
+
+        function cancelAutoClean() {
+            if (autoCleanTimer) {
+                clearTimeout(autoCleanTimer);
+                autoCleanTimer = null;
+            }
+        }
+
+        document.addEventListener('visibilitychange', function() {
+            if (!document.hidden) {
+                isLaunching = false;
+                for (var i = 0; i < tileEls.length; i++) {
+                    tileEls[i].classList.remove('launching');
+                }
+                updateHeaderTitle();
+                updateClock();
+                fetchWeather();
+                refreshMetrics();
+                scheduleAutoClean();
+            } else {
+                cancelAutoClean();
+            }
+        });
+
+        loadDockApps();
+        renderDock();
+        loadAllInstalledApps();
+        refreshMetrics();
+        scheduleAutoClean();
+
+        document.addEventListener('keydown', function(e) {
+            if (!document.hidden && !catalogOpen) {
+                scheduleAutoClean();
+            }
+            var code = e.keyCode;
+
+            // 1. Navigation dans le catalogue ouvert
+            if (catalogOpen) {
+                if (code === 37) { // Gauche
+                    setCatalogFocus(catalogIndex - 1);
+                } else if (code === 39) { // Droite
+                    setCatalogFocus(catalogIndex + 1);
+                } else if (code === 38) { // Haut (grille à 4 colonnes)
+                    setCatalogFocus(catalogIndex - 4);
+                } else if (code === 40) { // Bas (grille à 4 colonnes)
+                    setCatalogFocus(catalogIndex + 4);
+                } else if (code === 13) { // OK
+                    selectCatalogItem(catalogIndex);
+                } else if (code === 10009 || code === 27) { // Touche Retour
+                    closeCatalog();
+                }
+                return;
+            }
+
+            // 2. Bouton central OK (court = ouvrir / valider, long = déplacer / retirer)
+            if (code === 13) {
+                if (isAddTileIndex(currentIndex)) {
+                    openCatalog();
+                    return;
+                }
+                if (enterDownAt === 0) {
+                    enterDownAt = Date.now();
+                    enterLongTriggered = false;
+                    if (enterHoldTimer) clearTimeout(enterHoldTimer);
+                    enterHoldTimer = setTimeout(function() {
+                        enterLongTriggered = true;
+                        setEditMode(!editMode);
+                    }, LONG_PRESS_MS);
+                } else if (!enterLongTriggered && (Date.now() - enterDownAt) >= LONG_PRESS_MS) {
+                    if (enterHoldTimer) clearTimeout(enterHoldTimer);
+                    enterLongTriggered = true;
+                    setEditMode(!editMode);
+                }
+                return;
+            }
+
+            // 3. Flèches directionnelles sur l'accueil
+            if (code === 37) { // Flèche Gauche
+                if (editMode) moveCurrentTile(-1);
+                else setFocus(currentIndex - 1);
+            } else if (code === 39) { // Flèche Droite
+                if (editMode) moveCurrentTile(1);
+                else setFocus(currentIndex + 1);
+            } else if (code === 40) { // Flèche Bas
+                if (editMode) {
+                    removeCurrentApp(); // Retirer l'application sélectionnée !
+                }
+            } else if (code === 38) { // Flèche Haut
+                if (editMode) setEditMode(false);
+            } else if (code === 403) { // Touche Rouge : Retirer directement l'application
+                removeCurrentApp();
+            } else if (code === 404) { // Touche Verte : Raccourci pour Ajouter une application
+                openCatalog();
+            } else if (code === 48) { // Touche 0 : Purger RAM
+                cleanRamManual();
+            } else if (!editMode && code >= 49 && code <= 55) { // Touches 1..7
+                var idx = code - 49;
+                if (idx < APPS.length) {
+                    setFocus(idx);
+                    launchSelected(idx);
+                }
+            } else if (code === 10009) { // Bouton Retour
+                if (editMode) {
+                    setEditMode(false);
+                } else if (typeof tizen !== 'undefined' && tizen.application) {
+                    try { tizen.application.getCurrentApplication().hide(); } catch (err) {}
+                }
+            }
+        });
+
+        document.addEventListener('keyup', function(e) {
+            if (e.keyCode === 13) {
+                if (catalogOpen) return;
+                if (isAddTileIndex(currentIndex)) return;
+
+                if (enterHoldTimer) {
+                    clearTimeout(enterHoldTimer);
+                    enterHoldTimer = null;
+                }
+                var heldMs = enterDownAt ? (Date.now() - enterDownAt) : 0;
+                enterDownAt = 0;
+
+                if (enterLongTriggered) {
+                    enterLongTriggered = false;
+                    return;
+                }
+                if (heldMs >= LONG_PRESS_MS) {
+                    setEditMode(!editMode);
+                } else {
+                    if (editMode) {
+                        setEditMode(false);
+                    } else {
+                        launchSelected(currentIndex);
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+*~
+.vscode/
+.idea/
+
+# Logs & temp files
+*.log
+/tmp/
+live_metrics.js
+live_metrics.js.tmp
+
+# Backup files
+*.bak
+*.b64
