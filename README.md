@@ -8,8 +8,9 @@
 
 - ⚡ **Navigation 60 FPS ultra-fluide** : Défilement accéléré matériellement par le GPU (`translate3d`), aucune saccade, zéro recalcul de layout lourd.
 - 🎨 **Fond d'ambiance réactif (Ambient Lighting)** : Éclairage feutré plein écran qui s'adapte subtilement à la couleur de l'application sélectionnée (temporisé pour ne jamais impacter la fluidité).
-- 🕒 **Salutation & Horloge adaptatives** : Mot d'accueil chaleureux selon le moment de la journée (*« Bonjour »*, *« Bon après-midi »*, *« Bonsoir »*, *« Douce nuit »*) avec horloge en temps réel.
-- ⛅ **Météo en direct** : Widget météo discret indiquant la température et l'état du ciel.
+- 📜 **Pensée & Citation philosophique du jour** : Une citation inspirante aléatoire à chaque allumage de la TV ou retour à l'accueil parmi un recueil soigné de 64 pensées (Sénèque, Marc Aurèle, Lao Tseu, Socrate, Nietzsche, Camus, Saint-Exupéry, Confucius, Oscar Wilde, Einstein...). Un algorithme de *tirage sans remise (deck Fisher-Yates)* stocké localement garantit zéro répétition avant épuisement complet du cycle.
+- 🕒 **Horloge & Date en temps réel** : Affichage discret et actualisé avec l'heure exacte et la date du jour en français.
+- ⛅ **Météo en direct** : Widget météo discret indiquant la température et l'état du ciel en temps réel.
 - 🎮 **Détection dynamique PS5 (HDMI 3)** : La tuile PlayStation 5 n'apparaît dans le dock que lorsque la console est branchée et allumée sur le port HDMI 3. Dès son extinction ou débranchement, le dock s'ajuste automatiquement sans laisser de tuile inutile.
 - 🗂️ **Dock entièrement personnalisable** :
   - **Ajout d'applications** : Catalogue intégré répertoriant toutes les applications installées sur la TV avec découverte automatique.
