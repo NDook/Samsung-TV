@@ -1983,14 +1983,11 @@
             }
         }
 
-        var PURGE_CMD = "touch /tmp/purge_ram.trigger; app_launcher -k org.tizen.netflix-app; app_launcher -k QmpwflxWdt.CanalPlusLauncher; app_launcher -k org.tizen.primevideo; app_launcher -k MCmYXNxgcu.DisneyPlus; app_launcher -k AprZAARz4r.Jellyfin; app_launcher -k znCs95n93Q.OqeeTV; app_launcher -k tUb3Xq7Lm9.Tube; app_launcher -k 9Ur5IzDKqV.TizenYouTube; app_launcher -k aLlph042JZ.arte; app_launcher -k Ol7HVEXtqh.6play; app_launcher -k RffagId0eC.SfrSport; app_launcher -k bstjKvX6LM.molotov; app_launcher -k kIciSQlYEM.plex; app_launcher -k tCz5WMFzVa.LiveTV; app_launcher -k org.tizen.browser; app_launcher -k com.samsung.tv.cobalt-yt; app_launcher -k com.samsung.tv.home.media; app_launcher -k com.samsung.tv.home.sidebar; app_launcher -k com.samsung.tv.csfs; echo 3 > /proc/sys/vm/drop_caches";
-
         function executeRootPurge(callback) {
             try {
                 var xhr = new XMLHttpRequest();
-                xhr.open("POST", "http://127.0.0.1:8089/exec", true);
-                xhr.setRequestHeader("Content-Type", "application/json");
-                xhr.timeout = 4000;
+                xhr.open("GET", "http://127.0.0.1:8089/plugins/mon-accueil-metrics/api/purge?t=" + Date.now(), true);
+                xhr.timeout = 15000;
                 xhr.onreadystatechange = function() {
                     if (xhr.readyState === 4) {
                         if (callback) callback(xhr.status === 200);
@@ -1998,7 +1995,7 @@
                 };
                 xhr.onerror = function() { if (callback) callback(false); };
                 xhr.ontimeout = function() { if (callback) callback(false); };
-                xhr.send(JSON.stringify({ cmd: PURGE_CMD }));
+                xhr.send();
             } catch (err) {
                 if (callback) callback(false);
             }

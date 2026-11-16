@@ -41,7 +41,10 @@ $check = Exec-TV "wc -c /tmp/index_dock.b64"
 Write-Host "wc -c : $($check.output)"
 
 Write-Host "Decodage Base64 vers /opt/usr/apps/CustomHome/res/wgt/index.html..."
-$cfgPath = "$PSScriptRoot\CustomHomeApp\config.xml"
+$cfgPath = "$PSScriptRoot\..\config.xml"
+if (-not (Test-Path $cfgPath)) {
+    $cfgPath = "C:\Users\HomeSweetHome\.gemini\antigravity\brain\aaaf9a32-67f7-4f6b-90af-05336be252ec\scratch\CustomHomeApp\config.xml"
+}
 $cfgB64 = [Convert]::ToBase64String([System.IO.File]::ReadAllBytes($cfgPath))
 $deployCmd = @"
 cat /tmp/index_dock.b64 | base64 -d > /opt/usr/apps/CustomHome/res/wgt/index.html
