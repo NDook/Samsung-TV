@@ -4,9 +4,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.2] - 2026-11-16
+### Modifications
+- Indicateur système dynamique en temps réel selon la RAM libre : vert « Système fluide » (≥ 35 %), orange « Mémoire chargée » (20–34 %), rouge « RAM saturée (▶⏸) » (< 20 %).
+
+---
+
 ## [v4.2.1] - 2026-11-16
 ### Modifications
 - Purge RAM manuelle en 1 clic via la touche Play/Pause (ou 0), mise à jour immédiate de la RAM affichée et message de retour précis (Mo libérés + nombre d'applis fermées).
+
+---
+
+## [v4.2.2] - 2026-11-16
+### Modifications
+- Indicateur système dynamique en temps réel selon la RAM libre : vert « Système fluide » (≥ 35 %), orange « Mémoire chargée » (20–34 %), rouge « RAM saturée (▶⏸) » (< 20 %).
 
 ---
 
@@ -16,9 +28,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.2] - 2026-11-16
+### Modifications
+- Indicateur système dynamique en temps réel selon la RAM libre : vert « Système fluide » (≥ 35 %), orange « Mémoire chargée » (20–34 %), rouge « RAM saturée (▶⏸) » (< 20 %).
+
+---
+
 ## [v4.2.1] - 2026-11-16
 ### Modifications
 - Purge RAM manuelle en 1 clic via la touche Play/Pause (ou 0), mise à jour immédiate de la RAM affichée et message de retour précis (Mo libérés + nombre d'applis fermées).
+
+---
+
+## [v4.2.2] - 2026-11-16
+### Modifications
+- Indicateur système dynamique en temps réel selon la RAM libre : vert « Système fluide » (≥ 35 %), orange « Mémoire chargée » (20–34 %), rouge « RAM saturée (▶⏸) » (< 20 %).
 
 ---
 
@@ -33,9 +57,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.2] - 2026-11-16
+### Modifications
+- Indicateur système dynamique en temps réel selon la RAM libre : vert « Système fluide » (≥ 35 %), orange « Mémoire chargée » (20–34 %), rouge « RAM saturée (▶⏸) » (< 20 %).
+
+---
+
 ## [v4.2.1] - 2026-11-16
 ### Modifications
 - Purge RAM manuelle en 1 clic via la touche Play/Pause (ou 0), mise à jour immédiate de la RAM affichée et message de retour précis (Mo libérés + nombre d'applis fermées).
+
+---
+
+## [v4.2.2] - 2026-11-16
+### Modifications
+- Indicateur système dynamique en temps réel selon la RAM libre : vert « Système fluide » (≥ 35 %), orange « Mémoire chargée » (20–34 %), rouge « RAM saturée (▶⏸) » (< 20 %).
 
 ---
 
@@ -45,9 +81,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.2] - 2026-11-16
+### Modifications
+- Indicateur système dynamique en temps réel selon la RAM libre : vert « Système fluide » (≥ 35 %), orange « Mémoire chargée » (20–34 %), rouge « RAM saturée (▶⏸) » (< 20 %).
+
+---
+
 ## [v4.2.1] - 2026-11-16
 ### Modifications
 - Purge RAM manuelle en 1 clic via la touche Play/Pause (ou 0), mise à jour immédiate de la RAM affichée et message de retour précis (Mo libérés + nombre d'applis fermées).
+
+---
+
+## [v4.2.2] - 2026-11-16
+### Modifications
+- Indicateur système dynamique en temps réel selon la RAM libre : vert « Système fluide » (≥ 35 %), orange « Mémoire chargée » (20–34 %), rouge « RAM saturée (▶⏸) » (< 20 %).
 
 ---
 
@@ -58,9 +106,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.2] - 2026-11-16
+### Modifications
+- Indicateur système dynamique en temps réel selon la RAM libre : vert « Système fluide » (≥ 35 %), orange « Mémoire chargée » (20–34 %), rouge « RAM saturée (▶⏸) » (< 20 %).
+
+---
+
 ## [v4.2.1] - 2026-11-16
 ### Modifications
 - Purge RAM manuelle en 1 clic via la touche Play/Pause (ou 0), mise à jour immédiate de la RAM affichée et message de retour précis (Mo libérés + nombre d'applis fermées).
+
+---
+
+## [v4.2.2] - 2026-11-16
+### Modifications
+- Indicateur système dynamique en temps réel selon la RAM libre : vert « Système fluide » (≥ 35 %), orange « Mémoire chargée » (20–34 %), rouge « RAM saturée (▶⏸) » (< 20 %).
 
 ---
 
@@ -70,9 +130,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.2] - 2026-11-16
+### Modifications
+- Indicateur système dynamique en temps réel selon la RAM libre : vert « Système fluide » (≥ 35 %), orange « Mémoire chargée » (20–34 %), rouge « RAM saturée (▶⏸) » (< 20 %).
+
+---
+
 ## [v4.2.1] - 2026-11-16
 ### Modifications
 - Purge RAM manuelle en 1 clic via la touche Play/Pause (ou 0), mise à jour immédiate de la RAM affichée et message de retour précis (Mo libérés + nombre d'applis fermées).
+
+---
+
+## [v4.2.2] - 2026-11-16
+### Modifications
+- Indicateur système dynamique en temps réel selon la RAM libre : vert « Système fluide » (≥ 35 %), orange « Mémoire chargée » (20–34 %), rouge « RAM saturée (▶⏸) » (< 20 %).
 
 ---
 

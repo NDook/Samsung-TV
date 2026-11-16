@@ -811,12 +811,12 @@
 
         <!-- 2. Indicateur Système Discret + Version (Droite) -->
         <div class="footer-right">
-            <div class="system-fluid-badge">
-                <span class="pulse-dot"></span>
-                <span class="system-status-text">Système fluide</span>
+            <div class="system-fluid-badge" id="systemBadge">
+                <span class="pulse-dot" id="systemPulseDot"></span>
+                <span class="system-status-text" id="systemStatusText">Système fluide</span>
                 <span class="system-status-ram" id="ramSummaryText">• Mémoire saine</span>
             </div>
-            <span class="app-version" id="appVersion">v4.2.1</span>
+            <span class="app-version" id="appVersion">v4.2.2</span>
         </div>
     </footer>
 
@@ -1091,6 +1091,33 @@
             var ramSummaryTextEl = document.getElementById('ramSummaryText');
             if (ramSummaryTextEl) {
                 ramSummaryTextEl.textContent = "• " + pctFree + "% libre";
+            }
+            var badgeEl = document.getElementById('systemBadge');
+            var dotEl = document.getElementById('systemPulseDot');
+            var statusEl = document.getElementById('systemStatusText');
+            if (badgeEl && dotEl && statusEl) {
+                if (pctFree >= 35) {
+                    statusEl.textContent = "Système fluide";
+                    statusEl.style.color = "#4ade80";
+                    dotEl.style.backgroundColor = "#22c55e";
+                    dotEl.style.boxShadow = "0 0 10px #22c55e";
+                    badgeEl.style.background = "rgba(34, 197, 94, 0.08)";
+                    badgeEl.style.borderColor = "rgba(34, 197, 94, 0.2)";
+                } else if (pctFree >= 20) {
+                    statusEl.textContent = "Mémoire chargée";
+                    statusEl.style.color = "#fbbf24";
+                    dotEl.style.backgroundColor = "#f59e0b";
+                    dotEl.style.boxShadow = "0 0 10px #f59e0b";
+                    badgeEl.style.background = "rgba(245, 158, 11, 0.10)";
+                    badgeEl.style.borderColor = "rgba(245, 158, 11, 0.25)";
+                } else {
+                    statusEl.textContent = "RAM saturée (▶⏸)";
+                    statusEl.style.color = "#f87171";
+                    dotEl.style.backgroundColor = "#ef4444";
+                    dotEl.style.boxShadow = "0 0 10px #ef4444";
+                    badgeEl.style.background = "rgba(239, 68, 68, 0.12)";
+                    badgeEl.style.borderColor = "rgba(239, 68, 68, 0.30)";
+                }
             }
             if (ramValEl) ramValEl.textContent = availMb + " / " + totalMb + " Mo";
             if (ramPctEl) ramPctEl.textContent = pctFree + "% libre";
