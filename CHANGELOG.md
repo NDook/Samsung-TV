@@ -4,9 +4,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
+
+---
+
 ## [v4.2.3] - 2026-11-16
 ### Modifications
 - Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
 
 ---
 
@@ -16,9 +28,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
+
+---
+
 ## [v4.2.3] - 2026-11-16
 ### Modifications
 - Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
 
 ---
 
@@ -28,9 +52,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
+
+---
+
 ## [v4.2.3] - 2026-11-16
 ### Modifications
 - Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
 
 ---
 
@@ -40,9 +76,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
+
+---
+
 ## [v4.2.3] - 2026-11-16
 ### Modifications
 - Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
 
 ---
 
@@ -52,9 +100,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
+
+---
+
 ## [v4.2.3] - 2026-11-16
 ### Modifications
 - Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
 
 ---
 
@@ -64,9 +124,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
+
+---
+
 ## [v4.2.3] - 2026-11-16
 ### Modifications
 - Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
 
 ---
 
@@ -76,9 +148,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
+
+---
+
 ## [v4.2.3] - 2026-11-16
 ### Modifications
 - Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
 
 ---
 
@@ -88,9 +172,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
+
+---
+
 ## [v4.2.3] - 2026-11-16
 ### Modifications
 - Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
 
 ---
 
@@ -105,9 +201,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
+
+---
+
 ## [v4.2.3] - 2026-11-16
 ### Modifications
 - Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
 
 ---
 
@@ -117,9 +225,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
+
+---
+
 ## [v4.2.3] - 2026-11-16
 ### Modifications
 - Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
 
 ---
 
@@ -129,9 +249,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
+
+---
+
 ## [v4.2.3] - 2026-11-16
 ### Modifications
 - Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
 
 ---
 
@@ -141,9 +273,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
+
+---
+
 ## [v4.2.3] - 2026-11-16
 ### Modifications
 - Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
 
 ---
 
@@ -153,9 +297,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
+
+---
+
 ## [v4.2.3] - 2026-11-16
 ### Modifications
 - Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
 
 ---
 
@@ -165,9 +321,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
+
+---
+
 ## [v4.2.3] - 2026-11-16
 ### Modifications
 - Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
 
 ---
 
@@ -177,9 +345,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
+
+---
+
 ## [v4.2.3] - 2026-11-16
 ### Modifications
 - Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
 
 ---
 
@@ -189,9 +369,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
+
+---
+
 ## [v4.2.3] - 2026-11-16
 ### Modifications
 - Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
 
 ---
 
@@ -202,9 +394,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
+
+---
+
 ## [v4.2.3] - 2026-11-16
 ### Modifications
 - Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
 
 ---
 
@@ -214,9 +418,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
+
+---
+
 ## [v4.2.3] - 2026-11-16
 ### Modifications
 - Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
 
 ---
 
@@ -226,9 +442,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
+
+---
+
 ## [v4.2.3] - 2026-11-16
 ### Modifications
 - Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
 
 ---
 
@@ -238,9 +466,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
+
+---
+
 ## [v4.2.3] - 2026-11-16
 ### Modifications
 - Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
 
 ---
 
@@ -250,9 +490,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
+
+---
+
 ## [v4.2.3] - 2026-11-16
 ### Modifications
 - Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
 
 ---
 
@@ -262,9 +514,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
+
+---
+
 ## [v4.2.3] - 2026-11-16
 ### Modifications
 - Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
 
 ---
 
@@ -274,9 +538,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
+
+---
+
 ## [v4.2.3] - 2026-11-16
 ### Modifications
 - Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
 
 ---
 
@@ -286,9 +562,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
+
+---
+
 ## [v4.2.3] - 2026-11-16
 ### Modifications
 - Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
+## [v4.2.4] - 2026-11-16
+### Modifications
+- Autorisation du privilège réseau Tizen (http://tizen.org/privilege/internet) dans config.xml et Cynara (MANIFESTS_GLOBAL), débloquant la purge RAM et la météo en direct.
 
 ---
 
