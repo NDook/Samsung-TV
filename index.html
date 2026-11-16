@@ -535,6 +535,20 @@
             margin-left: 2px;
         }
 
+        .footer-right {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+        }
+
+        .app-version {
+            font-size: 13px;
+            font-weight: 600;
+            color: rgba(148, 163, 184, 0.45);
+            letter-spacing: 0.6px;
+            user-select: none;
+        }
+
         /* Modal Catalogue pour Ajouter une Application */
         .catalog-modal {
             position: fixed;
@@ -795,11 +809,14 @@
             </div>
         </div>
 
-        <!-- 2. Indicateur Système Discret (Droite) -->
-        <div class="system-fluid-badge">
-            <span class="pulse-dot"></span>
-            <span class="system-status-text">Système fluide</span>
-            <span class="system-status-ram" id="ramSummaryText">• Mémoire saine</span>
+        <!-- 2. Indicateur Système Discret + Version (Droite) -->
+        <div class="footer-right">
+            <div class="system-fluid-badge">
+                <span class="pulse-dot"></span>
+                <span class="system-status-text">Système fluide</span>
+                <span class="system-status-ram" id="ramSummaryText">• Mémoire saine</span>
+            </div>
+            <span class="app-version" id="appVersion">v4.1.0</span>
         </div>
     </footer>
 
