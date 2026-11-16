@@ -816,7 +816,7 @@
                 <span class="system-status-text">Système fluide</span>
                 <span class="system-status-ram" id="ramSummaryText">• Mémoire saine</span>
             </div>
-            <span class="app-version" id="appVersion">v4.1.0</span>
+            <span class="app-version" id="appVersion">v4.2.0</span>
         </div>
     </footer>
 
@@ -1951,12 +1951,14 @@
             if (!appObj) return;
 
             if (appObj.id === "source:15" || appObj.isSource) {
+                executeRootPurge(null, null);
                 launchHdmiSource(15, appObj.name || "PlayStation 5");
                 return;
             }
 
             if (typeof tizen === 'undefined' || !tizen.application) return;
 
+            executeRootPurge(null, appObj.id);
             isLaunching = true;
             if (tileEls[index]) tileEls[index].classList.add('launching');
             titleEl.textContent = "Ouverture de " + appObj.name + "...";
@@ -2000,10 +2002,12 @@
             }
         }
 
-        function executeRootPurge(callback) {
+        function executeRootPurge(callback, keepAppId) {
             try {
+                var url = "http://127.0.0.1:8089/plugins/mon-accueil-metrics/api/purge?t=" + Date.now();
+                if (keepAppId) url += "&keep=" + encodeURIComponent(keepAppId);
                 var xhr = new XMLHttpRequest();
-                xhr.open("GET", "http://127.0.0.1:8089/plugins/mon-accueil-metrics/api/purge?t=" + Date.now(), true);
+                xhr.open("GET", url, true);
                 xhr.timeout = 15000;
                 xhr.onreadystatechange = function() {
                     if (xhr.readyState === 4) {

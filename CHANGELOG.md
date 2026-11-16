@@ -4,6 +4,12 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.0] - 2026-11-16
+### Modifications
+- Optimisation majeure des performances TV : purge instantanée ciblée au lancement d'une app (?keep=), détection rapide des apps actives via app_launcher -S, réglage noyau vm.swappiness=60 / vfs_cache_pressure=80 et désactivation de HbbTV (-40 Mo RAM).
+
+---
+
 ## [v4.1.0] - 2026-11-16
 ### Ajouté
 - Affichage discret de la version de l'application (`v4.1.0`) dans la barre inférieure de l'interface.
@@ -15,10 +21,22 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.0] - 2026-11-16
+### Modifications
+- Optimisation majeure des performances TV : purge instantanée ciblée au lancement d'une app (?keep=), détection rapide des apps actives via app_launcher -S, réglage noyau vm.swappiness=60 / vfs_cache_pressure=80 et désactivation de HbbTV (-40 Mo RAM).
+
+---
+
 ## [v4.0.1] - 2026-11-12
 ### Ajouté
 - **Pensée & Citation philosophique du jour** (`33f1dc9`) : remplacement de la salutation par 64 citations philosophiques et inspirantes tirées sans remise via un deck **Fisher-Yates** stocké en `localStorage` (zéro répétition avant la fin du cycle).
 - Mise à jour de la documentation (`README.md`) avec la nouvelle fonctionnalité (`90e6905`).
+
+---
+
+## [v4.2.0] - 2026-11-16
+### Modifications
+- Optimisation majeure des performances TV : purge instantanée ciblée au lancement d'une app (?keep=), détection rapide des apps actives via app_launcher -S, réglage noyau vm.swappiness=60 / vfs_cache_pressure=80 et désactivation de HbbTV (-40 Mo RAM).
 
 ---
 
