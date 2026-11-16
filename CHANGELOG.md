@@ -4,9 +4,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.1] - 2026-11-16
+### Modifications
+- Purge RAM manuelle en 1 clic via la touche Play/Pause (ou 0), mise à jour immédiate de la RAM affichée et message de retour précis (Mo libérés + nombre d'applis fermées).
+
+---
+
 ## [v4.2.0] - 2026-11-16
 ### Modifications
 - Optimisation majeure des performances TV : purge instantanée ciblée au lancement d'une app (?keep=), détection rapide des apps actives via app_launcher -S, réglage noyau vm.swappiness=60 / vfs_cache_pressure=80 et désactivation de HbbTV (-40 Mo RAM).
+
+---
+
+## [v4.2.1] - 2026-11-16
+### Modifications
+- Purge RAM manuelle en 1 clic via la touche Play/Pause (ou 0), mise à jour immédiate de la RAM affichée et message de retour précis (Mo libérés + nombre d'applis fermées).
 
 ---
 
@@ -21,9 +33,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.1] - 2026-11-16
+### Modifications
+- Purge RAM manuelle en 1 clic via la touche Play/Pause (ou 0), mise à jour immédiate de la RAM affichée et message de retour précis (Mo libérés + nombre d'applis fermées).
+
+---
+
 ## [v4.2.0] - 2026-11-16
 ### Modifications
 - Optimisation majeure des performances TV : purge instantanée ciblée au lancement d'une app (?keep=), détection rapide des apps actives via app_launcher -S, réglage noyau vm.swappiness=60 / vfs_cache_pressure=80 et désactivation de HbbTV (-40 Mo RAM).
+
+---
+
+## [v4.2.1] - 2026-11-16
+### Modifications
+- Purge RAM manuelle en 1 clic via la touche Play/Pause (ou 0), mise à jour immédiate de la RAM affichée et message de retour précis (Mo libérés + nombre d'applis fermées).
 
 ---
 
@@ -34,9 +58,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.1] - 2026-11-16
+### Modifications
+- Purge RAM manuelle en 1 clic via la touche Play/Pause (ou 0), mise à jour immédiate de la RAM affichée et message de retour précis (Mo libérés + nombre d'applis fermées).
+
+---
+
 ## [v4.2.0] - 2026-11-16
 ### Modifications
 - Optimisation majeure des performances TV : purge instantanée ciblée au lancement d'une app (?keep=), détection rapide des apps actives via app_launcher -S, réglage noyau vm.swappiness=60 / vfs_cache_pressure=80 et désactivation de HbbTV (-40 Mo RAM).
+
+---
+
+## [v4.2.1] - 2026-11-16
+### Modifications
+- Purge RAM manuelle en 1 clic via la touche Play/Pause (ou 0), mise à jour immédiate de la RAM affichée et message de retour précis (Mo libérés + nombre d'applis fermées).
 
 ---
 

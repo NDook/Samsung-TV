@@ -816,7 +816,7 @@
                 <span class="system-status-text">Système fluide</span>
                 <span class="system-status-ram" id="ramSummaryText">• Mémoire saine</span>
             </div>
-            <span class="app-version" id="appVersion">v4.2.0</span>
+            <span class="app-version" id="appVersion">v4.2.1</span>
         </div>
     </footer>
 
@@ -1050,7 +1050,7 @@
         // Enregistrement des touches de la télécommande physique (Tizen TV Input Device)
         try {
             if (typeof tizen !== 'undefined' && tizen.tvinputdevice && tizen.tvinputdevice.registerKey) {
-                var neededKeys = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'ColorF0Red', 'ColorF1Green', 'ColorF2Yellow', 'ColorF3Blue'];
+                var neededKeys = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'ColorF0Red', 'ColorF1Green', 'ColorF2Yellow', 'ColorF3Blue', 'MediaPlayPause'];
                 for (var k = 0; k < neededKeys.length; k++) {
                     try { tizen.tvinputdevice.registerKey(neededKeys[k]); } catch (errKey) {}
                 }
@@ -2011,21 +2011,42 @@
                 xhr.timeout = 15000;
                 xhr.onreadystatechange = function() {
                     if (xhr.readyState === 4) {
-                        if (callback) callback(xhr.status === 200);
+                        var data = null;
+                        if (xhr.status === 200 && xhr.responseText) {
+                            try { data = JSON.parse(xhr.responseText); } catch (e) {}
+                            if (data && data.metrics) {
+                                window.__TV_METRICS__ = data.metrics;
+                                applyMetricsObject(data.metrics);
+                            }
+                        }
+                        if (callback) callback(xhr.status === 200, data);
                     }
                 };
-                xhr.onerror = function() { if (callback) callback(false); };
-                xhr.ontimeout = function() { if (callback) callback(false); };
+                xhr.onerror = function() { if (callback) callback(false, null); };
+                xhr.ontimeout = function() { if (callback) callback(false, null); };
                 xhr.send();
             } catch (err) {
-                if (callback) callback(false);
+                if (callback) callback(false, null);
             }
         }
 
         function cleanRamManual() {
+            var beforeMb = (window.__TV_METRICS__ && window.__TV_METRICS__.ram) ? window.__TV_METRICS__.ram.availableMb : null;
             showToast("Nettoyage RAM en cours...");
-            executeRootPurge(function(ok) {
-                showToast("RAM optimisée & applis fermées !");
+            executeRootPurge(function(ok, data) {
+                if (!ok || !data) {
+                    showToast("Erreur : purge RAM impossible (Vetro)");
+                    return;
+                }
+                var ram = data.metrics && data.metrics.ram ? data.metrics.ram : null;
+                var pctTxt = ram ? (ram.freePercent + "% libre") : "";
+                var diffMb = (beforeMb != null && ram) ? (ram.availableMb - beforeMb) : 0;
+                var diffTxt = diffMb > 0 ? (" (+" + diffMb + " Mo)") : "";
+                if (data.killed > 0) {
+                    showToast("RAM : " + pctTxt + diffTxt + " • " + data.killed + " appli(s) fermée(s)");
+                } else {
+                    showToast("RAM déjà propre : " + pctTxt + diffTxt);
+                }
                 setTimeout(refreshMetrics, 800);
             });
         }
@@ -2141,7 +2162,7 @@
                 removeCurrentApp();
             } else if (code === 404) { // Touche Verte : Raccourci pour Ajouter une application
                 openCatalog();
-            } else if (code === 48) { // Touche 0 : Purger RAM
+            } else if (code === 48 || e.key === '0' || code === 10252 || code === 415) { // Touche 0 ou Play/Pause : Purger RAM
                 cleanRamManual();
             } else if (!editMode && code >= 49 && code <= 55) { // Touches 1..7
                 var idx = code - 49;

@@ -78,7 +78,7 @@ mon-accueil-tv/
 | **Touche Rouge** | Retirer immédiatement l'application sous le curseur |
 | **Touche Verte** | Raccourci direct pour ouvrir le catalogue d'applications |
 | **Touches 1 à 7** | Lancement direct des 7 premières applications du dock |
-| **Touche 0** | Purge manuelle de la mémoire vive (RAM) |
+| **Touche `▶⏸` (Play/Pause) ou `0`** | Purge manuelle instantanée de la mémoire vive (RAM) avec retour chiffré |
 | **Retour** | Fermer le catalogue / Revenir à l'accueil |
 
 ---
