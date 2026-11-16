@@ -4,9 +4,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -16,9 +28,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -28,9 +52,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -40,9 +76,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -52,9 +100,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -64,9 +124,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -76,9 +148,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -88,9 +172,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -100,9 +196,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -112,9 +220,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -124,9 +244,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -136,9 +268,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -148,9 +292,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -160,9 +316,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -172,9 +340,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -184,9 +364,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -196,9 +388,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -208,9 +412,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -220,9 +436,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -232,9 +460,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -244,9 +484,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -256,9 +508,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -268,9 +532,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -280,9 +556,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -292,9 +580,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -304,9 +604,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -316,9 +628,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -328,9 +652,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -340,9 +676,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -352,9 +700,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -364,9 +724,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -376,9 +748,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -393,9 +777,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -405,9 +801,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -417,9 +825,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -429,9 +849,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -441,9 +873,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -453,9 +897,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -465,9 +921,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -477,9 +945,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -489,9 +969,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -501,9 +993,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -513,9 +1017,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -525,9 +1041,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -537,9 +1065,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -549,9 +1089,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -561,9 +1113,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -573,9 +1137,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -585,9 +1161,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -597,9 +1185,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -609,9 +1209,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -621,9 +1233,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -633,9 +1257,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -645,9 +1281,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -657,9 +1305,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -669,9 +1329,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -681,9 +1353,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -693,9 +1377,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -705,9 +1401,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -717,9 +1425,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -729,9 +1449,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -741,9 +1473,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -753,9 +1497,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -765,9 +1521,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -778,9 +1546,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -790,9 +1570,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -802,9 +1594,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -814,9 +1618,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -826,9 +1642,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -838,9 +1666,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -850,9 +1690,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -862,9 +1714,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -874,9 +1738,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -886,9 +1762,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -898,9 +1786,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -910,9 +1810,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -922,9 +1834,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -934,9 +1858,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -946,9 +1882,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -958,9 +1906,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -970,9 +1930,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -982,9 +1954,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -994,9 +1978,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -1006,9 +2002,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -1018,9 +2026,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -1030,9 +2050,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -1042,9 +2074,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -1054,9 +2098,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -1066,9 +2122,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -1078,9 +2146,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -1090,9 +2170,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -1102,9 +2194,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -1114,9 +2218,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -1126,9 +2242,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -1138,9 +2266,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 
@@ -1150,9 +2290,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
 ## [v4.3.0] - 2026-11-16
 ### Modifications
 - Refonte simple et saine de la gestion RAM : respect de la mise en veille native Tizen pour garder les applis ouvertes en mémoire (reprise instantanée), suppression de la purge agressive et des appels XHR localhost défaillants, conservation du réglage noyau (swappiness=60) et du garde-fou anti-freeze CPU (GIBBON_MAIN).
+
+---
+
+## [v4.3.1] - 2026-11-16
+### Modifications
+- Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
 
 ---
 

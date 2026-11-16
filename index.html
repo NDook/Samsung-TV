@@ -107,13 +107,10 @@
             display: flex;
             align-items: center;
             gap: 14px;
-            background: rgba(255, 255, 255, 0.04);
-            border: 1px solid rgba(255, 255, 255, 0.08);
+            background: rgba(15, 23, 42, 0.78);
+            border: 1px solid rgba(255, 255, 255, 0.09);
             border-radius: 20px;
             padding: 8px 20px;
-            backdrop-filter: blur(16px);
-            -webkit-backdrop-filter: blur(16px);
-            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.35);
         }
         .weather-icon {
             font-size: 34px;
@@ -225,7 +222,7 @@
         .dock-track {
             display: flex;
             align-items: center;
-            transition: transform 180ms cubic-bezier(0.2, 0.9, 0.3, 1);
+            transition: transform 110ms cubic-bezier(0.2, 0.9, 0.3, 1);
             will-change: transform;
             width: max-content;
             margin: 0;
@@ -237,6 +234,7 @@
             margin: 0 10px;
             border-radius: 48px;
             background-color: #151d2a;
+            border: 1px solid rgba(255, 255, 255, 0.06);
             display: flex;
             align-items: center;
             justify-content: center;
@@ -246,25 +244,27 @@
             backface-visibility: hidden;
             -webkit-backface-visibility: hidden;
             will-change: transform;
-            transition: transform 180ms cubic-bezier(0.2, 0.9, 0.3, 1);
+            transition: transform 110ms cubic-bezier(0.2, 0.9, 0.3, 1);
             flex-shrink: 0;
             box-sizing: border-box;
-            box-shadow: 0 12px 28px rgba(0, 0, 0, 0.55);
             contain: layout style;
         }
         .app-tile.focused {
             transform: translate3d(0, -12px, 0) scale(1.08);
-            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.8), 0 0 0 3.5px #38bdf8;
+            border-color: transparent;
+            box-shadow: 0 0 0 3.5px #38bdf8;
             z-index: 10;
         }
         .app-tile.editing {
             transform: translate3d(0, -16px, 0) scale(1.1);
-            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.8), 0 0 0 3.5px #f59e0b;
+            border-color: transparent;
+            box-shadow: 0 0 0 3.5px #f59e0b;
             z-index: 10;
         }
         .app-tile.launching {
             transform: translate3d(0, -4px, 0) scale(1.02);
-            box-shadow: 0 16px 32px rgba(0, 0, 0, 0.8), 0 0 0 3.5px #38bdf8;
+            border-color: transparent;
+            box-shadow: 0 0 0 3.5px #38bdf8;
             z-index: 10;
         }
 
@@ -312,9 +312,7 @@
             bottom: 12px;
             left: 50%;
             transform: translateX(-50%);
-            background: rgba(10, 15, 25, 0.72);
-            backdrop-filter: blur(8px);
-            -webkit-backdrop-filter: blur(8px);
+            background: rgba(10, 15, 25, 0.88);
             border: 1px solid rgba(255, 255, 255, 0.18);
             border-radius: 12px;
             padding: 3px 10px;
@@ -406,14 +404,13 @@
         /* Tuile "+ Ajouter" */
         .app-tile.add-tile {
             background: rgba(255, 255, 255, 0.04);
-            border: 2px dashed rgba(255, 255, 255, 0.12);
-            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+            border: 2px dashed rgba(255, 255, 255, 0.14);
             cursor: pointer;
         }
         .app-tile.add-tile.focused {
-            background: rgba(255, 255, 255, 0.08);
-            border-color: #38bdf8;
-            box-shadow: 0 24px 48px rgba(0, 0, 0, 0.85), 0 0 28px rgba(56, 189, 248, 0.4);
+            background: rgba(255, 255, 255, 0.09);
+            border: 2px solid #38bdf8;
+            box-shadow: 0 0 0 2px #38bdf8;
         }
         .add-content {
             display: flex;
@@ -451,15 +448,12 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
-            background: rgba(15, 23, 42, 0.6);
-            backdrop-filter: blur(20px);
-            -webkit-backdrop-filter: blur(20px);
-            border: 1px solid rgba(255, 255, 255, 0.07);
+            background: rgba(15, 23, 42, 0.82);
+            border: 1px solid rgba(255, 255, 255, 0.08);
             border-radius: 26px;
             padding: 12px 28px;
             width: 100%;
             box-sizing: border-box;
-            box-shadow: 0 16px 36px rgba(0, 0, 0, 0.4);
         }
 
         .salon-status-group {
@@ -816,7 +810,7 @@
                 <span class="system-status-text" id="systemStatusText">Système fluide</span>
                 <span class="system-status-ram" id="ramSummaryText">• Mémoire saine</span>
             </div>
-            <span class="app-version" id="appVersion">v4.3.0</span>
+            <span class="app-version" id="appVersion">v4.3.1</span>
         </div>
     </footer>
 
