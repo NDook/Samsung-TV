@@ -4,9 +4,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.3] - 2026-11-16
+### Modifications
+- Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
 ## [v4.2.2] - 2026-11-16
 ### Modifications
 - Indicateur système dynamique en temps réel selon la RAM libre : vert « Système fluide » (≥ 35 %), orange « Mémoire chargée » (20–34 %), rouge « RAM saturée (▶⏸) » (< 20 %).
+
+---
+
+## [v4.2.3] - 2026-11-16
+### Modifications
+- Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
 
 ---
 
@@ -16,9 +28,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.3] - 2026-11-16
+### Modifications
+- Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
 ## [v4.2.2] - 2026-11-16
 ### Modifications
 - Indicateur système dynamique en temps réel selon la RAM libre : vert « Système fluide » (≥ 35 %), orange « Mémoire chargée » (20–34 %), rouge « RAM saturée (▶⏸) » (< 20 %).
+
+---
+
+## [v4.2.3] - 2026-11-16
+### Modifications
+- Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
 
 ---
 
@@ -28,9 +52,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.3] - 2026-11-16
+### Modifications
+- Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
 ## [v4.2.2] - 2026-11-16
 ### Modifications
 - Indicateur système dynamique en temps réel selon la RAM libre : vert « Système fluide » (≥ 35 %), orange « Mémoire chargée » (20–34 %), rouge « RAM saturée (▶⏸) » (< 20 %).
+
+---
+
+## [v4.2.3] - 2026-11-16
+### Modifications
+- Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
 
 ---
 
@@ -40,9 +76,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.3] - 2026-11-16
+### Modifications
+- Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
 ## [v4.2.2] - 2026-11-16
 ### Modifications
 - Indicateur système dynamique en temps réel selon la RAM libre : vert « Système fluide » (≥ 35 %), orange « Mémoire chargée » (20–34 %), rouge « RAM saturée (▶⏸) » (< 20 %).
+
+---
+
+## [v4.2.3] - 2026-11-16
+### Modifications
+- Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
 
 ---
 
@@ -57,9 +105,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.3] - 2026-11-16
+### Modifications
+- Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
 ## [v4.2.2] - 2026-11-16
 ### Modifications
 - Indicateur système dynamique en temps réel selon la RAM libre : vert « Système fluide » (≥ 35 %), orange « Mémoire chargée » (20–34 %), rouge « RAM saturée (▶⏸) » (< 20 %).
+
+---
+
+## [v4.2.3] - 2026-11-16
+### Modifications
+- Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
 
 ---
 
@@ -69,9 +129,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.3] - 2026-11-16
+### Modifications
+- Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
 ## [v4.2.2] - 2026-11-16
 ### Modifications
 - Indicateur système dynamique en temps réel selon la RAM libre : vert « Système fluide » (≥ 35 %), orange « Mémoire chargée » (20–34 %), rouge « RAM saturée (▶⏸) » (< 20 %).
+
+---
+
+## [v4.2.3] - 2026-11-16
+### Modifications
+- Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
 
 ---
 
@@ -81,9 +153,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.3] - 2026-11-16
+### Modifications
+- Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
 ## [v4.2.2] - 2026-11-16
 ### Modifications
 - Indicateur système dynamique en temps réel selon la RAM libre : vert « Système fluide » (≥ 35 %), orange « Mémoire chargée » (20–34 %), rouge « RAM saturée (▶⏸) » (< 20 %).
+
+---
+
+## [v4.2.3] - 2026-11-16
+### Modifications
+- Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
 
 ---
 
@@ -93,9 +177,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.3] - 2026-11-16
+### Modifications
+- Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
 ## [v4.2.2] - 2026-11-16
 ### Modifications
 - Indicateur système dynamique en temps réel selon la RAM libre : vert « Système fluide » (≥ 35 %), orange « Mémoire chargée » (20–34 %), rouge « RAM saturée (▶⏸) » (< 20 %).
+
+---
+
+## [v4.2.3] - 2026-11-16
+### Modifications
+- Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
 
 ---
 
@@ -106,9 +202,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.3] - 2026-11-16
+### Modifications
+- Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
 ## [v4.2.2] - 2026-11-16
 ### Modifications
 - Indicateur système dynamique en temps réel selon la RAM libre : vert « Système fluide » (≥ 35 %), orange « Mémoire chargée » (20–34 %), rouge « RAM saturée (▶⏸) » (< 20 %).
+
+---
+
+## [v4.2.3] - 2026-11-16
+### Modifications
+- Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
 
 ---
 
@@ -118,9 +226,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.3] - 2026-11-16
+### Modifications
+- Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
 ## [v4.2.2] - 2026-11-16
 ### Modifications
 - Indicateur système dynamique en temps réel selon la RAM libre : vert « Système fluide » (≥ 35 %), orange « Mémoire chargée » (20–34 %), rouge « RAM saturée (▶⏸) » (< 20 %).
+
+---
+
+## [v4.2.3] - 2026-11-16
+### Modifications
+- Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
 
 ---
 
@@ -130,9 +250,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.3] - 2026-11-16
+### Modifications
+- Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
 ## [v4.2.2] - 2026-11-16
 ### Modifications
 - Indicateur système dynamique en temps réel selon la RAM libre : vert « Système fluide » (≥ 35 %), orange « Mémoire chargée » (20–34 %), rouge « RAM saturée (▶⏸) » (< 20 %).
+
+---
+
+## [v4.2.3] - 2026-11-16
+### Modifications
+- Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
 
 ---
 
@@ -142,9 +274,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.2.3] - 2026-11-16
+### Modifications
+- Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
+
+---
+
 ## [v4.2.2] - 2026-11-16
 ### Modifications
 - Indicateur système dynamique en temps réel selon la RAM libre : vert « Système fluide » (≥ 35 %), orange « Mémoire chargée » (20–34 %), rouge « RAM saturée (▶⏸) » (< 20 %).
+
+---
+
+## [v4.2.3] - 2026-11-16
+### Modifications
+- Correction de l'erreur de purge RAM : serveur local dédié sur 127.0.0.1:8090 sans restriction d'origine Tizen (file://) ni blocage auth.gate.
 
 ---
 

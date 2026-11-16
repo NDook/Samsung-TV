@@ -816,7 +816,7 @@
                 <span class="system-status-text" id="systemStatusText">Système fluide</span>
                 <span class="system-status-ram" id="ramSummaryText">• Mémoire saine</span>
             </div>
-            <span class="app-version" id="appVersion">v4.2.2</span>
+            <span class="app-version" id="appVersion">v4.2.3</span>
         </div>
     </footer>
 
@@ -2031,7 +2031,7 @@
 
         function executeRootPurge(callback, keepAppId) {
             try {
-                var url = "http://127.0.0.1:8089/plugins/mon-accueil-metrics/api/purge?t=" + Date.now();
+                var url = "http://127.0.0.1:8090/purge?t=" + Date.now();
                 if (keepAppId) url += "&keep=" + encodeURIComponent(keepAppId);
                 var xhr = new XMLHttpRequest();
                 xhr.open("GET", url, true);
