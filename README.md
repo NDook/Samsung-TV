@@ -17,9 +17,9 @@
   - **Déplacement / Réorganisation** : Mode réorganisation à la télécommande (appui long sur `OK` ou flèches).
   - **Suppression rapide** : Retrait d'une application du dock d'un simple clic (touche rouge ou flèche bas en mode édition).
   - **Persistance locale** : Vos préférences d'ordre et d'applications restent mémorisées dans le stockage local de la TV.
-- 🧹 **Nettoyage automatique & libération de la RAM** :
-  - Décharge automatiquement les applications d'arrière-plan en veille pour conserver un maximum de mémoire vive disponible.
-  - Raccourci manuel (Touche `0`) pour purger la mémoire instantanément en cas de besoin.
+- 🧠 **Gestion intelligente de la RAM (Reprise instantanée + Anti-freeze)** :
+  - Respecte la mise en veille native de Tizen pour garder vos applications (Canal+, FreeTV, Netflix...) prêtes en mémoire et permettre une **reprise instantanée**.
+  - Réglage noyau optimisé (`vm.swappiness=60`, `vfs_cache_pressure=80`) et garde-fou anti-freeze en arrière-plan (ne ferme un processus en veille que s'il sature anormalement le CPU, comme `GIBBON_MAIN`).
 - 🚀 **Ouverture instantanée** : Raccourcis directs sur les touches numériques `1` à `7` de la télécommande.
 
 ---
@@ -78,7 +78,6 @@ mon-accueil-tv/
 | **Touche Rouge** | Retirer immédiatement l'application sous le curseur |
 | **Touche Verte** | Raccourci direct pour ouvrir le catalogue d'applications |
 | **Touches 1 à 7** | Lancement direct des 7 premières applications du dock |
-| **Touche `▶⏸` (Play/Pause) ou `0`** | Purge manuelle instantanée de la mémoire vive (RAM) avec retour chiffré |
 | **Retour** | Fermer le catalogue / Revenir à l'accueil |
 
 ---

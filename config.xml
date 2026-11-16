@@ -1,11 +1,11 @@
-<?xml version="4.2.4" encoding="UTF-8"?>
-<widget xmlns:tizen="http://tizen.org/ns/widgets" xmlns="http://www.w3.org/ns/widgets" id="http://antigravity.local/CustomHome" version="4.2.4" viewmodes="maximized">
+<?xml version="4.3.0" encoding="UTF-8"?>
+<widget xmlns:tizen="http://tizen.org/ns/widgets" xmlns="http://www.w3.org/ns/widgets" id="http://antigravity.local/CustomHome" version="4.3.0" viewmodes="maximized">
     <access origin="*" subdomains="true"></access>
     <tizen:app-control>
         <tizen:src name="index.html" reload="disable"/>
         <tizen:operation name="http://samsung.com/appcontrol/operation/eden_resume"/>
     </tizen:app-control>
-    <tizen:application id="CustomHome.Main" package="CustomHome" required_version="4.2.4" launch_mode="single"/>
+    <tizen:application id="CustomHome.Main" package="CustomHome" required_version="4.3.0" launch_mode="single"/>
     <content src="index.html"/>
     <feature name="http://tizen.org/feature/screen.size.all"/>
     <icon src="icon.png"/>

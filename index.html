@@ -816,7 +816,7 @@
                 <span class="system-status-text" id="systemStatusText">Système fluide</span>
                 <span class="system-status-ram" id="ramSummaryText">• Mémoire saine</span>
             </div>
-            <span class="app-version" id="appVersion">v4.2.4</span>
+            <span class="app-version" id="appVersion">v4.3.0</span>
         </div>
     </footer>
 
@@ -1111,7 +1111,7 @@
                     badgeEl.style.background = "rgba(245, 158, 11, 0.10)";
                     badgeEl.style.borderColor = "rgba(245, 158, 11, 0.25)";
                 } else {
-                    statusEl.textContent = "RAM saturée (▶⏸)";
+                    statusEl.textContent = "RAM sollicitée";
                     statusEl.style.color = "#f87171";
                     dotEl.style.backgroundColor = "#ef4444";
                     dotEl.style.boxShadow = "0 0 10px #ef4444";
@@ -1973,19 +1973,16 @@
                 openCatalog();
                 return;
             }
-            cancelAutoClean();
             var appObj = visibleApps[index];
             if (!appObj) return;
 
             if (appObj.id === "source:15" || appObj.isSource) {
-                executeRootPurge(null, null);
                 launchHdmiSource(15, appObj.name || "PlayStation 5");
                 return;
             }
 
             if (typeof tizen === 'undefined' || !tizen.application) return;
 
-            executeRootPurge(null, appObj.id);
             isLaunching = true;
             if (tileEls[index]) tileEls[index].classList.add('launching');
             titleEl.textContent = "Ouverture de " + appObj.name + "...";
@@ -2029,80 +2026,6 @@
             }
         }
 
-        function executeRootPurge(callback, keepAppId) {
-            try {
-                var url = "http://127.0.0.1:8090/purge?t=" + Date.now();
-                if (keepAppId) url += "&keep=" + encodeURIComponent(keepAppId);
-                var xhr = new XMLHttpRequest();
-                xhr.open("GET", url, true);
-                xhr.timeout = 15000;
-                xhr.onreadystatechange = function() {
-                    if (xhr.readyState === 4) {
-                        var data = null;
-                        if (xhr.status === 200 && xhr.responseText) {
-                            try { data = JSON.parse(xhr.responseText); } catch (e) {}
-                            if (data && data.metrics) {
-                                window.__TV_METRICS__ = data.metrics;
-                                applyMetricsObject(data.metrics);
-                            }
-                        }
-                        if (callback) callback(xhr.status === 200, data);
-                    }
-                };
-                xhr.onerror = function() { if (callback) callback(false, null); };
-                xhr.ontimeout = function() { if (callback) callback(false, null); };
-                xhr.send();
-            } catch (err) {
-                if (callback) callback(false, null);
-            }
-        }
-
-        function cleanRamManual() {
-            var beforeMb = (window.__TV_METRICS__ && window.__TV_METRICS__.ram) ? window.__TV_METRICS__.ram.availableMb : null;
-            showToast("Nettoyage RAM en cours...");
-            executeRootPurge(function(ok, data) {
-                if (!ok || !data) {
-                    showToast("Erreur : purge RAM impossible (Vetro)");
-                    return;
-                }
-                var ram = data.metrics && data.metrics.ram ? data.metrics.ram : null;
-                var pctTxt = ram ? (ram.freePercent + "% libre") : "";
-                var diffMb = (beforeMb != null && ram) ? (ram.availableMb - beforeMb) : 0;
-                var diffTxt = diffMb > 0 ? (" (+" + diffMb + " Mo)") : "";
-                if (data.killed > 0) {
-                    showToast("RAM : " + pctTxt + diffTxt + " • " + data.killed + " appli(s) fermée(s)");
-                } else {
-                    showToast("RAM déjà propre : " + pctTxt + diffTxt);
-                }
-                setTimeout(refreshMetrics, 800);
-            });
-        }
-
-        // Fermeture automatique intelligente des applications en arrière-plan après 2 minutes d'inactivité sur l'accueil
-        var AUTO_CLEAN_DELAY_MS = 120000; // 2 minutes (120 secondes)
-        var autoCleanTimer = null;
-
-        function cleanRamSilent() {
-            executeRootPurge(function() {
-                setTimeout(refreshMetrics, 800);
-            });
-        }
-
-        function scheduleAutoClean() {
-            if (autoCleanTimer) clearTimeout(autoCleanTimer);
-            autoCleanTimer = setTimeout(function() {
-                autoCleanTimer = null;
-                cleanRamSilent();
-            }, AUTO_CLEAN_DELAY_MS);
-        }
-
-        function cancelAutoClean() {
-            if (autoCleanTimer) {
-                clearTimeout(autoCleanTimer);
-                autoCleanTimer = null;
-            }
-        }
-
         document.addEventListener('visibilitychange', function() {
             if (!document.hidden) {
                 isLaunching = false;
@@ -2114,9 +2037,6 @@
                 updateQuote(true);
                 fetchWeather();
                 refreshMetrics();
-                scheduleAutoClean();
-            } else {
-                cancelAutoClean();
             }
         });
 
@@ -2124,12 +2044,8 @@
         renderDock();
         loadAllInstalledApps();
         refreshMetrics();
-        scheduleAutoClean();
 
         document.addEventListener('keydown', function(e) {
-            if (!document.hidden && !catalogOpen) {
-                scheduleAutoClean();
-            }
             var code = e.keyCode;
 
             // 1. Navigation dans le catalogue ouvert
@@ -2189,8 +2105,6 @@
                 removeCurrentApp();
             } else if (code === 404) { // Touche Verte : Raccourci pour Ajouter une application
                 openCatalog();
-            } else if (code === 48 || e.key === '0' || code === 10252 || code === 415) { // Touche 0 ou Play/Pause : Purger RAM
-                cleanRamManual();
             } else if (!editMode && code >= 49 && code <= 55) { // Touches 1..7
                 var idx = code - 49;
                 if (idx < APPS.length) {
