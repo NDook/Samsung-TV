@@ -811,7 +811,7 @@
                 <span class="system-status-text" id="systemStatusText">Système fluide</span>
                 <span class="system-status-ram" id="ramSummaryText">• Mémoire saine</span>
             </div>
-            <span class="app-version" id="appVersion">v4.3.2</span>
+            <span class="app-version" id="appVersion">v4.3.3</span>
         </div>
     </footer>
 
@@ -1132,7 +1132,20 @@
 
         function applyMetricsObject(m) {
             if (!m) return;
-            if (m.battery && m.battery.percent != null) {
+            var isStale = (m.ts && (Date.now() - m.ts) > 15 * 60 * 1000);
+            if (isStale) {
+                if (rcBatteryValEl) rcBatteryValEl.textContent = "--%";
+                var subStaleEl = document.getElementById('rcBatterySub');
+                if (subStaleEl) {
+                    subStaleEl.textContent = "Plugin inactif";
+                    subStaleEl.style.color = "#f59e0b";
+                }
+                var boltStaleEl = document.getElementById('battBolt');
+                if (boltStaleEl) boltStaleEl.style.display = "none";
+                if (battStrokeEl) battStrokeEl.setAttribute("stroke", "#64748b");
+                if (battCapEl) battCapEl.setAttribute("fill", "#64748b");
+                if (battFillIconEl) battFillIconEl.setAttribute("fill", "#64748b");
+            } else if (m.battery && m.battery.percent != null) {
                 applyBatteryUi(m.battery.percent, m.battery.charging);
             }
             if (m.ram && m.ram.availableMb && m.ram.totalMb) {

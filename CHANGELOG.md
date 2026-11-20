@@ -4,9 +4,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -16,9 +28,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -28,9 +52,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -40,9 +76,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -52,9 +100,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -64,9 +124,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -76,9 +148,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -88,9 +172,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -100,9 +196,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -112,9 +220,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -124,9 +244,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -136,9 +268,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -148,9 +292,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -160,9 +316,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -172,9 +340,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -184,9 +364,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -196,9 +388,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -208,9 +412,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -220,9 +436,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -232,9 +460,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -244,9 +484,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -256,9 +508,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -268,9 +532,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -280,9 +556,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -292,9 +580,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -304,9 +604,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -316,9 +628,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -328,9 +652,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -340,9 +676,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -352,9 +700,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -364,9 +724,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -376,9 +748,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -388,9 +772,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -400,9 +796,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -412,9 +820,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -424,9 +844,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -436,9 +868,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -448,9 +892,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -460,9 +916,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -472,9 +940,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -484,9 +964,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -496,9 +988,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -508,9 +1012,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -520,9 +1036,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -532,9 +1060,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -544,9 +1084,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -556,9 +1108,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -568,9 +1132,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -580,9 +1156,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -592,9 +1180,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -604,9 +1204,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -616,9 +1228,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -628,9 +1252,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -640,9 +1276,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -652,9 +1300,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -664,9 +1324,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -676,9 +1348,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -688,9 +1372,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -700,9 +1396,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -712,9 +1420,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -724,9 +1444,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -736,9 +1468,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -748,9 +1492,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -760,9 +1516,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -772,9 +1540,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -784,9 +1564,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -796,9 +1588,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -808,9 +1612,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -820,9 +1636,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -832,9 +1660,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -844,9 +1684,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -856,9 +1708,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -868,9 +1732,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -880,9 +1756,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -892,9 +1780,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -904,9 +1804,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -916,9 +1828,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -928,9 +1852,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -940,9 +1876,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -952,9 +1900,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -964,9 +1924,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -976,9 +1948,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -988,9 +1972,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1000,9 +1996,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1012,9 +2020,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1024,9 +2044,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1036,9 +2068,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1048,9 +2092,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1060,9 +2116,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1072,9 +2140,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1084,9 +2164,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1096,9 +2188,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1108,9 +2212,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1120,9 +2236,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1132,9 +2260,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1144,9 +2284,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1156,9 +2308,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1168,9 +2332,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1180,9 +2356,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1192,9 +2380,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1204,9 +2404,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1216,9 +2428,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1228,9 +2452,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1240,9 +2476,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1252,9 +2500,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1264,9 +2524,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1276,9 +2548,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1288,9 +2572,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1300,9 +2596,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1312,9 +2620,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1324,9 +2644,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1336,9 +2668,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1348,9 +2692,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1360,9 +2716,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1372,9 +2740,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1384,9 +2764,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1396,9 +2788,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1408,9 +2812,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1420,9 +2836,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1432,9 +2860,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1444,9 +2884,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1456,9 +2908,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1468,9 +2932,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1480,9 +2956,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1492,9 +2980,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1504,9 +3004,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1516,9 +3028,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1528,9 +3052,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1545,9 +3081,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1557,9 +3105,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1569,9 +3129,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1581,9 +3153,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1593,9 +3177,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1605,9 +3201,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1617,9 +3225,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1629,9 +3249,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1641,9 +3273,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1653,9 +3297,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1665,9 +3321,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1677,9 +3345,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1689,9 +3369,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1701,9 +3393,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1713,9 +3417,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1725,9 +3441,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1737,9 +3465,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1749,9 +3489,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1761,9 +3513,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1773,9 +3537,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1785,9 +3561,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1797,9 +3585,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1809,9 +3609,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1821,9 +3633,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1833,9 +3657,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1845,9 +3681,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1857,9 +3705,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1869,9 +3729,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1881,9 +3753,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1893,9 +3777,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1905,9 +3801,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1917,9 +3825,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1929,9 +3849,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1941,9 +3873,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1953,9 +3897,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1965,9 +3921,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1977,9 +3945,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -1989,9 +3969,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2001,9 +3993,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2013,9 +4017,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2025,9 +4041,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2037,9 +4065,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2049,9 +4089,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2061,9 +4113,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2073,9 +4137,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2085,9 +4161,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2097,9 +4185,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2109,9 +4209,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2121,9 +4233,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2133,9 +4257,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2145,9 +4281,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2157,9 +4305,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2169,9 +4329,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2181,9 +4353,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2193,9 +4377,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2205,9 +4401,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2217,9 +4425,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2229,9 +4449,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2241,9 +4473,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2253,9 +4497,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2265,9 +4521,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2277,9 +4545,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2289,9 +4569,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2301,9 +4593,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2313,9 +4617,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2325,9 +4641,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2337,9 +4665,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2349,9 +4689,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2361,9 +4713,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2373,9 +4737,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2385,9 +4761,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2397,9 +4785,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2409,9 +4809,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2421,9 +4833,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2433,9 +4857,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2445,9 +4881,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2457,9 +4905,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2469,9 +4929,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2481,9 +4953,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2493,9 +4977,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2505,9 +5001,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2517,9 +5025,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2529,9 +5049,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2541,9 +5073,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2553,9 +5097,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2565,9 +5121,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2577,9 +5145,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2589,9 +5169,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2601,9 +5193,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2613,9 +5217,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2625,9 +5241,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2637,9 +5265,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2649,9 +5289,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2661,9 +5313,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2673,9 +5337,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2685,9 +5361,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2697,9 +5385,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2709,9 +5409,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2721,9 +5433,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2733,9 +5457,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2745,9 +5481,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2757,9 +5505,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2769,9 +5529,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2781,9 +5553,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2793,9 +5577,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2805,9 +5601,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2817,9 +5625,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2829,9 +5649,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2841,9 +5673,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2853,9 +5697,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2865,9 +5721,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2877,9 +5745,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2889,9 +5769,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2901,9 +5793,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2913,9 +5817,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2925,9 +5841,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2937,9 +5865,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2949,9 +5889,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2961,9 +5913,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2973,9 +5937,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2985,9 +5961,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -2997,9 +5985,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3009,9 +6009,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3021,9 +6033,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3033,9 +6057,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3045,9 +6081,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3057,9 +6105,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3069,9 +6129,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3082,9 +6154,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3094,9 +6178,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3106,9 +6202,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3118,9 +6226,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3130,9 +6250,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3142,9 +6274,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3154,9 +6298,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3166,9 +6322,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3178,9 +6346,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3190,9 +6370,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3202,9 +6394,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3214,9 +6418,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3226,9 +6442,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3238,9 +6466,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3250,9 +6490,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3262,9 +6514,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3274,9 +6538,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3286,9 +6562,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3298,9 +6586,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3310,9 +6610,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3322,9 +6634,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3334,9 +6658,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3346,9 +6682,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3358,9 +6706,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3370,9 +6730,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3382,9 +6754,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3394,9 +6778,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3406,9 +6802,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3418,9 +6826,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3430,9 +6850,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3442,9 +6874,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3454,9 +6898,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3466,9 +6922,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3478,9 +6946,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3490,9 +6970,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3502,9 +6994,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3514,9 +7018,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3526,9 +7042,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3538,9 +7066,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3550,9 +7090,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3562,9 +7114,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3574,9 +7138,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3586,9 +7162,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3598,9 +7186,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3610,9 +7210,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3622,9 +7234,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3634,9 +7258,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3646,9 +7282,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3658,9 +7306,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3670,9 +7330,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3682,9 +7354,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3694,9 +7378,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3706,9 +7402,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3718,9 +7426,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3730,9 +7450,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3742,9 +7474,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3754,9 +7498,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3766,9 +7522,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3778,9 +7546,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3790,9 +7570,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3802,9 +7594,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3814,9 +7618,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3826,9 +7642,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3838,9 +7666,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3850,9 +7690,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3862,9 +7714,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3874,9 +7738,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3886,9 +7762,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3898,9 +7786,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3910,9 +7810,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3922,9 +7834,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3934,9 +7858,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3946,9 +7882,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3958,9 +7906,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3970,9 +7930,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3982,9 +7954,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -3994,9 +7978,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4006,9 +8002,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4018,9 +8026,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4030,9 +8050,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4042,9 +8074,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4054,9 +8098,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4066,9 +8122,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4078,9 +8146,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4090,9 +8170,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4102,9 +8194,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4114,9 +8218,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4126,9 +8242,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4138,9 +8266,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4150,9 +8290,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4162,9 +8314,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4174,9 +8338,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4186,9 +8362,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4198,9 +8386,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4210,9 +8410,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4222,9 +8434,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4234,9 +8458,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4246,9 +8482,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4258,9 +8506,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4270,9 +8530,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4282,9 +8554,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4294,9 +8578,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4306,9 +8602,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4318,9 +8626,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4330,9 +8650,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4342,9 +8674,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4354,9 +8698,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4366,9 +8722,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4378,9 +8746,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4390,9 +8770,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4402,9 +8794,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4414,9 +8818,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4426,9 +8842,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4438,9 +8866,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4450,9 +8890,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4462,9 +8914,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4474,9 +8938,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4486,9 +8962,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4498,9 +8986,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4510,9 +9010,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4522,9 +9034,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4534,9 +9058,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4546,9 +9082,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4558,9 +9106,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4570,9 +9130,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4582,9 +9154,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4594,9 +9178,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
@@ -4606,9 +9202,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
+
+---
+
 ## [v4.3.2] - 2026-11-20
 ### Modifications
 - Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
+## [v4.3.3] - 2026-11-20
+### Modifications
+- Sécurité visuelle sur l'indicateur batterie : affiche « --% / Plugin inactif » en ambre si les mesures ont plus de 15 minutes (ex. en cas de passage de Vetro en safeMode).
 
 ---
 
