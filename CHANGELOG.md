@@ -4,9 +4,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -16,9 +28,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -28,9 +52,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -40,9 +76,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -52,9 +100,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -64,9 +124,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -76,9 +148,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -88,9 +172,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -100,9 +196,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -112,9 +220,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -124,9 +244,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -136,9 +268,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -148,9 +292,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -160,9 +316,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -172,9 +340,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -184,9 +364,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -196,9 +388,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -208,9 +412,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -220,9 +436,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -232,9 +460,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -244,9 +484,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -256,9 +508,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -268,9 +532,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -280,9 +556,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -292,9 +580,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -304,9 +604,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -316,9 +628,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -328,9 +652,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -340,9 +676,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -352,9 +700,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -364,9 +724,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -376,9 +748,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -388,9 +772,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -400,9 +796,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -412,9 +820,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -424,9 +844,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -436,9 +868,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -448,9 +892,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -460,9 +916,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -472,9 +940,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -484,9 +964,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -496,9 +988,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -508,9 +1012,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -520,9 +1036,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -532,9 +1060,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -544,9 +1084,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -556,9 +1108,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -568,9 +1132,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -580,9 +1156,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -592,9 +1180,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -604,9 +1204,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -616,9 +1228,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -628,9 +1252,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -640,9 +1276,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -652,9 +1300,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -664,9 +1324,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -676,9 +1348,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -688,9 +1372,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -700,9 +1396,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -712,9 +1420,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -724,9 +1444,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -736,9 +1468,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -748,9 +1492,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -760,9 +1516,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -777,9 +1545,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -789,9 +1569,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -801,9 +1593,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -813,9 +1617,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -825,9 +1641,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -837,9 +1665,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -849,9 +1689,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -861,9 +1713,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -873,9 +1737,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -885,9 +1761,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -897,9 +1785,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -909,9 +1809,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -921,9 +1833,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -933,9 +1857,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -945,9 +1881,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -957,9 +1905,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -969,9 +1929,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -981,9 +1953,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -993,9 +1977,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1005,9 +2001,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1017,9 +2025,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1029,9 +2049,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1041,9 +2073,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1053,9 +2097,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1065,9 +2121,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1077,9 +2145,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1089,9 +2169,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1101,9 +2193,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1113,9 +2217,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1125,9 +2241,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1137,9 +2265,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1149,9 +2289,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1161,9 +2313,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1173,9 +2337,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1185,9 +2361,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1197,9 +2385,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1209,9 +2409,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1221,9 +2433,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1233,9 +2457,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1245,9 +2481,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1257,9 +2505,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1269,9 +2529,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1281,9 +2553,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1293,9 +2577,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1305,9 +2601,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1317,9 +2625,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1329,9 +2649,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1341,9 +2673,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1353,9 +2697,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1365,9 +2721,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1377,9 +2745,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1389,9 +2769,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1401,9 +2793,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1413,9 +2817,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1425,9 +2841,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1437,9 +2865,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1449,9 +2889,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1461,9 +2913,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1473,9 +2937,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1485,9 +2961,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1497,9 +2985,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1509,9 +3009,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1521,9 +3033,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1533,9 +3057,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1546,9 +3082,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1558,9 +3106,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1570,9 +3130,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1582,9 +3154,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1594,9 +3178,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1606,9 +3202,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1618,9 +3226,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1630,9 +3250,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1642,9 +3274,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1654,9 +3298,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1666,9 +3322,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1678,9 +3346,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1690,9 +3370,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1702,9 +3394,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1714,9 +3418,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1726,9 +3442,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1738,9 +3466,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1750,9 +3490,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1762,9 +3514,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1774,9 +3538,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1786,9 +3562,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1798,9 +3586,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1810,9 +3610,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1822,9 +3634,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1834,9 +3658,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1846,9 +3682,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1858,9 +3706,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1870,9 +3730,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1882,9 +3754,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1894,9 +3778,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1906,9 +3802,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1918,9 +3826,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1930,9 +3850,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1942,9 +3874,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1954,9 +3898,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1966,9 +3922,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1978,9 +3946,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -1990,9 +3970,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -2002,9 +3994,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -2014,9 +4018,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -2026,9 +4042,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -2038,9 +4066,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -2050,9 +4090,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -2062,9 +4114,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -2074,9 +4138,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -2086,9 +4162,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -2098,9 +4186,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -2110,9 +4210,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -2122,9 +4234,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -2134,9 +4258,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -2146,9 +4282,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -2158,9 +4306,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -2170,9 +4330,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -2182,9 +4354,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -2194,9 +4378,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -2206,9 +4402,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -2218,9 +4426,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -2230,9 +4450,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -2242,9 +4474,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -2254,9 +4498,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -2266,9 +4522,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -2278,9 +4546,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -2290,9 +4570,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
@@ -2302,9 +4594,21 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
+
+---
+
 ## [v4.3.1] - 2026-11-16
 ### Modifications
 - Fluidité maximale façon Vetro Launcher : suppression de tous les backdrop-filter: blur() et des ombres floutées lourdes sur les tuiles/barres, transitions accélérées à 110ms pour un rendu 60 FPS instantané sur le GPU de la TV.
+
+---
+
+## [v4.3.2] - 2026-11-20
+### Modifications
+- Correction de l'indicateur batterie télécommande (sortie du safeMode Vetro, lecture exacte via D-Bus 4225) et ajout de l'icône ⚡ En charge dans la barre inférieure dès que la charge progresse.
 
 ---
 
