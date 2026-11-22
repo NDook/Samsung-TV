@@ -13,7 +13,7 @@ $today = Get-Date -Format "yyyy-MM-dd"
 # 1. Mettre à jour config.xml
 $configPath = Join-Path $repoRoot "config.xml"
 $configContent = Get-Content -Path $configPath -Raw -Encoding UTF8
-$configContent = $configContent -replace 'version="[^"]+"', "version=`"$cleanVer`""
+$configContent = $configContent -replace '(<widget\b[^>]*\bversion=")[^"]+(")', "`${1}$cleanVer`${2}"
 [System.IO.File]::WriteAllText($configPath, $configContent, [System.Text.UTF8Encoding]::new($false))
 
 # 2. Mettre à jour index.html
@@ -35,9 +35,10 @@ if ($Note) {
 }
 $entry += "---`r`n`r`n"
 
-$marker = "---`r`n`r`n## ["
-if ($existing -match "---\r?\n\r?\n## \[") {
-    $updated = $existing -replace "---\r?\n\r?\n## \[", "---`r`n`r`n$entry## ["
+$re = [regex]::new('---\r?\n\r?\n## \[')
+$m = $re.Match($existing)
+if ($m.Success) {
+    $updated = $existing.Substring(0, $m.Index) + "---`r`n`r`n$entry## [" + $existing.Substring($m.Index + $m.Length)
 } else {
     $updated = $existing + "`r`n" + $entry
 }

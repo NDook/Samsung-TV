@@ -115,7 +115,6 @@
         .weather-icon {
             font-size: 34px;
             line-height: 1;
-            filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.4));
         }
         .weather-details {
             display: flex;
@@ -326,7 +325,7 @@
             white-space: nowrap;
             pointer-events: none;
             z-index: 4;
-            transition: all 200ms ease;
+            transition: opacity 200ms ease, background-color 200ms ease;
         }
         .source-status-badge.active {
             background: rgba(0, 55, 145, 0.85);
@@ -811,7 +810,7 @@
                 <span class="system-status-text" id="systemStatusText">Système fluide</span>
                 <span class="system-status-ram" id="ramSummaryText">• Mémoire saine</span>
             </div>
-            <span class="app-version" id="appVersion">v4.3.3</span>
+            <span class="app-version" id="appVersion">v4.4.0</span>
         </div>
     </footer>
 
@@ -1011,20 +1010,25 @@
         // Elements metriques
         var rcBatteryValEl = document.getElementById('rcBatteryVal');
         var rcBatterySubEl = document.getElementById('rcBatterySub');
-        var rcBatteryBarEl = document.getElementById('rcBatteryBar');
         var battStrokeEl = document.getElementById('battStroke');
         var battCapEl = document.getElementById('battCap');
         var battFillIconEl = document.getElementById('battFillIcon');
-        var ramValEl = document.getElementById('ramVal');
-        var ramPctEl = document.getElementById('ramPct');
-        var ramBarEl = document.getElementById('ramBar');
-        var resValEl = document.getElementById('resVal');
-        var resSubEl = document.getElementById('resSub');
-        var tempValEl = document.getElementById('tempVal');
-        var cpuSubEl = document.getElementById('cpuSub');
-        var tempBarEl = document.getElementById('tempBar');
-        var netValEl = document.getElementById('netVal');
-        var uptimeSubEl = document.getElementById('uptimeSub');
+        var battBoltEl = document.getElementById('battBolt');
+        var ramSummaryTextEl = document.getElementById('ramSummaryText');
+        var systemBadgeEl = document.getElementById('systemBadge');
+        var systemPulseDotEl = document.getElementById('systemPulseDot');
+        var systemStatusTextEl = document.getElementById('systemStatusText');
+        var hasNativeRam = false;
+
+        function escapeHtml(str) {
+            if (str == null) return '';
+            return String(str)
+                .replace(/&/g, '&amp;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;')
+                .replace(/"/g, '&quot;')
+                .replace(/'/g, '&#39;');
+        }
 
         // Detection appui long sur OK (keyCode 13)
         var enterDownAt = 0;
@@ -1052,31 +1056,17 @@
             }
         } catch (e) {}
 
-        function formatUptime(sec) {
-            if (!sec || sec < 0) return "Actif";
-            var h = Math.floor(sec / 3600);
-            var m = Math.floor((sec % 3600) / 60);
-            if (h > 0) return "Actif " + h + "h " + ('0' + m).slice(-2) + "m";
-            return "Actif " + m + " min";
-        }
-
         function applyBatteryUi(pct, isCharging) {
             if (pct == null || isNaN(pct)) return;
             pct = Math.max(0, Math.min(100, Math.round(pct)));
             var charging = (isCharging === true || isCharging === 1);
             if (rcBatteryValEl) rcBatteryValEl.textContent = pct + "%";
             var color = charging ? "#22c55e" : (pct > 50 ? "#22c55e" : (pct > 20 ? "#f59e0b" : "#ef4444"));
-            if (rcBatteryBarEl) {
-                rcBatteryBarEl.style.width = pct + "%";
-                rcBatteryBarEl.style.backgroundColor = color;
+            if (rcBatterySubEl) {
+                rcBatterySubEl.textContent = charging ? "⚡ En charge" : "Télécommande";
+                rcBatterySubEl.style.color = charging ? "#4ade80" : "#64748b";
             }
-            var subEl = document.getElementById('rcBatterySub');
-            if (subEl) {
-                subEl.textContent = charging ? "⚡ En charge" : "Télécommande";
-                subEl.style.color = charging ? "#4ade80" : "#64748b";
-            }
-            var boltEl = document.getElementById('battBolt');
-            if (boltEl) boltEl.style.display = charging ? "block" : "none";
+            if (battBoltEl) battBoltEl.style.display = charging ? "block" : "none";
             if (battStrokeEl) battStrokeEl.setAttribute("stroke", color);
             if (battCapEl) battCapEl.setAttribute("fill", color);
             if (battFillIconEl) {
@@ -1090,43 +1080,32 @@
         function applyRamUi(availMb, totalMb) {
             if (!availMb || !totalMb) return;
             var pctFree = Math.round((availMb * 100) / totalMb);
-            var ramSummaryTextEl = document.getElementById('ramSummaryText');
             if (ramSummaryTextEl) {
                 ramSummaryTextEl.textContent = "• " + pctFree + "% libre";
             }
-            var badgeEl = document.getElementById('systemBadge');
-            var dotEl = document.getElementById('systemPulseDot');
-            var statusEl = document.getElementById('systemStatusText');
-            if (badgeEl && dotEl && statusEl) {
+            if (systemBadgeEl && systemPulseDotEl && systemStatusTextEl) {
                 if (pctFree >= 35) {
-                    statusEl.textContent = "Système fluide";
-                    statusEl.style.color = "#4ade80";
-                    dotEl.style.backgroundColor = "#22c55e";
-                    dotEl.style.boxShadow = "0 0 10px #22c55e";
-                    badgeEl.style.background = "rgba(34, 197, 94, 0.08)";
-                    badgeEl.style.borderColor = "rgba(34, 197, 94, 0.2)";
+                    systemStatusTextEl.textContent = "Système fluide";
+                    systemStatusTextEl.style.color = "#4ade80";
+                    systemPulseDotEl.style.backgroundColor = "#22c55e";
+                    systemPulseDotEl.style.boxShadow = "0 0 10px #22c55e";
+                    systemBadgeEl.style.background = "rgba(34, 197, 94, 0.08)";
+                    systemBadgeEl.style.borderColor = "rgba(34, 197, 94, 0.2)";
                 } else if (pctFree >= 20) {
-                    statusEl.textContent = "Mémoire chargée";
-                    statusEl.style.color = "#fbbf24";
-                    dotEl.style.backgroundColor = "#f59e0b";
-                    dotEl.style.boxShadow = "0 0 10px #f59e0b";
-                    badgeEl.style.background = "rgba(245, 158, 11, 0.10)";
-                    badgeEl.style.borderColor = "rgba(245, 158, 11, 0.25)";
+                    systemStatusTextEl.textContent = "Mémoire chargée";
+                    systemStatusTextEl.style.color = "#fbbf24";
+                    systemPulseDotEl.style.backgroundColor = "#f59e0b";
+                    systemPulseDotEl.style.boxShadow = "0 0 10px #f59e0b";
+                    systemBadgeEl.style.background = "rgba(245, 158, 11, 0.10)";
+                    systemBadgeEl.style.borderColor = "rgba(245, 158, 11, 0.25)";
                 } else {
-                    statusEl.textContent = "RAM sollicitée";
-                    statusEl.style.color = "#f87171";
-                    dotEl.style.backgroundColor = "#ef4444";
-                    dotEl.style.boxShadow = "0 0 10px #ef4444";
-                    badgeEl.style.background = "rgba(239, 68, 68, 0.12)";
-                    badgeEl.style.borderColor = "rgba(239, 68, 68, 0.30)";
+                    systemStatusTextEl.textContent = "RAM sollicitée";
+                    systemStatusTextEl.style.color = "#f87171";
+                    systemPulseDotEl.style.backgroundColor = "#ef4444";
+                    systemPulseDotEl.style.boxShadow = "0 0 10px #ef4444";
+                    systemBadgeEl.style.background = "rgba(239, 68, 68, 0.12)";
+                    systemBadgeEl.style.borderColor = "rgba(239, 68, 68, 0.30)";
                 }
-            }
-            if (ramValEl) ramValEl.textContent = availMb + " / " + totalMb + " Mo";
-            if (ramPctEl) ramPctEl.textContent = pctFree + "% libre";
-            if (ramBarEl) {
-                ramBarEl.style.width = pctFree + "%";
-                var color = pctFree >= 35 ? "#38bdf8" : (pctFree >= 20 ? "#f59e0b" : "#ef4444");
-                ramBarEl.style.backgroundColor = color;
             }
         }
 
@@ -1135,33 +1114,19 @@
             var isStale = (m.ts && (Date.now() - m.ts) > 15 * 60 * 1000);
             if (isStale) {
                 if (rcBatteryValEl) rcBatteryValEl.textContent = "--%";
-                var subStaleEl = document.getElementById('rcBatterySub');
-                if (subStaleEl) {
-                    subStaleEl.textContent = "Plugin inactif";
-                    subStaleEl.style.color = "#f59e0b";
+                if (rcBatterySubEl) {
+                    rcBatterySubEl.textContent = "Plugin inactif";
+                    rcBatterySubEl.style.color = "#f59e0b";
                 }
-                var boltStaleEl = document.getElementById('battBolt');
-                if (boltStaleEl) boltStaleEl.style.display = "none";
+                if (battBoltEl) battBoltEl.style.display = "none";
                 if (battStrokeEl) battStrokeEl.setAttribute("stroke", "#64748b");
                 if (battCapEl) battCapEl.setAttribute("fill", "#64748b");
                 if (battFillIconEl) battFillIconEl.setAttribute("fill", "#64748b");
             } else if (m.battery && m.battery.percent != null) {
                 applyBatteryUi(m.battery.percent, m.battery.charging);
             }
-            if (m.ram && m.ram.availableMb && m.ram.totalMb) {
+            if (!hasNativeRam && m.ram && m.ram.availableMb && m.ram.totalMb) {
                 applyRamUi(m.ram.availableMb, m.ram.totalMb);
-            }
-            if (m.socTempC != null && tempValEl) {
-                tempValEl.textContent = m.socTempC + " °C";
-            }
-            if (m.loadavg && cpuSubEl) {
-                cpuSubEl.textContent = "Charge " + m.loadavg;
-            }
-            if (m.ip && netValEl) {
-                netValEl.textContent = m.ip;
-            }
-            if (m.uptimeSec != null && uptimeSubEl) {
-                uptimeSubEl.textContent = formatUptime(m.uptimeSec);
             }
             if (m.hdmi3) {
                 var plugged = (m.hdmi3.plugged === 1 || m.hdmi3.plugged === true);
@@ -1176,24 +1141,26 @@
 
         function refreshMetrics() {
             if (document.hidden) return;
+            hasNativeRam = false;
             try {
                 if (typeof tizen !== 'undefined' && tizen.systeminfo) {
                     var totalB = tizen.systeminfo.getTotalMemory ? tizen.systeminfo.getTotalMemory() : 0;
                     var availB = tizen.systeminfo.getAvailableMemory ? tizen.systeminfo.getAvailableMemory() : 0;
                     if (totalB > 0 && availB > 0) {
+                        hasNativeRam = true;
                         applyRamUi(Math.round(availB / (1024 * 1024)), Math.round(totalB / (1024 * 1024)));
                     }
                 }
             } catch (e) {}
 
-            if (window.__TV_METRICS__) {
-                applyMetricsObject(window.__TV_METRICS__);
-            }
-
             try {
                 var oldScript = document.getElementById('dynamicMetricsScript');
-                if (oldScript && oldScript.parentNode) {
-                    oldScript.parentNode.removeChild(oldScript);
+                if (oldScript) {
+                    oldScript.onload = null;
+                    oldScript.onerror = null;
+                    if (oldScript.parentNode) {
+                        oldScript.parentNode.removeChild(oldScript);
+                    }
                 }
                 var s = document.createElement('script');
                 s.id = 'dynamicMetricsScript';
@@ -1203,25 +1170,30 @@
                         applyMetricsObject(window.__TV_METRICS__);
                     }
                 };
+                s.onerror = function() {};
                 document.body.appendChild(s);
-            } catch (e) {}
+            } catch (e) {
+                if (window.__TV_METRICS__) {
+                    applyMetricsObject(window.__TV_METRICS__);
+                }
+            }
         }
 
         function getAppLogoHtml(app, tileIdx) {
             if (OFFICIAL_ICONS[app.id]) {
-                return '<img class="app-official-icon" id="off-icon-' + tileIdx + '" src="' + OFFICIAL_ICONS[app.id] + '" alt="">';
+                return '<img class="app-official-icon" id="off-icon-' + tileIdx + '" src="' + escapeHtml(OFFICIAL_ICONS[app.id]) + '" alt="">';
             }
             if (KNOWN_SVGS[app.id]) {
                 return '<div id="svg-wrap-' + tileIdx + '" style="width:100%;height:100%;border-radius:inherit;overflow:hidden;">' + KNOWN_SVGS[app.id] + '</div>';
             }
             if (iconCache[app.id]) {
                 var src = iconCache[app.id].indexOf('file://') === 0 ? iconCache[app.id] : ('file://' + iconCache[app.id]);
-                return '<img class="app-official-icon" id="off-icon-' + tileIdx + '" src="' + src + '" alt="">';
+                return '<img class="app-official-icon" id="off-icon-' + tileIdx + '" src="' + escapeHtml(src) + '" alt="">';
             }
-            var initial = (app.name || "A").charAt(0).toUpperCase();
+            var initial = escapeHtml((app.name || "A").charAt(0).toUpperCase());
             return '<div class="fallback-box" id="fb-wrap-' + tileIdx + '">' +
                    '<div class="fallback-letter">' + initial + '</div>' +
-                   '<div class="fallback-name">' + (app.name || "") + '</div>' +
+                   '<div class="fallback-name">' + escapeHtml(app.name || "") + '</div>' +
                    '</div>';
         }
 
@@ -1555,10 +1527,6 @@
             var months = ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'];
             document.getElementById('date').textContent = days[now.getDay()] + ' ' + now.getDate() + ' ' + months[now.getMonth()];
         }
-        setInterval(updateClock, 15000);
-        setInterval(refreshMetrics, 15000);
-        updateClock();
-        updateQuote(true);
 
         // Météo en direct (Open-Meteo)
         function getWeatherWmoInfo(code, isDay) {
@@ -1575,6 +1543,7 @@
         }
 
         function fetchWeather() {
+            if (document.hidden) return;
             try {
                 var url = "https://api.open-meteo.com/v1/forecast?latitude=46.2056&longitude=5.2203&current=temperature_2m,weather_code,is_day&timezone=Europe%2FParis";
                 var xhr = new XMLHttpRequest();
@@ -1602,8 +1571,28 @@
                 xhr.send();
             } catch (e) {}
         }
+
+        var clockTimer = null;
+        var metricsTimer = null;
+        var weatherTimer = null;
+
+        function stopTimers() {
+            if (clockTimer) { clearInterval(clockTimer); clockTimer = null; }
+            if (metricsTimer) { clearInterval(metricsTimer); metricsTimer = null; }
+            if (weatherTimer) { clearInterval(weatherTimer); weatherTimer = null; }
+        }
+
+        function startTimers() {
+            stopTimers();
+            clockTimer = setInterval(updateClock, 15000);
+            metricsTimer = setInterval(refreshMetrics, 30000);
+            weatherTimer = setInterval(fetchWeather, 15 * 60 * 1000);
+        }
+
+        updateClock();
+        updateQuote(true);
         fetchWeather();
-        setInterval(fetchWeather, 15 * 60 * 1000);
+        if (!document.hidden) startTimers();
 
         function showToast(msg) {
             toastEl.textContent = msg;
@@ -1877,18 +1866,19 @@
                 var iconHtml = '';
                 if (OFFICIAL_ICONS[app.id]) {
                     var bg = BRAND_BACKGROUNDS[app.id] ? ('background:' + BRAND_BACKGROUNDS[app.id] + ';') : '';
-                    iconHtml = '<img src="' + OFFICIAL_ICONS[app.id] + '" style="width:100%;height:100%;object-fit:cover;padding:0;border-radius:12px;' + bg + '" alt="">';
+                    iconHtml = '<img src="' + escapeHtml(OFFICIAL_ICONS[app.id]) + '" style="width:100%;height:100%;object-fit:cover;padding:0;border-radius:12px;' + bg + '" alt="">';
                 } else if (KNOWN_SVGS[app.id]) {
                     iconHtml = KNOWN_SVGS[app.id];
                 } else if (iconCache[app.id]) {
-                    iconHtml = '<img src="' + (iconCache[app.id].indexOf('file://') === 0 ? iconCache[app.id] : ('file://' + iconCache[app.id])) + '" alt="">';
+                    var catSrc = iconCache[app.id].indexOf('file://') === 0 ? iconCache[app.id] : ('file://' + iconCache[app.id]);
+                    iconHtml = '<img src="' + escapeHtml(catSrc) + '" alt="">';
                 } else {
-                    iconHtml = '<span style="font-size:32px;font-weight:900;color:#38bdf8;">' + (app.name || "A").charAt(0) + '</span>';
+                    iconHtml = '<span style="font-size:32px;font-weight:900;color:#38bdf8;">' + escapeHtml((app.name || "A").charAt(0)) + '</span>';
                 }
 
                 card.innerHTML = '<div class="catalog-item-icon">' + iconHtml + '</div>' +
                                  '<div class="catalog-item-info">' +
-                                 '<div class="catalog-item-name">' + app.name + '</div>' +
+                                 '<div class="catalog-item-name">' + escapeHtml(app.name) + '</div>' +
                                  '<div class="catalog-item-badge">' + (already ? '✓ Déjà sur l\'accueil' : '+ Ajouter') + '</div>' +
                                  '</div>';
                 catalogGridEl.appendChild(card);
@@ -1932,7 +1922,12 @@
             });
             saveDockApps();
             closeCatalog();
-            currentIndex = APPS.length - 1; // focus sur la nouvelle app
+            var vis = getVisibleApps();
+            var targetIdx = vis.length - 1;
+            for (var v = 0; v < vis.length; v++) {
+                if (vis[v].id === app.id) { targetIdx = v; break; }
+            }
+            currentIndex = Math.max(0, targetIdx); // focus sur la nouvelle app
             renderDock();
             showToast(app.name + " ajoutée à l'accueil !");
         }
@@ -1944,42 +1939,51 @@
             showToast("Bascule vers " + name + " (HDMI 3)...");
 
             var currentApp = (typeof tizen !== 'undefined' && tizen.application) ? tizen.application.getCurrentApplication() : null;
+            var finished = false;
+            var fallbackTimer = setTimeout(done, 1500);
 
-            var cleanupLaunch = function() {
+            function done() {
+                if (finished) return;
+                finished = true;
+                clearTimeout(fallbackTimer);
                 isLaunching = false;
                 if (tileEls[currentIndex]) tileEls[currentIndex].classList.remove('launching');
                 updateHeaderTitle();
-            };
+            }
 
-            // 1. Tizen Web API direct si disponible
             try {
                 if (typeof tizen !== 'undefined' && tizen.tvwindow && tizen.tvwindow.setSource) {
-                    tizen.tvwindow.setSource({ type: "HDMI", number: 3 }, function() {
-                        try { if (currentApp) currentApp.hide(); } catch (e) {}
-                        setTimeout(cleanupLaunch, 500);
-                    }, function() {});
+                    var applySource = function(srcObj) {
+                        try {
+                            tizen.tvwindow.setSource(srcObj, function() {
+                                try { if (currentApp) currentApp.hide(); } catch (e) {}
+                                setTimeout(done, 400);
+                            }, done);
+                        } catch (e) {
+                            done();
+                        }
+                    };
+                    if (tizen.systeminfo && tizen.systeminfo.getPropertyValue) {
+                        tizen.systeminfo.getPropertyValue("VIDEOSOURCE", function(videoSource) {
+                            var connected = (videoSource && videoSource.connected) ? videoSource.connected : [];
+                            var targetSrc = null;
+                            for (var i = 0; i < connected.length; i++) {
+                                if (connected[i].type === "HDMI" && Number(connected[i].number) === 3) {
+                                    targetSrc = connected[i];
+                                    break;
+                                }
+                            }
+                            applySource(targetSrc || { type: "HDMI", number: 3 });
+                        }, function() {
+                            applySource({ type: "HDMI", number: 3 });
+                        });
+                    } else {
+                        applySource({ type: "HDMI", number: 3 });
+                    }
+                    return;
                 }
             } catch (e) {}
-
-            // 2. Commande système aul_test directe via serveur local
-            var cmd = 'aul_test launch org.tizen.tv-viewer sourceType ' + portType + ' change_source ' + portType + ' sourceName "' + name + '" sourceIcon "/usr/apps/com.samsung.tv.theme-resource/shared/res/org.tizen.menu/Settings_Popup/device_icon/r_icon_device_s_hdmi.png" mbrIndex "-2" __K_EX_LAUNCH_REQUESTOR "user"';
-
-            try {
-                var xhr = new XMLHttpRequest();
-                xhr.open("POST", "http://127.0.0.1:8089/exec", true);
-                xhr.setRequestHeader("Content-Type", "application/json");
-                xhr.timeout = 3500;
-                xhr.onload = function() {
-                    try { if (currentApp) currentApp.hide(); } catch (e) {}
-                    setTimeout(cleanupLaunch, 600);
-                };
-                xhr.onerror = function() {
-                    setTimeout(cleanupLaunch, 600);
-                };
-                xhr.send(JSON.stringify({ cmd: cmd }));
-            } catch (e) {
-                setTimeout(cleanupLaunch, 600);
-            }
+            done();
         }
 
         function launchSelected(index) {
@@ -2052,6 +2056,9 @@
                 updateQuote(true);
                 fetchWeather();
                 refreshMetrics();
+                startTimers();
+            } else {
+                stopTimers();
             }
         });
 
@@ -2122,7 +2129,7 @@
                 openCatalog();
             } else if (!editMode && code >= 49 && code <= 55) { // Touches 1..7
                 var idx = code - 49;
-                if (idx < APPS.length) {
+                if (idx < visibleApps.length) {
                     setFocus(idx);
                     launchSelected(idx);
                 }

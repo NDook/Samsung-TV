@@ -1,0 +1,12 @@
+{
+  "version": "1.1.0",
+  "apiVersion": 1,
+  "id": "mon-accueil-metrics",
+  "name": "Mon Accueil Metrics",
+  "permissions": [
+    "exec"
+  ],
+  "description": "Batterie telecommande Smart RC, RAM, SoC Temp et Uptime pour Mon Accueil TV",
+  "author": "Antigravity",
+  "main": "index.js"
+}

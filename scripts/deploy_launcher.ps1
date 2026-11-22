@@ -1,5 +1,6 @@
 $ErrorActionPreference = "Stop"
-$baseUrl = "http://192.168.1.46:8089"
+$TvIp = if ($env:SAMSUNG_TV_IP) { $env:SAMSUNG_TV_IP } else { "192.168.1.46" }
+$baseUrl = "http://${TvIp}:8089"
 $headers = @{ "Origin" = $baseUrl; "Content-Type" = "application/json" }
 
 function Exec-TV($cmd) {
@@ -8,10 +9,7 @@ function Exec-TV($cmd) {
     return $res
 }
 
-$htmlPath = "$PSScriptRoot\..\index.html"
-if (-not (Test-Path $htmlPath)) {
-    $htmlPath = "C:\Users\HomeSweetHome\.gemini\antigravity\brain\aaaf9a32-67f7-4f6b-90af-05336be252ec\scratch\CustomHomeApp\index.html"
-}
+$htmlPath = Join-Path (Split-Path -Parent $PSScriptRoot) "index.html"
 $bytes = [System.IO.File]::ReadAllBytes($htmlPath)
 $b64 = [Convert]::ToBase64String($bytes)
 
@@ -41,10 +39,7 @@ $check = Exec-TV "wc -c /tmp/index_dock.b64"
 Write-Host "wc -c : $($check.output)"
 
 Write-Host "Decodage Base64 vers /opt/usr/apps/CustomHome/res/wgt/index.html..."
-$cfgPath = "$PSScriptRoot\..\config.xml"
-if (-not (Test-Path $cfgPath)) {
-    $cfgPath = "C:\Users\HomeSweetHome\.gemini\antigravity\brain\aaaf9a32-67f7-4f6b-90af-05336be252ec\scratch\CustomHomeApp\config.xml"
-}
+$cfgPath = Join-Path (Split-Path -Parent $PSScriptRoot) "config.xml"
 $cfgB64 = [Convert]::ToBase64String([System.IO.File]::ReadAllBytes($cfgPath))
 $deployCmd = @"
 cat /tmp/index_dock.b64 | base64 -d > /opt/usr/apps/CustomHome/res/wgt/index.html

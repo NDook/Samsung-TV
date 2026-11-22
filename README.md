@@ -28,10 +28,11 @@
 
 ```
 mon-accueil-tv/
-├── config.xml              # Manifeste de l'application Tizen (privilèges, nom, autorisations)
-├── icon.png                # Icône officielle du lanceur
-├── index.html              # Interface complète HTML5 / CSS3 / JavaScript (GPU 60 FPS)
-├── icons/                  # Logos officiels vectoriels et PNG haute définition
+├── CHANGELOG.md                     # Historique des versions et modifications
+├── config.xml                       # Manifeste de l'application Tizen (privilèges, nom, autorisations)
+├── icon.png                         # Icône officielle du lanceur
+├── index.html                       # Interface complète HTML5 / CSS3 / JavaScript (GPU 60 FPS)
+├── icons/                           # Logos officiels vectoriels et PNG haute définition
 │   ├── canal.png
 │   ├── netflix.png
 │   ├── primevideo.png
@@ -39,10 +40,15 @@ mon-accueil-tv/
 │   ├── jellyfin.png
 │   ├── youtube.png
 │   └── ...
+├── plugins/
+│   └── mon-accueil-metrics/         # Plugin persistant Vetro (métriques RAM/batterie en tmpfs, VM tuning, anti-freeze CPU)
+│       ├── index.js
+│       └── manifest.json
 ├── scripts/
-│   ├── deploy_launcher.ps1 # Script de déploiement à chaud du lanceur sur la TV
-│   ├── deploy_watchdog.ps1 # Script de déploiement du démon de surveillance (RAM / HDMI)
-│   └── run_tv_cmd.ps1      # Utilitaire d'exécution de commandes sur la TV via l'agent
+│   ├── deploy_launcher.ps1          # Script de déploiement à chaud du lanceur sur la TV
+│   ├── deploy_plugin.ps1            # Script de déploiement du plugin persistant Vetro
+│   ├── update_changelog.ps1         # Script de gestion de version et de génération du changelog
+│   └── run_tv_cmd.ps1               # Utilitaire d'exécution de commandes sur la TV via l'agent
 └── README.md
 ```
 
@@ -52,7 +58,7 @@ mon-accueil-tv/
 
 ### Prérequis
 - Une Smart TV Samsung (Tizen 6.5+ ou compatible).
-- Le service d'administration local (port `8089`) ou l'outil Tizen CLI / SDB connecté à l'adresse IP de la TV.
+- Le service d'administration local (port `8089`) ou l'outil Tizen CLI / SDB connecté à l'adresse IP de la TV *(paramétrable via `$env:SAMSUNG_TV_IP`)*.
 
 ### Déploiement rapide
 1. Ouvrir PowerShell dans le dossier `scripts/`
@@ -60,9 +66,9 @@ mon-accueil-tv/
    ```powershell
    .\deploy_launcher.ps1
    ```
-3. Activer le démon de veille et de détection HDMI / RAM :
+3. Déployer et activer le plugin persistant (batterie, HDMI 3, RAM en tmpfs, anti-freeze CPU) :
    ```powershell
-   .\deploy_watchdog.ps1
+   .\deploy_plugin.ps1
    ```
 
 ---

@@ -2,7 +2,8 @@ param(
     [string]$Cmd = "",
     [string]$File = ""
 )
-$baseUrl = "http://192.168.1.46:8089"
+$TvIp = if ($env:SAMSUNG_TV_IP) { $env:SAMSUNG_TV_IP } else { "192.168.1.46" }
+$baseUrl = "http://${TvIp}:8089"
 $headers = @{ "Origin" = $baseUrl; "Content-Type" = "application/json" }
 $commandToRun = $Cmd
 if ($File -and (Test-Path -LiteralPath $File -ErrorAction SilentlyContinue)) {
