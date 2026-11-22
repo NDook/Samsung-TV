@@ -4,6 +4,12 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.5.0] - 2026-11-22
+### Modifications
+- Météo instantanée en cache tmpfs via le plugin mon-accueil-metrics (zéro requête réseau depuis le lanceur, zéro flash 15°) et mise à jour ciblée du badge PS5 HDMI 3 sans reconstruire tout le dock.
+
+---
+
 ## [v4.4.0] - 2026-11-22
 ### Modifications
 - Revue de code complète (sécurité, RAM, CPU) : correction de `config.xml` (`<?xml version="1.0"?>`, `required_version="2.4"`, accès limité à `https://api.open-meteo.com`), correction des 2 bugs regex de `scripts/update_changelog.ps1` et dédoublonnage de `CHANGELOG.md` ; protection XSS (`escapeHtml`) dans `index.html`, suppression de l'appel `/exec` vulnérable dans `launchHdmiSource`, suspension des timers lorsque `document.hidden` est vrai, nettoyage des 11 variables DOM mortes et correction des index `visibleApps.length` ; versionnement et optimisation du plugin `plugins/mon-accueil-metrics/` (écriture des métriques en `tmpfs` `/tmp/custom_home_live_metrics.js` sans usure eMMC, polling 60 s avec 1 seul appel `gdbus 4226` fiable même télécommande en veille, vrai garde-fou CPU instantané sur `GIBBON_MAIN` et protection anti-`safeMode` dans `scripts/deploy_plugin.ps1`).

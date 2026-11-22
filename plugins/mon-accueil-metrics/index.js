@@ -1,6 +1,7 @@
 'use strict';
 var fs = require('fs');
 var os = require('os');
+var https = require('https');
 
 var TOTAL_KB_RE = /^MemTotal:\s+(\d+)\s*kB/m;
 var AVAIL_KB_RE = /^MemAvailable:\s+(\d+)\s*kB/m;
@@ -10,12 +11,20 @@ var BATT_4226_RE = /B4226=.*byte 0x([0-9a-fA-F]{1,2})/;
 var TMP_METRICS = '/tmp/custom_home_live_metrics.js';
 var WGT_METRICS = '/opt/usr/apps/CustomHome/res/wgt/live_metrics.js';
 
+var WEATHER_LAT = 46.2056;
+var WEATHER_LON = 5.2203;
+var WEATHER_CITY = 'Bourg-en-Bresse';
+var WEATHER_INTERVAL_MS = 30 * 60 * 1000;
+
 module.exports = function (ctx) {
     var batteryTimer = null;
     var bootTimer = null;
+    var weatherTimer = null;
     var lastBattery = { percent: null, raw: 0, powerStatus: 0, charging: false, updatedAt: 0 };
+    var lastWeather = null;
     var chargingUntil = 0;
     var busyBattery = false;
+    var busyWeather = false;
     var vmTuned = false;
     var tmpLinkReady = false;
 
@@ -78,7 +87,8 @@ module.exports = function (ctx) {
             uptimeSec: uptimeSec,
             resolution: '3840 x 2160',
             ip: getIp(),
-            hdmi3: { plugged: hdmi3Plugged, active: hdmi3Active }
+            hdmi3: { plugged: hdmi3Plugged, active: hdmi3Active },
+            weather: lastWeather
         };
     }
 
@@ -169,20 +179,76 @@ module.exports = function (ctx) {
         });
     }
 
+    function fetchWeatherCache() {
+        if (busyWeather) return;
+        busyWeather = true;
+        var done = false;
+        function finish() {
+            if (done) return;
+            done = true;
+            busyWeather = false;
+        }
+        var url = 'https://api.open-meteo.com/v1/forecast?latitude=' + WEATHER_LAT + '&longitude=' + WEATHER_LON + '&current=temperature_2m,weather_code,is_day&timezone=Europe%2FParis';
+        try {
+            var req = https.get(url, function (res) {
+                if (!res || res.statusCode < 200 || res.statusCode >= 300) {
+                    if (res && res.resume) res.resume();
+                    finish();
+                    return;
+                }
+                var body = '';
+                res.setEncoding('utf8');
+                res.on('data', function (chunk) { body += chunk; });
+                res.on('end', function () {
+                    try {
+                        var data = JSON.parse(body);
+                        if (data && data.current) {
+                            lastWeather = {
+                                temp: Math.round(data.current.temperature_2m),
+                                code: data.current.weather_code,
+                                isDay: data.current.is_day !== 0,
+                                city: WEATHER_CITY,
+                                updatedAt: Date.now()
+                            };
+                            writeLiveMetricsJs().catch(function () {});
+                        }
+                    } catch (e) {}
+                    finish();
+                });
+                res.on('error', finish);
+            });
+            req.setTimeout(8000, function () {
+                try { req.destroy(); } catch (e) {}
+                finish();
+            });
+            req.on('error', finish);
+        } catch (e) {
+            finish();
+        }
+    }
+
     return {
         start: function () {
             tuneKernelVm();
+            fetchWeatherCache();
             pollBatteryAndWriteJs();
-            bootTimer = setTimeout(pollBatteryAndWriteJs, 5000);
+            bootTimer = setTimeout(function () {
+                if (!lastWeather) fetchWeatherCache();
+                pollBatteryAndWriteJs();
+            }, 5000);
             if (bootTimer.unref) bootTimer.unref();
             batteryTimer = setInterval(pollBatteryAndWriteJs, 60000);
             if (batteryTimer.unref) batteryTimer.unref();
+            weatherTimer = setInterval(fetchWeatherCache, WEATHER_INTERVAL_MS);
+            if (weatherTimer.unref) weatherTimer.unref();
         },
         stop: function () {
             if (bootTimer) clearTimeout(bootTimer);
             bootTimer = null;
             if (batteryTimer) clearInterval(batteryTimer);
             batteryTimer = null;
+            if (weatherTimer) clearInterval(weatherTimer);
+            weatherTimer = null;
         },
         status: function () {
             return readFastMetrics();

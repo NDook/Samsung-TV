@@ -731,8 +731,8 @@
                 <span class="weather-icon" id="weatherIcon">⛅</span>
                 <div class="weather-details">
                     <div class="weather-temp-row">
-                        <span class="weather-temp" id="weatherTemp">15°</span>
-                        <span class="weather-condition" id="weatherCondition">En direct</span>
+                        <span class="weather-temp" id="weatherTemp">--°</span>
+                        <span class="weather-condition" id="weatherCondition">Météo</span>
                     </div>
                     <div class="weather-city" id="weatherCity">Bourg-en-Bresse</div>
                 </div>
@@ -810,7 +810,7 @@
                 <span class="system-status-text" id="systemStatusText">Système fluide</span>
                 <span class="system-status-ram" id="ramSummaryText">• Mémoire saine</span>
             </div>
-            <span class="app-version" id="appVersion">v4.4.0</span>
+            <span class="app-version" id="appVersion">v4.5.0</span>
         </div>
     </footer>
 
@@ -1109,6 +1109,18 @@
             }
         }
 
+        function updatePs5BadgeUi(isActive) {
+            var badge = dockTrackEl.querySelector('.app-tile[data-app-id="source:15"] .source-status-badge');
+            if (!badge) return;
+            if (isActive) {
+                badge.className = 'source-status-badge active';
+                badge.innerHTML = '<span class="badge-dot"></span>Allumée';
+            } else {
+                badge.className = 'source-status-badge';
+                badge.innerHTML = '<span class="badge-dot standby"></span>HDMI 3';
+            }
+        }
+
         function applyMetricsObject(m) {
             if (!m) return;
             var isStale = (m.ts && (Date.now() - m.ts) > 15 * 60 * 1000);
@@ -1128,13 +1140,19 @@
             if (!hasNativeRam && m.ram && m.ram.availableMb && m.ram.totalMb) {
                 applyRamUi(m.ram.availableMb, m.ram.totalMb);
             }
+            if (m.weather) {
+                applyWeatherUi(m.weather);
+            }
             if (m.hdmi3) {
                 var plugged = (m.hdmi3.plugged === 1 || m.hdmi3.plugged === true);
                 var active = (m.hdmi3.active === 1 || m.hdmi3.active === true);
-                if (lastHdmi3Plugged !== plugged || lastHdmi3Active !== active) {
+                if (lastHdmi3Plugged !== plugged) {
                     lastHdmi3Plugged = plugged;
                     lastHdmi3Active = active;
                     renderDock();
+                } else if (lastHdmi3Active !== active) {
+                    lastHdmi3Active = active;
+                    updatePs5BadgeUi(active);
                 }
             }
         }
@@ -1235,6 +1253,8 @@
         function renderDock() {
             dockTrackEl.innerHTML = '';
             tileEls = [];
+            lastHdmi3Plugged = isHdmi3Plugged();
+            lastHdmi3Active = isHdmi3Active();
             visibleApps = getVisibleApps();
 
             if (currentIndex > visibleApps.length) {
@@ -1247,6 +1267,7 @@
                 var tile = document.createElement('div');
                 tile.className = 'app-tile' + (i === currentIndex ? (editMode ? ' editing' : ' focused') : '');
                 tile.id = 'tile-' + i;
+                tile.setAttribute('data-app-id', app.id);
                 if (BRAND_BACKGROUNDS[app.id]) {
                     tile.style.backgroundColor = BRAND_BACKGROUNDS[app.id];
                 }
@@ -1542,56 +1563,35 @@
             return { desc: "Variable", icon: "⛅" };
         }
 
-        function fetchWeather() {
-            if (document.hidden) return;
-            try {
-                var url = "https://api.open-meteo.com/v1/forecast?latitude=46.2056&longitude=5.2203&current=temperature_2m,weather_code,is_day&timezone=Europe%2FParis";
-                var xhr = new XMLHttpRequest();
-                xhr.open("GET", url, true);
-                xhr.timeout = 8000;
-                xhr.onload = function() {
-                    if (xhr.status >= 200 && xhr.status < 300) {
-                        try {
-                            var data = JSON.parse(xhr.responseText);
-                            if (data && data.current) {
-                                var temp = Math.round(data.current.temperature_2m);
-                                var isDay = data.current.is_day !== 0;
-                                var wmo = getWeatherWmoInfo(data.current.weather_code, isDay);
-                                var tempEl = document.getElementById('weatherTemp');
-                                var condEl = document.getElementById('weatherCondition');
-                                var iconEl = document.getElementById('weatherIcon');
-                                if (tempEl) tempEl.textContent = temp + "°";
-                                if (condEl) condEl.textContent = wmo.desc;
-                                if (iconEl) iconEl.textContent = wmo.icon;
-                            }
-                        } catch (e) {}
-                    }
-                };
-                xhr.onerror = function() {};
-                xhr.send();
-            } catch (e) {}
+        function applyWeatherUi(w) {
+            if (!w || w.temp == null) return;
+            var wmo = getWeatherWmoInfo(w.code, w.isDay !== false);
+            var tempEl = document.getElementById('weatherTemp');
+            var condEl = document.getElementById('weatherCondition');
+            var iconEl = document.getElementById('weatherIcon');
+            var cityEl = document.getElementById('weatherCity');
+            if (tempEl) tempEl.textContent = w.temp + "°";
+            if (condEl) condEl.textContent = wmo.desc;
+            if (iconEl) iconEl.textContent = wmo.icon;
+            if (cityEl && w.city) cityEl.textContent = w.city;
         }
 
         var clockTimer = null;
         var metricsTimer = null;
-        var weatherTimer = null;
 
         function stopTimers() {
             if (clockTimer) { clearInterval(clockTimer); clockTimer = null; }
             if (metricsTimer) { clearInterval(metricsTimer); metricsTimer = null; }
-            if (weatherTimer) { clearInterval(weatherTimer); weatherTimer = null; }
         }
 
         function startTimers() {
             stopTimers();
             clockTimer = setInterval(updateClock, 15000);
             metricsTimer = setInterval(refreshMetrics, 30000);
-            weatherTimer = setInterval(fetchWeather, 15 * 60 * 1000);
         }
 
         updateClock();
         updateQuote(true);
-        fetchWeather();
         if (!document.hidden) startTimers();
 
         function showToast(msg) {
@@ -2054,7 +2054,6 @@
                 updateHeaderTitle();
                 updateClock();
                 updateQuote(true);
-                fetchWeather();
                 refreshMetrics();
                 startTimers();
             } else {
@@ -2064,6 +2063,7 @@
 
         loadDockApps();
         renderDock();
+        if (window.__TV_METRICS__) applyMetricsObject(window.__TV_METRICS__);
         loadAllInstalledApps();
         refreshMetrics();
 
