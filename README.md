@@ -11,6 +11,7 @@
 - 📜 **Pensée & Citation philosophique du jour** : Une citation inspirante aléatoire à chaque allumage de la TV ou retour à l'accueil parmi un recueil soigné de 64 pensées (Sénèque, Marc Aurèle, Lao Tseu, Socrate, Nietzsche, Camus, Saint-Exupéry, Confucius, Oscar Wilde, Einstein...). Un algorithme de *tirage sans remise (deck Fisher-Yates)* stocké localement garantit zéro répétition avant épuisement complet du cycle.
 - 🕒 **Horloge & Date en temps réel** : Affichage discret et actualisé avec l'heure exacte et la date du jour en français.
 - ⛅ **Météo en direct** : Widget météo discret indiquant la température et l'état du ciel en temps réel.
+- 📻 **Radio en direct intégrée** : Tuile dédiée dans le dock ouvrant un lecteur radio 60 FPS avec 6 stations FM françaises (*Chérie FM*, *Europe 2*, *RTL2*, *NRJ*, *RFM*, *France Inter*), mémorisation de la dernière station écoutée, reconnexion douce et **mode écran sombre** (horloge discrète + économie d'écran QLED). Arrêt automatique et libération du flux dès la sortie ou le lancement d'une autre application.
 - 🎮 **Détection dynamique PS5 (HDMI 3)** : La tuile PlayStation 5 n'apparaît dans le dock que lorsque la console est branchée et allumée sur le port HDMI 3. Dès son extinction ou débranchement, le dock s'ajuste automatiquement sans laisser de tuile inutile.
 - 🗂️ **Dock entièrement personnalisable** :
   - **Ajout d'applications** : Catalogue intégré répertoriant toutes les applications installées sur la TV avec découverte automatique.
@@ -85,6 +86,16 @@ mon-accueil-tv/
 | **Touche Verte** | Raccourci direct pour ouvrir le catalogue d'applications |
 | **Touches 1 à 7** | Lancement direct des 7 premières applications du dock |
 | **Retour** | Fermer le catalogue / Revenir à l'accueil |
+
+### Contrôles du lecteur Radio
+
+| Bouton | Action |
+|---|---|
+| **◀ / ▶** | Choisir une station (Chérie FM, Europe 2, RTL2, NRJ, RFM, France Inter) |
+| **OK / Lecture-Pause** | Lancer la station sélectionnée ou mettre en pause / reprendre le direct |
+| **Touches 1 à 6** | Accès direct aux stations 1 à 6 |
+| **▼ (Flèche Bas)** | Activer le mode écran sombre (toute touche rallume l'écran) |
+| **Retour / Stop** | Arrêter le flux audio et revenir à l'accueil |
 
 ---
 

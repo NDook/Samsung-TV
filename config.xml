@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns:tizen="http://tizen.org/ns/widgets" xmlns="http://www.w3.org/ns/widgets" id="http://antigravity.local/CustomHome" version="4.5.0" viewmodes="maximized">
+<widget xmlns:tizen="http://tizen.org/ns/widgets" xmlns="http://www.w3.org/ns/widgets" id="http://antigravity.local/CustomHome" version="4.6.0" viewmodes="maximized">
     <access origin="https://api.open-meteo.com" subdomains="false"/>
+    <access origin="https://nrjaudio.fm" subdomains="true"/>
+    <access origin="https://lmn.fm" subdomains="true"/>
+    <access origin="https://rtl2.fr" subdomains="true"/>
+    <access origin="https://audiomeans.fr" subdomains="true"/>
+    <access origin="https://radiofrance.fr" subdomains="true"/>
     <tizen:app-control>
         <tizen:src name="index.html" reload="disable"/>
         <tizen:operation name="http://samsung.com/appcontrol/operation/eden_resume"/>

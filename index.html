@@ -690,6 +690,331 @@
             box-sizing: border-box;
         }
 
+        /* Lecteur Radio en Direct & Mode Écran Sombre */
+        .radio-modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 1920px;
+            height: 1080px;
+            background: #070b12;
+            z-index: 1100;
+            display: none;
+            flex-direction: column;
+            justify-content: space-between;
+            padding: 44px 64px 32px 64px;
+            box-sizing: border-box;
+            overflow: hidden;
+        }
+        .radio-modal.open {
+            display: flex;
+        }
+        .radio-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-shrink: 0;
+        }
+        .radio-title {
+            font-size: 34px;
+            font-weight: 900;
+            color: #f8fafc;
+            letter-spacing: 0.8px;
+        }
+        .radio-sub {
+            font-size: 17px;
+            color: #94a3b8;
+            margin-top: 4px;
+        }
+        .radio-status-pill {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            background: #0f172a;
+            border: 2px solid rgba(255, 255, 255, 0.12);
+            border-radius: 999px;
+            padding: 10px 22px;
+            font-size: 17px;
+            font-weight: 800;
+            color: #94a3b8;
+            letter-spacing: 0.5px;
+        }
+        .radio-status-dot {
+            width: 11px;
+            height: 11px;
+            border-radius: 50%;
+            background: #64748b;
+        }
+        .radio-status-pill.is-live {
+            border-color: rgba(34, 197, 94, 0.45);
+            color: #4ade80;
+        }
+        .radio-status-pill.is-live .radio-status-dot {
+            background: #22c55e;
+        }
+        .radio-status-pill.is-loading {
+            border-color: rgba(56, 189, 248, 0.45);
+            color: #38bdf8;
+        }
+        .radio-status-pill.is-loading .radio-status-dot {
+            background: #38bdf8;
+        }
+        .radio-status-pill.is-paused {
+            border-color: rgba(245, 158, 11, 0.45);
+            color: #fbbf24;
+        }
+        .radio-status-pill.is-paused .radio-status-dot {
+            background: #f59e0b;
+        }
+        .radio-status-pill.is-error {
+            border-color: rgba(239, 68, 68, 0.45);
+            color: #f87171;
+        }
+        .radio-status-pill.is-error .radio-status-dot {
+            background: #ef4444;
+        }
+
+        .radio-hero {
+            background: #0f172a;
+            border: 2px solid rgba(255, 255, 255, 0.1);
+            border-radius: 28px;
+            padding: 36px 46px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 36px;
+        }
+        .radio-hero-left {
+            display: flex;
+            align-items: center;
+            gap: 34px;
+            min-width: 0;
+        }
+        .radio-hero-logo {
+            width: 136px;
+            height: 136px;
+            border-radius: 28px;
+            overflow: hidden;
+            flex-shrink: 0;
+            background: #06090e;
+        }
+        .radio-hero-logo svg {
+            width: 100%;
+            height: 100%;
+            display: block;
+        }
+        .radio-hero-info {
+            display: flex;
+            flex-direction: column;
+            min-width: 0;
+        }
+        .radio-hero-name {
+            font-size: 52px;
+            font-weight: 900;
+            color: #f8fafc;
+            line-height: 1.1;
+            letter-spacing: 0.4px;
+        }
+        .radio-hero-tagline {
+            font-size: 22px;
+            font-weight: 600;
+            color: #94a3b8;
+            margin-top: 6px;
+        }
+        .radio-hero-state {
+            font-size: 19px;
+            font-weight: 700;
+            color: #38bdf8;
+            margin-top: 14px;
+        }
+        .radio-eq {
+            display: flex;
+            align-items: flex-end;
+            gap: 10px;
+            height: 60px;
+            padding-right: 12px;
+            flex-shrink: 0;
+        }
+        .radio-eq-bar {
+            width: 10px;
+            height: 56px;
+            border-radius: 5px;
+            background: #38bdf8;
+            transform-origin: bottom center;
+            transform: scaleY(0.18);
+            transition: transform 180ms ease;
+        }
+        .radio-eq.playing .radio-eq-bar {
+            animation: radioEqBounce 850ms ease-in-out infinite alternate;
+        }
+        .radio-eq.playing .radio-eq-bar:nth-child(1) { animation-delay: 0ms; }
+        .radio-eq.playing .radio-eq-bar:nth-child(2) { animation-delay: 220ms; }
+        .radio-eq.playing .radio-eq-bar:nth-child(3) { animation-delay: 440ms; }
+        .radio-eq.playing .radio-eq-bar:nth-child(4) { animation-delay: 140ms; }
+        @keyframes radioEqBounce {
+            0% { transform: scaleY(0.24); }
+            50% { transform: scaleY(0.95); }
+            100% { transform: scaleY(0.42); }
+        }
+        @media (prefers-reduced-motion: reduce) {
+            .radio-eq.playing .radio-eq-bar {
+                animation: none !important;
+                transform: scaleY(0.65);
+            }
+            .radio-station-card {
+                transition: none !important;
+            }
+        }
+
+        .radio-stations-row {
+            display: grid;
+            grid-template-columns: repeat(6, 1fr);
+            gap: 20px;
+            width: 100%;
+        }
+        .radio-station-card {
+            background: #131b29;
+            border: 2px solid rgba(255, 255, 255, 0.08);
+            border-radius: 24px;
+            padding: 28px 16px 22px 16px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            position: relative;
+            transform: translate3d(0, 0, 0);
+            transition: transform 110ms cubic-bezier(0.2, 0.9, 0.3, 1);
+            will-change: transform;
+            min-width: 0;
+        }
+        .radio-station-card.focused {
+            transform: translate3d(0, -10px, 0) scale(1.04);
+            border-color: transparent;
+            box-shadow: 0 0 0 3.5px #38bdf8;
+            background-color: #1c283d;
+            z-index: 2;
+        }
+        .radio-station-card.playing {
+            border-color: rgba(34, 197, 94, 0.65);
+        }
+        .radio-station-card.focused.playing {
+            border-color: transparent;
+            box-shadow: 0 0 0 3.5px #38bdf8;
+        }
+        .radio-key-num {
+            position: absolute;
+            top: 12px;
+            left: 14px;
+            font-size: 13px;
+            font-weight: 800;
+            color: #64748b;
+            background: rgba(255, 255, 255, 0.06);
+            border-radius: 8px;
+            padding: 3px 9px;
+        }
+        .radio-live-badge {
+            position: absolute;
+            top: 12px;
+            right: 12px;
+            font-size: 11px;
+            font-weight: 900;
+            color: #4ade80;
+            background: rgba(34, 197, 94, 0.14);
+            border: 1px solid rgba(34, 197, 94, 0.38);
+            border-radius: 999px;
+            padding: 3px 9px;
+            display: none;
+        }
+        .radio-station-card.playing .radio-live-badge {
+            display: block;
+        }
+        .radio-station-logo {
+            width: 100px;
+            height: 100px;
+            border-radius: 22px;
+            overflow: hidden;
+            margin-top: 10px;
+            margin-bottom: 14px;
+            flex-shrink: 0;
+        }
+        .radio-station-logo svg {
+            width: 100%;
+            height: 100%;
+            display: block;
+        }
+        .radio-station-name {
+            font-size: 22px;
+            font-weight: 800;
+            color: #f8fafc;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            max-width: 100%;
+        }
+        .radio-station-sub {
+            font-size: 13px;
+            font-weight: 600;
+            color: #94a3b8;
+            margin-top: 4px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            max-width: 100%;
+        }
+        .radio-footer-hint {
+            font-size: 17px;
+            color: #94a3b8;
+            border-top: 2px solid #1e293b;
+            padding-top: 14px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-shrink: 0;
+            box-sizing: border-box;
+        }
+
+        .radio-dark-screen {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 1920px;
+            height: 1080px;
+            background: #000000;
+            z-index: 1200;
+            display: none;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: 16px;
+        }
+        .radio-dark-screen.open {
+            display: flex;
+        }
+        .radio-dark-clock {
+            font-size: 92px;
+            font-weight: 700;
+            color: #334155;
+            letter-spacing: 2px;
+            line-height: 1;
+        }
+        .radio-dark-station {
+            font-size: 28px;
+            font-weight: 700;
+            color: #475569;
+            margin-top: 8px;
+        }
+        .radio-dark-state {
+            font-size: 18px;
+            font-weight: 600;
+            color: #334155;
+        }
+        .radio-dark-hint {
+            font-size: 15px;
+            font-weight: 600;
+            color: #1e293b;
+            margin-top: 32px;
+        }
+
         .toast {
             position: fixed;
             bottom: 125px;
@@ -810,7 +1135,7 @@
                 <span class="system-status-text" id="systemStatusText">Système fluide</span>
                 <span class="system-status-ram" id="ramSummaryText">• Mémoire saine</span>
             </div>
-            <span class="app-version" id="appVersion">v4.5.0</span>
+            <span class="app-version" id="appVersion">v4.6.0</span>
         </div>
     </footer>
 
@@ -831,6 +1156,53 @@
             <div>Touche Retour pour fermer</div>
         </div>
     </div>
+
+    <!-- Lecteur Radio en Direct & Mode Écran Sombre -->
+    <div class="radio-modal" id="radioModal">
+        <div class="radio-header">
+            <div>
+                <div class="radio-title">RADIO EN DIRECT</div>
+                <div class="radio-sub">6 stations FM françaises • Flux audio officiel</div>
+            </div>
+            <div class="radio-status-pill" id="radioStatusPill">
+                <span class="radio-status-dot" id="radioStatusDot"></span>
+                <span id="radioStatusLabel">Prêt</span>
+            </div>
+        </div>
+
+        <div class="radio-hero" id="radioHero">
+            <div class="radio-hero-left">
+                <div class="radio-hero-logo" id="radioHeroLogo"></div>
+                <div class="radio-hero-info">
+                    <div class="radio-hero-name" id="radioHeroName">Chérie FM</div>
+                    <div class="radio-hero-tagline" id="radioHeroTagline">La plus belle musique</div>
+                    <div class="radio-hero-state" id="radioHeroState">Chargement du flux...</div>
+                </div>
+            </div>
+            <div class="radio-eq" id="radioEq">
+                <span class="radio-eq-bar"></span>
+                <span class="radio-eq-bar"></span>
+                <span class="radio-eq-bar"></span>
+                <span class="radio-eq-bar"></span>
+            </div>
+        </div>
+
+        <div class="radio-stations-row" id="radioStationsRow"></div>
+
+        <div class="radio-footer-hint">
+            <div>◀ ▶ Choisir une station • OK Écouter / Pause • 1–6 Accès direct • ▼ Écran sombre</div>
+            <div>Touche Retour pour quitter la radio</div>
+        </div>
+    </div>
+
+    <div class="radio-dark-screen" id="radioDarkScreen">
+        <div class="radio-dark-clock" id="radioDarkClock">--:--</div>
+        <div class="radio-dark-station" id="radioDarkStation">Chérie FM</div>
+        <div class="radio-dark-state" id="radioDarkState">● En direct</div>
+        <div class="radio-dark-hint">Appuyez sur une touche pour rallumer l'écran</div>
+    </div>
+
+    <audio id="radioAudio" preload="none"></audio>
 
     <div class="toast" id="toast">Ouverture...</div>
 
@@ -881,7 +1253,8 @@
             "Jz7aUrV2Q4.Twitch": "#9146FF",
             "tCz5WMFzVa.LiveTV": "#0055a5",
             "w0wZu3xkQq.GeForceNOW": "#101820",
-            "source:15": "#003791"
+            "source:15": "#003791",
+            "builtin:radio": "#1a1033"
         };
 
         // Banques de logos vectoriels pour les applications de streaming populaires
@@ -903,10 +1276,12 @@
             "bstjKvX6LM.molotov": '<svg class="vector-logo" viewBox="0 0 200 200"><rect width="200" height="200" fill="#ffc800"/><text x="100" y="116" fill="#111111" font-family="Arial Black, sans-serif" font-weight="900" font-size="32" text-anchor="middle">molotov</text></svg>',
             "aLlph042JZ.arte": '<svg class="vector-logo" viewBox="0 0 200 200"><rect width="200" height="200" fill="#ff5500"/><text x="100" y="116" fill="#ffffff" font-family="Arial Black, sans-serif" font-weight="900" font-size="38" text-anchor="middle">arte</text></svg>',
             "Jz7aUrV2Q4.Twitch": '<svg class="vector-logo" viewBox="0 0 200 200"><rect width="200" height="200" fill="#9146FF"/><text x="100" y="116" fill="#ffffff" font-family="Arial Black, sans-serif" font-weight="900" font-size="34" text-anchor="middle">Twitch</text></svg>',
-            "org.tizen.browser": '<svg class="vector-logo" viewBox="0 0 200 200"><rect width="200" height="200" fill="#0284c7"/><circle cx="100" cy="100" r="54" fill="none" stroke="#ffffff" stroke-width="7"/><ellipse cx="100" cy="100" rx="26" ry="54" fill="none" stroke="#ffffff" stroke-width="6"/><line x1="46" y1="100" x2="154" y2="100" stroke="#ffffff" stroke-width="6"/></svg>'
+            "org.tizen.browser": '<svg class="vector-logo" viewBox="0 0 200 200"><rect width="200" height="200" fill="#0284c7"/><circle cx="100" cy="100" r="54" fill="none" stroke="#ffffff" stroke-width="7"/><ellipse cx="100" cy="100" rx="26" ry="54" fill="none" stroke="#ffffff" stroke-width="6"/><line x1="46" y1="100" x2="154" y2="100" stroke="#ffffff" stroke-width="6"/></svg>',
+            "builtin:radio": '<svg class="vector-logo" viewBox="0 0 200 200"><rect width="200" height="200" fill="#1a1033"/><circle cx="100" cy="78" r="44" fill="none" stroke="#ec4899" stroke-width="6" opacity="0.35"/><circle cx="100" cy="78" r="28" fill="none" stroke="#38bdf8" stroke-width="6" opacity="0.65"/><circle cx="100" cy="78" r="12" fill="#f472b6"/><line x1="100" y1="78" x2="100" y2="122" stroke="#f8fafc" stroke-width="7" stroke-linecap="round"/><text x="100" y="158" fill="#ffffff" font-family="Arial Black, sans-serif" font-weight="900" font-size="28" text-anchor="middle" letter-spacing="2">RADIO</text></svg>'
         };
 
         var PS5_APP = { id: "source:15", name: "PlayStation 5", isSource: true, sourceType: 15 };
+        var RADIO_APP = { id: "builtin:radio", name: "Radio", isRadio: true };
         var INITIAL_APPS = [
             { id: "QmpwflxWdt.CanalPlusLauncher", name: "CANAL+" },
             { id: "org.tizen.netflix-app", name: "Netflix" },
@@ -916,7 +1291,8 @@
             { id: "AprZAARz4r.Jellyfin", name: "Jellyfin" },
             { id: "tUb3Xq7Lm9.Tube", name: "YouTube Sans Pub" },
             { id: "QY16tZ64E3.francetv", name: "france.tv" },
-            { id: "znCs95n93Q.OqeeTV", name: "Free TV (OQEE)" }
+            { id: "znCs95n93Q.OqeeTV", name: "Free TV (OQEE)" },
+            { id: "builtin:radio", name: "Radio", isRadio: true }
         ];
 
         var STORAGE_KEY_V2 = "custom_home_dock_apps_v2";
@@ -971,6 +1347,13 @@
             }
             if (!hasPs5 && !localStorage.getItem("custom_home_ps5_removed")) {
                 APPS.splice(4, 0, PS5_APP);
+            }
+            var hasRadio = false;
+            for (var r = 0; r < APPS.length; r++) {
+                if (APPS[r].id === "builtin:radio") { hasRadio = true; break; }
+            }
+            if (!hasRadio && !localStorage.getItem("custom_home_radio_removed")) {
+                APPS.push(RADIO_APP);
             }
             saveDockApps();
         }
@@ -1049,7 +1432,7 @@
         // Enregistrement des touches de la télécommande physique (Tizen TV Input Device)
         try {
             if (typeof tizen !== 'undefined' && tizen.tvinputdevice && tizen.tvinputdevice.registerKey) {
-                var neededKeys = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'ColorF0Red', 'ColorF1Green', 'ColorF2Yellow', 'ColorF3Blue', 'MediaPlayPause'];
+                var neededKeys = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'ColorF0Red', 'ColorF1Green', 'ColorF2Yellow', 'ColorF3Blue', 'MediaPlayPause', 'MediaPlay', 'MediaPause', 'MediaStop'];
                 for (var k = 0; k < neededKeys.length; k++) {
                     try { tizen.tvinputdevice.registerKey(neededKeys[k]); } catch (errKey) {}
                 }
@@ -1326,7 +1709,8 @@
             "QY16tZ64E3.francetv": "rgba(59, 130, 246, 0.24)",
             "kIciSQlYEM.plex": "rgba(234, 179, 8, 0.24)",
             "bstjKvX6LM.molotov": "rgba(245, 158, 11, 0.24)",
-            "org.tizen.browser": "rgba(14, 165, 233, 0.22)"
+            "org.tizen.browser": "rgba(14, 165, 233, 0.22)",
+            "builtin:radio": "rgba(236, 72, 153, 0.28)"
         };
 
         var currentAmbientIsA = true;
@@ -1543,7 +1927,10 @@
             var now = new Date();
             var h = ('0' + now.getHours()).slice(-2);
             var m = ('0' + now.getMinutes()).slice(-2);
-            document.getElementById('clock').textContent = h + ':' + m;
+            var timeStr = h + ':' + m;
+            document.getElementById('clock').textContent = timeStr;
+            var darkClockEl = document.getElementById('radioDarkClock');
+            if (darkClockEl) darkClockEl.textContent = timeStr;
             var days = ['Dimanche','Lundi','Mardi','Mercredi','Jeudi','Vendredi','Samedi'];
             var months = ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'];
             document.getElementById('date').textContent = days[now.getDay()] + ' ' + now.getDate() + ' ' + months[now.getMonth()];
@@ -1673,6 +2060,8 @@
             }
             if (app.id === 'source:15') {
                 try { localStorage.setItem("custom_home_ps5_removed", "1"); } catch (e) {}
+            } else if (app.id === 'builtin:radio') {
+                try { localStorage.setItem("custom_home_radio_removed", "1"); } catch (e) {}
             }
             var removedName = app.name;
             var realIdx = APPS.indexOf(app);
@@ -1717,7 +2106,8 @@
             { id: "CmeyUlnhYY.LunaWebApp", name: "Amazon Luna" },
             { id: "MiUDVawh7P.UtomikTizen", name: "Utomik" },
             { id: "BnhhSh4SVH.SFR", name: "RMC BFM Play" },
-            { id: "AQKO41xyKP.AmazonAlexa", name: "Amazon Alexa" }
+            { id: "AQKO41xyKP.AmazonAlexa", name: "Amazon Alexa" },
+            { id: "builtin:radio", name: "Radio", isRadio: true }
         ];
 
         var BANNED_PATTERNS = [
@@ -1916,10 +2306,19 @@
                 showToast(app.name + " est déjà sur l'accueil !");
                 return;
             }
-            APPS.push({
+            var newAppEntry = {
                 id: app.id,
                 name: app.name
-            });
+            };
+            if (app.id === "builtin:radio") {
+                newAppEntry.isRadio = true;
+                try { localStorage.removeItem("custom_home_radio_removed"); } catch (e) {}
+            } else if (app.id === "source:15") {
+                newAppEntry.isSource = true;
+                newAppEntry.sourceType = 15;
+                try { localStorage.removeItem("custom_home_ps5_removed"); } catch (e) {}
+            }
+            APPS.push(newAppEntry);
             saveDockApps();
             closeCatalog();
             var vis = getVisibleApps();
@@ -1986,6 +2385,348 @@
             done();
         }
 
+        // Lecteur Radio en Direct (6 stations FM françaises + Écran sombre QLED)
+        var RADIO_LAST_KEY = "custom_home_last_radio_id";
+        var RADIO_STATIONS = [
+            {
+                id: "cheriefm",
+                name: "Chérie FM",
+                tagline: "La plus belle musique",
+                accent: "#e11d48",
+                url: "https://streaming.nrjaudio.fm/ouuku85n3nje?origine=fluxradios",
+                svg: '<svg viewBox="0 0 200 200"><rect width="200" height="200" fill="#2a0a18"/><circle cx="100" cy="64" r="24" fill="#e11d48" opacity="0.22"/><text x="100" y="96" fill="#f43f5e" font-family="Arial Black, sans-serif" font-weight="900" font-size="34" text-anchor="middle">CHÉRIE</text><rect x="64" y="112" width="72" height="32" rx="10" fill="#e11d48"/><text x="100" y="136" fill="#ffffff" font-family="Arial Black, sans-serif" font-weight="900" font-size="22" text-anchor="middle">FM</text></svg>'
+            },
+            {
+                id: "europe2",
+                name: "Europe 2",
+                tagline: "Pop Radio",
+                accent: "#0ea5e9",
+                url: "https://europe2.lmn.fm/europe2.mp3",
+                svg: '<svg viewBox="0 0 200 200"><rect width="200" height="200" fill="#06182c"/><circle cx="100" cy="100" r="64" fill="none" stroke="#0ea5e9" stroke-width="5" opacity="0.35"/><text x="100" y="88" fill="#ffffff" font-family="Arial Black, sans-serif" font-weight="900" font-size="28" text-anchor="middle">EUROPE</text><text x="100" y="142" fill="#38bdf8" font-family="Arial Black, sans-serif" font-weight="900" font-size="52" text-anchor="middle">2</text></svg>'
+            },
+            {
+                id: "rtl2",
+                name: "RTL2",
+                tagline: "Le Son Pop-Rock",
+                accent: "#dc2626",
+                url: "https://icecast.rtl2.fr/rtl2-1-44-128",
+                svg: '<svg viewBox="0 0 200 200"><rect width="200" height="200" fill="#18080a"/><rect x="28" y="60" width="144" height="80" rx="18" fill="#dc2626"/><text x="86" y="114" fill="#ffffff" font-family="Arial Black, sans-serif" font-weight="900" font-size="40" text-anchor="middle">RTL</text><circle cx="144" cy="100" r="22" fill="#0f172a"/><text x="144" y="110" fill="#ffffff" font-family="Arial Black, sans-serif" font-weight="900" font-size="28" text-anchor="middle">2</text></svg>'
+            },
+            {
+                id: "nrj",
+                name: "NRJ",
+                tagline: "Hit Music Only!",
+                accent: "#ef4444",
+                url: "https://streaming.nrjaudio.fm/oumvmk8fnozc",
+                svg: '<svg viewBox="0 0 200 200"><rect width="200" height="200" fill="#1f0707"/><rect x="34" y="48" width="132" height="104" rx="22" fill="#ef4444"/><text x="100" y="118" fill="#ffffff" font-family="Arial Black, sans-serif" font-weight="900" font-size="48" text-anchor="middle" letter-spacing="2">NRJ</text></svg>'
+            },
+            {
+                id: "rfm",
+                name: "RFM",
+                tagline: "Le Meilleur de la Musique",
+                accent: "#3b82f6",
+                url: "https://rfm.lmn.fm/rfm.mp3",
+                svg: '<svg viewBox="0 0 200 200"><rect width="200" height="200" fill="#08122b"/><rect x="30" y="54" width="140" height="92" rx="20" fill="#1d4ed8"/><text x="100" y="116" fill="#ffffff" font-family="Arial Black, sans-serif" font-weight="900" font-size="46" text-anchor="middle" letter-spacing="2">RFM</text></svg>'
+            },
+            {
+                id: "franceinter",
+                name: "France Inter",
+                tagline: "Radio France • Direct",
+                accent: "#d90429",
+                url: "https://icecast.radiofrance.fr/franceinter-midfi.mp3",
+                svg: '<svg viewBox="0 0 200 200"><rect width="200" height="200" fill="#1b070c"/><rect x="28" y="46" width="144" height="14" rx="7" fill="#d90429"/><text x="100" y="102" fill="#f8fafc" font-family="Arial, sans-serif" font-weight="800" font-size="28" text-anchor="middle">france</text><text x="100" y="142" fill="#ff4d6d" font-family="Arial Black, sans-serif" font-weight="900" font-size="38" text-anchor="middle">inter</text></svg>'
+            }
+        ];
+
+        var radioModalEl = document.getElementById('radioModal');
+        var radioDarkScreenEl = document.getElementById('radioDarkScreen');
+        var radioAudioEl = document.getElementById('radioAudio');
+        var radioStationsRowEl = document.getElementById('radioStationsRow');
+        var radioStatusPillEl = document.getElementById('radioStatusPill');
+        var radioStatusLabelEl = document.getElementById('radioStatusLabel');
+        var radioHeroEl = document.getElementById('radioHero');
+        var radioHeroLogoEl = document.getElementById('radioHeroLogo');
+        var radioHeroNameEl = document.getElementById('radioHeroName');
+        var radioHeroTaglineEl = document.getElementById('radioHeroTagline');
+        var radioHeroStateEl = document.getElementById('radioHeroState');
+        var radioEqEl = document.getElementById('radioEq');
+        var radioDarkStationEl = document.getElementById('radioDarkStation');
+        var radioDarkStateEl = document.getElementById('radioDarkState');
+
+        var radioOpen = false;
+        var radioDarkMode = false;
+        var radioFocusIndex = 0;
+        var radioPlayingIndex = 0;
+        var radioState = 'stopped';
+        var radioRetryCount = 0;
+        var radioRetryTimer = null;
+        var radioCardEls = [];
+        var radioRendered = false;
+        var lastHeroStationId = '';
+
+        function getSavedRadioIndex() {
+            try {
+                var savedId = localStorage.getItem(RADIO_LAST_KEY);
+                if (savedId) {
+                    for (var i = 0; i < RADIO_STATIONS.length; i++) {
+                        if (RADIO_STATIONS[i].id === savedId) return i;
+                    }
+                }
+            } catch (e) {}
+            return 0;
+        }
+
+        function renderRadioStations() {
+            if (!radioStationsRowEl || radioRendered) return;
+            radioStationsRowEl.innerHTML = '';
+            radioCardEls = [];
+            for (var i = 0; i < RADIO_STATIONS.length; i++) {
+                var st = RADIO_STATIONS[i];
+                var card = document.createElement('div');
+                card.className = 'radio-station-card';
+                card.id = 'radio-card-' + i;
+                card.innerHTML = '<span class="radio-key-num">' + (i + 1) + '</span>' +
+                                 '<span class="radio-live-badge">● EN DIRECT</span>' +
+                                 '<div class="radio-station-logo">' + st.svg + '</div>' +
+                                 '<div class="radio-station-name">' + escapeHtml(st.name) + '</div>' +
+                                 '<div class="radio-station-sub">' + escapeHtml(st.tagline) + '</div>';
+                radioStationsRowEl.appendChild(card);
+                radioCardEls.push(card);
+            }
+            radioRendered = true;
+        }
+
+        function getRadioStateLabel() {
+            if (radioState === 'playing') return 'En direct • Flux audio actif';
+            if (radioState === 'loading') return 'Connexion au flux audio...';
+            if (radioState === 'reconnecting') return 'Reconnexion en cours (' + radioRetryCount + '/3)...';
+            if (radioState === 'paused') return 'En pause • OK pour reprendre le direct';
+            if (radioState === 'error') return 'Flux indisponible • OK pour réessayer';
+            return 'Prêt • Appuyez sur OK pour écouter';
+        }
+
+        function updateRadioUi() {
+            var activeStation = RADIO_STATIONS[radioPlayingIndex] || RADIO_STATIONS[0];
+            if (lastHeroStationId !== activeStation.id) {
+                lastHeroStationId = activeStation.id;
+                if (radioHeroLogoEl) radioHeroLogoEl.innerHTML = activeStation.svg;
+                if (radioHeroNameEl) radioHeroNameEl.textContent = activeStation.name;
+                if (radioHeroTaglineEl) radioHeroTaglineEl.textContent = activeStation.tagline;
+            }
+
+            var stateText = getRadioStateLabel();
+            if (radioHeroStateEl) {
+                radioHeroStateEl.textContent = stateText;
+                if (radioState === 'playing') radioHeroStateEl.style.color = '#4ade80';
+                else if (radioState === 'paused' || radioState === 'reconnecting') radioHeroStateEl.style.color = '#fbbf24';
+                else if (radioState === 'error') radioHeroStateEl.style.color = '#f87171';
+                else radioHeroStateEl.style.color = '#38bdf8';
+            }
+
+            if (radioHeroEl) {
+                radioHeroEl.style.borderColor = (radioState === 'playing') ? activeStation.accent : 'rgba(255, 255, 255, 0.1)';
+            }
+
+            if (radioStatusPillEl && radioStatusLabelEl) {
+                if (radioState === 'playing') {
+                    radioStatusPillEl.className = 'radio-status-pill is-live';
+                    radioStatusLabelEl.textContent = 'EN DIRECT';
+                } else if (radioState === 'loading') {
+                    radioStatusPillEl.className = 'radio-status-pill is-loading';
+                    radioStatusLabelEl.textContent = 'CONNEXION...';
+                } else if (radioState === 'reconnecting') {
+                    radioStatusPillEl.className = 'radio-status-pill is-paused';
+                    radioStatusLabelEl.textContent = 'RECONNEXION...';
+                } else if (radioState === 'paused') {
+                    radioStatusPillEl.className = 'radio-status-pill is-paused';
+                    radioStatusLabelEl.textContent = 'EN PAUSE';
+                } else if (radioState === 'error') {
+                    radioStatusPillEl.className = 'radio-status-pill is-error';
+                    radioStatusLabelEl.textContent = 'ERREUR';
+                } else {
+                    radioStatusPillEl.className = 'radio-status-pill';
+                    radioStatusLabelEl.textContent = 'ARRÊTÉ';
+                }
+            }
+
+            if (radioEqEl) {
+                var eqActive = (radioOpen && !radioDarkMode && radioState === 'playing');
+                radioEqEl.className = eqActive ? 'radio-eq playing' : 'radio-eq';
+                var bars = radioEqEl.querySelectorAll('.radio-eq-bar');
+                for (var b = 0; b < bars.length; b++) {
+                    bars[b].style.backgroundColor = (radioState === 'playing') ? activeStation.accent : '#38bdf8';
+                }
+            }
+
+            for (var i = 0; i < radioCardEls.length; i++) {
+                var card = radioCardEls[i];
+                var cls = 'radio-station-card';
+                if (i === radioFocusIndex) cls += ' focused';
+                if (i === radioPlayingIndex && (radioState === 'playing' || radioState === 'loading' || radioState === 'reconnecting')) {
+                    cls += ' playing';
+                }
+                card.className = cls;
+            }
+
+            if (radioDarkStationEl) radioDarkStationEl.textContent = activeStation.name;
+            if (radioDarkStateEl) {
+                if (radioState === 'playing') radioDarkStateEl.textContent = '● En direct';
+                else if (radioState === 'paused') radioDarkStateEl.textContent = '❚❚ En pause';
+                else if (radioState === 'loading' || radioState === 'reconnecting') radioDarkStateEl.textContent = 'Connexion au flux...';
+                else if (radioState === 'error') radioDarkStateEl.textContent = 'Flux indisponible';
+                else radioDarkStateEl.textContent = 'Arrêté';
+            }
+        }
+
+        function stopRadioAudio() {
+            if (radioRetryTimer) {
+                clearTimeout(radioRetryTimer);
+                radioRetryTimer = null;
+            }
+            radioRetryCount = 0;
+            radioState = 'stopped';
+            if (radioAudioEl) {
+                try { radioAudioEl.pause(); } catch (e) {}
+                try { radioAudioEl.removeAttribute('src'); } catch (e) {}
+                try { radioAudioEl.load(); } catch (e) {}
+            }
+        }
+
+        function playRadioStation(idx, isRetry) {
+            if (idx < 0 || idx >= RADIO_STATIONS.length) return;
+            if (!isRetry) radioRetryCount = 0;
+            if (radioRetryTimer) {
+                clearTimeout(radioRetryTimer);
+                radioRetryTimer = null;
+            }
+            radioPlayingIndex = idx;
+            radioFocusIndex = idx;
+            var station = RADIO_STATIONS[idx];
+            try { localStorage.setItem(RADIO_LAST_KEY, station.id); } catch (e) {}
+
+            radioState = isRetry ? 'reconnecting' : 'loading';
+            updateRadioUi();
+
+            if (!radioAudioEl) return;
+            var srcUrl = station.url;
+            if (isRetry) {
+                var sep = srcUrl.indexOf('?') === -1 ? '?' : '&';
+                srcUrl = srcUrl + sep + '_r=' + Date.now();
+            }
+            radioAudioEl.src = srcUrl;
+            radioAudioEl.load();
+            try {
+                var playPromise = radioAudioEl.play();
+                if (playPromise && typeof playPromise['catch'] === 'function') {
+                    playPromise['catch'](function() {});
+                }
+            } catch (e) {}
+        }
+
+        function toggleRadioPlayPause() {
+            if (!radioAudioEl) return;
+            if (radioState === 'playing' || radioState === 'loading' || radioState === 'reconnecting') {
+                if (radioRetryTimer) {
+                    clearTimeout(radioRetryTimer);
+                    radioRetryTimer = null;
+                }
+                radioState = 'paused';
+                try { radioAudioEl.pause(); } catch (e) {}
+                updateRadioUi();
+            } else {
+                playRadioStation(radioPlayingIndex, false);
+            }
+        }
+
+        function scheduleRadioReconnect() {
+            if (!radioOpen || radioState === 'stopped' || radioState === 'paused') return;
+            if (radioRetryTimer) return;
+            if (radioRetryCount < 3) {
+                radioRetryCount++;
+                radioState = 'reconnecting';
+                updateRadioUi();
+                radioRetryTimer = setTimeout(function() {
+                    radioRetryTimer = null;
+                    if (radioOpen && radioState === 'reconnecting') {
+                        playRadioStation(radioPlayingIndex, true);
+                    }
+                }, 3000);
+            } else {
+                radioState = 'error';
+                updateRadioUi();
+            }
+        }
+
+        function setRadioDarkMode(on) {
+            radioDarkMode = !!on;
+            if (radioDarkScreenEl) {
+                if (radioDarkMode) {
+                    updateClock();
+                    radioDarkScreenEl.classList.add('open');
+                } else {
+                    radioDarkScreenEl.classList.remove('open');
+                }
+            }
+            updateRadioUi();
+        }
+
+        function openRadioPlayer() {
+            if (enterHoldTimer) {
+                clearTimeout(enterHoldTimer);
+                enterHoldTimer = null;
+            }
+            enterDownAt = 0;
+            enterLongTriggered = false;
+            radioOpen = true;
+            radioDarkMode = false;
+            if (radioDarkScreenEl) radioDarkScreenEl.classList.remove('open');
+            renderRadioStations();
+            radioFocusIndex = getSavedRadioIndex();
+            if (radioModalEl) radioModalEl.classList.add('open');
+            playRadioStation(radioFocusIndex, false);
+        }
+
+        function closeRadioPlayer() {
+            stopRadioAudio();
+            radioDarkMode = false;
+            radioOpen = false;
+            if (radioDarkScreenEl) radioDarkScreenEl.classList.remove('open');
+            if (radioModalEl) radioModalEl.classList.remove('open');
+            updateRadioUi();
+            updateHeaderTitle();
+        }
+
+        if (radioAudioEl) {
+            radioAudioEl.addEventListener('playing', function() {
+                if (!radioOpen || radioState === 'stopped') return;
+                radioState = 'playing';
+                radioRetryCount = 0;
+                if (radioRetryTimer) {
+                    clearTimeout(radioRetryTimer);
+                    radioRetryTimer = null;
+                }
+                updateRadioUi();
+            });
+            radioAudioEl.addEventListener('waiting', function() {
+                if (radioOpen && radioState === 'playing') {
+                    radioState = 'loading';
+                    updateRadioUi();
+                }
+            });
+            radioAudioEl.addEventListener('pause', function() {
+                if (radioOpen && radioState !== 'stopped' && radioState !== 'reconnecting' && radioState !== 'error') {
+                    radioState = 'paused';
+                    updateRadioUi();
+                }
+            });
+            radioAudioEl.addEventListener('error', function() {
+                scheduleRadioReconnect();
+            });
+            radioAudioEl.addEventListener('stalled', function() {
+                scheduleRadioReconnect();
+            });
+        }
+
         function launchSelected(index) {
             if (isLaunching || editMode) return;
             if (isAddTileIndex(index)) {
@@ -1997,6 +2738,11 @@
 
             if (appObj.id === "source:15" || appObj.isSource) {
                 launchHdmiSource(15, appObj.name || "PlayStation 5");
+                return;
+            }
+
+            if (appObj.id === "builtin:radio" || appObj.isRadio) {
+                openRadioPlayer();
                 return;
             }
 
@@ -2057,6 +2803,7 @@
                 refreshMetrics();
                 startTimers();
             } else {
+                if (radioOpen) closeRadioPlayer();
                 stopTimers();
             }
         });
@@ -2069,6 +2816,55 @@
 
         document.addEventListener('keydown', function(e) {
             var code = e.keyCode;
+
+            // 0. Lecteur Radio en Direct ouvert
+            if (radioOpen) {
+                if (radioDarkMode) {
+                    if (code === 10252) { // Play/Pause
+                        toggleRadioPlayPause();
+                    } else if (code === 415) { // Play
+                        if (radioState !== 'playing' && radioState !== 'loading') toggleRadioPlayPause();
+                    } else if (code === 19) { // Pause
+                        if (radioState === 'playing' || radioState === 'loading' || radioState === 'reconnecting') toggleRadioPlayPause();
+                    } else if (code === 413) { // Stop
+                        closeRadioPlayer();
+                    } else {
+                        setRadioDarkMode(false);
+                    }
+                    return;
+                }
+
+                if (code === 37) { // Flèche Gauche
+                    radioFocusIndex = (radioFocusIndex - 1 + RADIO_STATIONS.length) % RADIO_STATIONS.length;
+                    updateRadioUi();
+                } else if (code === 39) { // Flèche Droite
+                    radioFocusIndex = (radioFocusIndex + 1) % RADIO_STATIONS.length;
+                    updateRadioUi();
+                } else if (code === 40) { // Flèche Bas : Écran sombre
+                    setRadioDarkMode(true);
+                } else if (code === 13) { // OK
+                    if (radioFocusIndex !== radioPlayingIndex || radioState === 'error' || radioState === 'stopped') {
+                        playRadioStation(radioFocusIndex, false);
+                    } else {
+                        toggleRadioPlayPause();
+                    }
+                } else if (code === 10252) { // MediaPlayPause
+                    toggleRadioPlayPause();
+                } else if (code === 415) { // MediaPlay
+                    if (radioState !== 'playing' && radioState !== 'loading') {
+                        playRadioStation(radioFocusIndex, false);
+                    }
+                } else if (code === 19) { // MediaPause
+                    if (radioState === 'playing' || radioState === 'loading' || radioState === 'reconnecting') {
+                        toggleRadioPlayPause();
+                    }
+                } else if (code === 413 || code === 10009 || code === 27) { // Stop ou Retour
+                    closeRadioPlayer();
+                } else if (code >= 49 && code <= 48 + RADIO_STATIONS.length) { // Touches 1 à 6
+                    playRadioStation(code - 49, false);
+                }
+                return;
+            }
 
             // 1. Navigation dans le catalogue ouvert
             if (catalogOpen) {
@@ -2144,7 +2940,7 @@
 
         document.addEventListener('keyup', function(e) {
             if (e.keyCode === 13) {
-                if (catalogOpen) return;
+                if (radioOpen || catalogOpen) return;
                 if (isAddTileIndex(currentIndex)) return;
 
                 if (enterHoldTimer) {

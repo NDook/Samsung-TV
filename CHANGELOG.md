@@ -4,6 +4,12 @@ Toutes les modifications notables apportées à **Mon Accueil TV** sont document
 
 ---
 
+## [v4.6.0] - 2026-11-23
+### Modifications
+- Lecteur Radio en direct intégré (tuile dock dédiée + catalogue) : 6 stations FM françaises (Chérie FM, Europe 2, RTL2, NRJ, RFM, France Inter), mémorisation de la dernière station, reconnexion douce, touches médias télécommande, mode écran sombre QLED (flèche bas), arrêt automatique à la sortie et autorisations réseau explicites dans config.xml.
+
+---
+
 ## [v4.5.0] - 2026-11-22
 ### Modifications
 - Météo instantanée en cache tmpfs via le plugin mon-accueil-metrics (zéro requête réseau depuis le lanceur, zéro flash 15°) et mise à jour ciblée du badge PS5 HDMI 3 sans reconstruire tout le dock.
